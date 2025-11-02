@@ -568,7 +568,7 @@
 				)
 			)
 		)
-		(property "DigiKey" ""
+		(property "DigiKey" "311-1.50KLRCT-ND"
 			(at 0 0 180)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -581,7 +581,7 @@
 				)
 			)
 		)
-		(property "Mouser" ""
+		(property "Mouser" "603-RC0402FR-071K5L"
 			(at 0 0 180)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -594,7 +594,7 @@
 				)
 			)
 		)
-		(property "TME" ""
+		(property "TME" "RC0402FR-071K5L"
 			(at 0 0 180)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -607,7 +607,7 @@
 				)
 			)
 		)
-		(property "LCSC" ""
+		(property "LCSC" "C114759"
 			(at 0 0 180)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -820,7 +820,7 @@
 				)
 			)
 		)
-		(attr board_only)
+		(attr board_only exclude_from_pos_files exclude_from_bom allow_missing_courtyard)
 		(fp_poly
 			(pts
 				(xy -2.868521 0.05143) (xy -2.844852 0.088882) (xy -2.840182 0.121227) (xy -2.849603 0.165276) (xy -2.868521 0.191025)
@@ -1715,7 +1715,7 @@
 				)
 			)
 		)
-		(property "DigiKey" ""
+		(property "DigiKey" "13-RC0402FR-13510RLCT-ND"
 			(at 0 0 180)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -1728,7 +1728,7 @@
 				)
 			)
 		)
-		(property "Mouser" ""
+		(property "Mouser" "603-RC0402FR-13510RL"
 			(at 0 0 180)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -1741,7 +1741,7 @@
 				)
 			)
 		)
-		(property "TME" ""
+		(property "TME" "RC0402FR-07510RL"
 			(at 0 0 180)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -1985,7 +1985,7 @@
 				)
 			)
 		)
-		(property "DigiKey" ""
+		(property "DigiKey" "490-6309-1-ND"
 			(at 0 0 0)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -1998,7 +1998,7 @@
 				)
 			)
 		)
-		(property "Mouser" ""
+		(property "Mouser" "81-GRM155R61C103KA1D "
 			(at 0 0 0)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -2011,7 +2011,7 @@
 				)
 			)
 		)
-		(property "TME" ""
+		(property "TME" "GRM155R61C103KA01D"
 			(at 0 0 0)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -2253,7 +2253,7 @@
 				)
 			)
 		)
-		(property "DigiKey" ""
+		(property "DigiKey" "311-1.50KLRCT-ND"
 			(at 0 0 270)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -2266,7 +2266,7 @@
 				)
 			)
 		)
-		(property "Mouser" ""
+		(property "Mouser" "603-RC0402FR-071K5L"
 			(at 0 0 270)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -2279,7 +2279,7 @@
 				)
 			)
 		)
-		(property "TME" ""
+		(property "TME" "RC0402FR-071K5L"
 			(at 0 0 270)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -2292,7 +2292,7 @@
 				)
 			)
 		)
-		(property "LCSC" ""
+		(property "LCSC" "C114759"
 			(at 0 0 270)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -2793,7 +2793,7 @@
 				)
 			)
 		)
-		(property "DigiKey" ""
+		(property "DigiKey" "490-6287-1-ND"
 			(at 0 0 180)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -2806,7 +2806,7 @@
 				)
 			)
 		)
-		(property "Mouser" ""
+		(property "Mouser" "81-GRM155R60J104KA1D"
 			(at 0 0 180)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -2819,7 +2819,7 @@
 				)
 			)
 		)
-		(property "TME" ""
+		(property "TME" "GRM155R60J104KA01D"
 			(at 0 0 180)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -7649,7 +7649,7 @@
 				)
 			)
 		)
-		(property "DigiKey" ""
+		(property "DigiKey" "490-6287-1-ND"
 			(at 0 0 90)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -7662,7 +7662,7 @@
 				)
 			)
 		)
-		(property "Mouser" ""
+		(property "Mouser" "81-GRM155R60J104KA1D"
 			(at 0 0 90)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -7675,7 +7675,7 @@
 				)
 			)
 		)
-		(property "TME" ""
+		(property "TME" "GRM155R60J104KA01D"
 			(at 0 0 90)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -10474,7 +10474,7 @@
 				)
 			)
 		)
-		(property "DigiKey" ""
+		(property "DigiKey" "311-10.0KLRCT-ND"
 			(at 0 0 270)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -10487,7 +10487,7 @@
 				)
 			)
 		)
-		(property "Mouser" ""
+		(property "Mouser" "603-RC0402FR-0710KL"
 			(at 0 0 270)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -10500,7 +10500,7 @@
 				)
 			)
 		)
-		(property "TME" ""
+		(property "TME" "SMD0402-10K-1%"
 			(at 0 0 270)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -10513,7 +10513,7 @@
 				)
 			)
 		)
-		(property "LCSC" ""
+		(property "LCSC" "C60490"
 			(at 0 0 270)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -10744,7 +10744,7 @@
 				)
 			)
 		)
-		(property "DigiKey" ""
+		(property "DigiKey" "490-6287-1-ND"
 			(at 0 0 180)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -10757,7 +10757,7 @@
 				)
 			)
 		)
-		(property "Mouser" ""
+		(property "Mouser" "81-GRM155R60J104KA1D"
 			(at 0 0 180)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -10770,7 +10770,7 @@
 				)
 			)
 		)
-		(property "TME" ""
+		(property "TME" "GRM155R60J104KA01D"
 			(at 0 0 180)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -11282,7 +11282,7 @@
 				)
 			)
 		)
-		(property "DigiKey" ""
+		(property "DigiKey" "13-RC0402FR-131KLCT-ND"
 			(at 0 0 90)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -11295,7 +11295,7 @@
 				)
 			)
 		)
-		(property "Mouser" ""
+		(property "Mouser" "603-RC0402FR-131KL"
 			(at 0 0 90)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -11308,7 +11308,7 @@
 				)
 			)
 		)
-		(property "TME" ""
+		(property "TME" "SMD0402-1K-1%"
 			(at 0 0 90)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -11321,7 +11321,7 @@
 				)
 			)
 		)
-		(property "LCSC" ""
+		(property "LCSC" "C4247997"
 			(at 0 0 90)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -13714,7 +13714,7 @@
 				)
 			)
 		)
-		(property "DigiKey" ""
+		(property "DigiKey" "1276-1117-1-ND"
 			(at 0 0 0)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -13727,7 +13727,7 @@
 				)
 			)
 		)
-		(property "Mouser" ""
+		(property "Mouser" "187-CL05C471JB5NNNC"
 			(at 0 0 0)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -13740,7 +13740,7 @@
 				)
 			)
 		)
-		(property "TME" ""
+		(property "TME" "CL05C471JB5NNNC"
 			(at 0 0 0)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -13753,7 +13753,7 @@
 				)
 			)
 		)
-		(property "LCSC" ""
+		(property "LCSC" "C307449"
 			(at 0 0 0)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -14555,7 +14555,7 @@
 				)
 			)
 		)
-		(property "DigiKey" ""
+		(property "DigiKey" "490-6309-1-ND"
 			(at 0 0 270)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -14568,7 +14568,7 @@
 				)
 			)
 		)
-		(property "Mouser" ""
+		(property "Mouser" "81-GRM155R61C103KA1D "
 			(at 0 0 270)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -14581,7 +14581,7 @@
 				)
 			)
 		)
-		(property "TME" ""
+		(property "TME" "GRM155R61C103KA01D"
 			(at 0 0 270)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -14953,7 +14953,7 @@
 				)
 			)
 		)
-		(property "DigiKey" ""
+		(property "DigiKey" "311-10.0KLRCT-ND"
 			(at 0 0 0)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -14966,7 +14966,7 @@
 				)
 			)
 		)
-		(property "Mouser" ""
+		(property "Mouser" "603-RC0402FR-0710KL"
 			(at 0 0 0)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -14979,7 +14979,7 @@
 				)
 			)
 		)
-		(property "TME" ""
+		(property "TME" "SMD0402-10K-1%"
 			(at 0 0 0)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -14992,7 +14992,7 @@
 				)
 			)
 		)
-		(property "LCSC" ""
+		(property "LCSC" "C60490"
 			(at 0 0 0)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -15221,7 +15221,7 @@
 				)
 			)
 		)
-		(property "DigiKey" ""
+		(property "DigiKey" "311-10.0KLRCT-ND"
 			(at 0 0 180)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -15234,7 +15234,7 @@
 				)
 			)
 		)
-		(property "Mouser" ""
+		(property "Mouser" "603-RC0402FR-0710KL"
 			(at 0 0 180)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -15247,7 +15247,7 @@
 				)
 			)
 		)
-		(property "TME" ""
+		(property "TME" "SMD0402-10K-1%"
 			(at 0 0 180)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -15260,7 +15260,7 @@
 				)
 			)
 		)
-		(property "LCSC" ""
+		(property "LCSC" "C60490"
 			(at 0 0 180)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -15491,7 +15491,7 @@
 				)
 			)
 		)
-		(property "DigiKey" ""
+		(property "DigiKey" "490-6287-1-ND"
 			(at 0 0 180)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -15504,7 +15504,7 @@
 				)
 			)
 		)
-		(property "Mouser" ""
+		(property "Mouser" "81-GRM155R60J104KA1D"
 			(at 0 0 180)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -15517,7 +15517,7 @@
 				)
 			)
 		)
-		(property "TME" ""
+		(property "TME" "GRM155R60J104KA01D"
 			(at 0 0 180)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -15774,7 +15774,7 @@
 				)
 			)
 		)
-		(property "DigiKey" ""
+		(property "DigiKey" "490-6309-1-ND"
 			(at 0 0 180)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -15787,7 +15787,7 @@
 				)
 			)
 		)
-		(property "Mouser" ""
+		(property "Mouser" "81-GRM155R61C103KA1D "
 			(at 0 0 180)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -15800,7 +15800,7 @@
 				)
 			)
 		)
-		(property "TME" ""
+		(property "TME" "GRM155R61C103KA01D"
 			(at 0 0 180)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -16802,7 +16802,7 @@
 				)
 			)
 		)
-		(property "DigiKey" ""
+		(property "DigiKey" "490-6309-1-ND"
 			(at 0 0 180)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -16815,7 +16815,7 @@
 				)
 			)
 		)
-		(property "Mouser" ""
+		(property "Mouser" "81-GRM155R61C103KA1D "
 			(at 0 0 180)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -16828,7 +16828,7 @@
 				)
 			)
 		)
-		(property "TME" ""
+		(property "TME" "GRM155R61C103KA01D"
 			(at 0 0 180)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -17070,7 +17070,7 @@
 				)
 			)
 		)
-		(property "DigiKey" ""
+		(property "DigiKey" "311-10.0KLRCT-ND"
 			(at 0 0 90)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -17083,7 +17083,7 @@
 				)
 			)
 		)
-		(property "Mouser" ""
+		(property "Mouser" "603-RC0402FR-0710KL"
 			(at 0 0 90)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -17096,7 +17096,7 @@
 				)
 			)
 		)
-		(property "TME" ""
+		(property "TME" "SMD0402-10K-1%"
 			(at 0 0 90)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -17109,7 +17109,7 @@
 				)
 			)
 		)
-		(property "LCSC" ""
+		(property "LCSC" "C60490"
 			(at 0 0 90)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -17344,6 +17344,58 @@
 			(layer "F.Fab")
 			(hide yes)
 			(uuid "e2c5d452-f0d8-437b-bccf-ab9eae9686f5")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "DigiKey" "311-1.50KLRCT-ND"
+			(at 0 0 180)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "cf2c1437-9421-4342-895c-a7beb7b725a2")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "LCSC" "C114759"
+			(at 0 0 180)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "6b07c489-8579-42bb-9c69-3cef56e2ae42")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "Mouser" "603-RC0402FR-071K5L"
+			(at 0 0 180)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "ba249015-42fb-4af0-bdad-9620773f2af4")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "TME" "RC0402FR-071K5L"
+			(at 0 0 180)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "8cdb536a-b379-4df7-8290-9639f503d2eb")
 			(effects
 				(font
 					(size 1 1)
@@ -18642,7 +18694,7 @@
 				)
 			)
 		)
-		(property "DigiKey" ""
+		(property "DigiKey" "311-10.0KLRCT-ND"
 			(at 0 0 270)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -18655,7 +18707,7 @@
 				)
 			)
 		)
-		(property "Mouser" ""
+		(property "Mouser" "603-RC0402FR-0710KL"
 			(at 0 0 270)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -18668,7 +18720,7 @@
 				)
 			)
 		)
-		(property "TME" ""
+		(property "TME" "SMD0402-10K-1%"
 			(at 0 0 270)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -18681,7 +18733,7 @@
 				)
 			)
 		)
-		(property "LCSC" ""
+		(property "LCSC" "C60490"
 			(at 0 0 270)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -18912,7 +18964,7 @@
 				)
 			)
 		)
-		(property "DigiKey" ""
+		(property "DigiKey" "490-6287-1-ND"
 			(at 0 0 180)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -18925,7 +18977,7 @@
 				)
 			)
 		)
-		(property "Mouser" ""
+		(property "Mouser" "81-GRM155R60J104KA1D"
 			(at 0 0 180)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -18938,7 +18990,7 @@
 				)
 			)
 		)
-		(property "TME" ""
+		(property "TME" "GRM155R60J104KA01D"
 			(at 0 0 180)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -19193,7 +19245,7 @@
 				)
 			)
 		)
-		(property "DigiKey" ""
+		(property "DigiKey" "13-RC0402FR-1012K1LCT-ND"
 			(at 0 0 180)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -19206,7 +19258,7 @@
 				)
 			)
 		)
-		(property "Mouser" ""
+		(property "Mouser" "603-RC0402FR-1012K1L"
 			(at 0 0 180)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -19219,7 +19271,7 @@
 				)
 			)
 		)
-		(property "TME" ""
+		(property "TME" "SMD0402-12.1K-1%"
 			(at 0 0 180)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -19461,7 +19513,7 @@
 				)
 			)
 		)
-		(property "DigiKey" ""
+		(property "DigiKey" "311-10.0KLRCT-ND"
 			(at 0 0 0)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -19474,7 +19526,7 @@
 				)
 			)
 		)
-		(property "Mouser" ""
+		(property "Mouser" "603-RC0402FR-0710KL"
 			(at 0 0 0)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -19487,7 +19539,7 @@
 				)
 			)
 		)
-		(property "TME" ""
+		(property "TME" "SMD0402-10K-1%"
 			(at 0 0 0)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -19500,7 +19552,7 @@
 				)
 			)
 		)
-		(property "LCSC" ""
+		(property "LCSC" "C60490"
 			(at 0 0 0)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -19771,6 +19823,19 @@
 			(layer "F.Fab")
 			(hide yes)
 			(uuid "f206d7f6-9d3c-4ae6-9191-37932b8e3297")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "LCSC" "C337877"
+			(at 0 0 0)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "f21a5ee7-284c-4dd0-a66c-dfe0e15a5f37")
 			(effects
 				(font
 					(size 1 1)
@@ -21810,7 +21875,7 @@
 				)
 			)
 		)
-		(property "DigiKey" ""
+		(property "DigiKey" "13-RC0402FR-1349K9LCT-ND"
 			(at 0 0 270)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -21823,7 +21888,7 @@
 				)
 			)
 		)
-		(property "Mouser" ""
+		(property "Mouser" "603-RC0402FR-1349K9L"
 			(at 0 0 270)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -21836,7 +21901,7 @@
 				)
 			)
 		)
-		(property "TME" ""
+		(property "TME" "SMD0402-49.9K-1%"
 			(at 0 0 270)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -22359,7 +22424,7 @@
 				)
 			)
 		)
-		(property "DigiKey" ""
+		(property "DigiKey" "311-10.0KLRCT-ND"
 			(at 0 0 0)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -22372,7 +22437,7 @@
 				)
 			)
 		)
-		(property "Mouser" ""
+		(property "Mouser" "603-RC0402FR-0710KL"
 			(at 0 0 0)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -22385,7 +22450,7 @@
 				)
 			)
 		)
-		(property "TME" ""
+		(property "TME" "SMD0402-10K-1%"
 			(at 0 0 0)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -22398,7 +22463,7 @@
 				)
 			)
 		)
-		(property "LCSC" ""
+		(property "LCSC" "C60490"
 			(at 0 0 0)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -22627,7 +22692,7 @@
 				)
 			)
 		)
-		(property "DigiKey" ""
+		(property "DigiKey" "311-10.0KLRCT-ND"
 			(at 0 0 180)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -22640,7 +22705,7 @@
 				)
 			)
 		)
-		(property "Mouser" ""
+		(property "Mouser" "603-RC0402FR-0710KL"
 			(at 0 0 180)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -22653,7 +22718,7 @@
 				)
 			)
 		)
-		(property "TME" ""
+		(property "TME" "SMD0402-10K-1%"
 			(at 0 0 180)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -22666,7 +22731,7 @@
 				)
 			)
 		)
-		(property "LCSC" ""
+		(property "LCSC" "C60490"
 			(at 0 0 180)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -22895,7 +22960,7 @@
 				)
 			)
 		)
-		(property "DigiKey" ""
+		(property "DigiKey" "311-10.0KLRCT-ND"
 			(at 0 0 180)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -22908,7 +22973,7 @@
 				)
 			)
 		)
-		(property "Mouser" ""
+		(property "Mouser" "603-RC0402FR-0710KL"
 			(at 0 0 180)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -22921,7 +22986,7 @@
 				)
 			)
 		)
-		(property "TME" ""
+		(property "TME" "SMD0402-10K-1%"
 			(at 0 0 180)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -22934,7 +22999,7 @@
 				)
 			)
 		)
-		(property "LCSC" ""
+		(property "LCSC" "C60490"
 			(at 0 0 180)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -23979,7 +24044,7 @@
 				(extension_offset 0.5)
 				(keep_text_aligned yes)
 			)
-			(gr_text "1889,7638"
+			(gr_text "48"
 				(at 121.6 113.45 0)
 				(layer "F.Fab")
 				(uuid "09217f07-d2c8-4c2a-9411-ce46d4e73efa")
@@ -24017,7 +24082,7 @@
 				(extension_offset 0.5)
 				(keep_text_aligned yes)
 			)
-			(gr_text "2165,3543"
+			(gr_text "55"
 				(at 121.6 115.85 0)
 				(layer "F.Fab")
 				(uuid "3933e167-0dff-40aa-8282-239e241e1af9")
@@ -24055,7 +24120,7 @@
 				(extension_offset 0.5)
 				(keep_text_aligned yes)
 			)
-			(gr_text "1299,2126"
+			(gr_text "33"
 				(at 90.95 92.2 90)
 				(layer "F.Fab")
 				(uuid "54726456-91cc-475a-8dcd-a33a463fc757")
@@ -24093,7 +24158,7 @@
 				(extension_offset 0.5)
 				(keep_text_aligned yes)
 			)
-			(gr_text "118,1102"
+			(gr_text "3"
 				(at 125.05 110.7 90)
 				(layer "F.Fab")
 				(uuid "5f564398-de8a-4bf1-9fe9-e8840c2d27e0")
@@ -24131,7 +24196,7 @@
 				(extension_offset 0.5)
 				(keep_text_aligned yes)
 			)
-			(gr_text "846,45"
+			(gr_text "21,5"
 				(at 134.850125 103.14 0)
 				(layer "F.Fab")
 				(uuid "7e2bd4a4-0d70-45f0-985f-3e7ad81bee19")
@@ -26209,7 +26274,7 @@
 				)
 			)
 		)
-		(property "DigiKey" ""
+		(property "DigiKey" "490-6287-1-ND"
 			(at 0 0 90)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -26222,7 +26287,7 @@
 				)
 			)
 		)
-		(property "Mouser" ""
+		(property "Mouser" "81-GRM155R60J104KA1D"
 			(at 0 0 90)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -26235,7 +26300,7 @@
 				)
 			)
 		)
-		(property "TME" ""
+		(property "TME" "GRM155R60J104KA01D"
 			(at 0 0 90)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -29018,7 +29083,7 @@
 				(justify mirror)
 			)
 		)
-		(property "DigiKey" ""
+		(property "DigiKey" "490-6287-1-ND"
 			(at 0 0 90)
 			(unlocked yes)
 			(layer "B.Fab")
@@ -29032,7 +29097,7 @@
 				(justify mirror)
 			)
 		)
-		(property "Mouser" ""
+		(property "Mouser" "81-GRM155R60J104KA1D"
 			(at 0 0 90)
 			(unlocked yes)
 			(layer "B.Fab")
@@ -29046,7 +29111,7 @@
 				(justify mirror)
 			)
 		)
-		(property "TME" ""
+		(property "TME" "GRM155R60J104KA01D"
 			(at 0 0 90)
 			(unlocked yes)
 			(layer "B.Fab")
@@ -29602,7 +29667,7 @@
 				(justify mirror)
 			)
 		)
-		(property "DigiKey" ""
+		(property "DigiKey" "490-6287-1-ND"
 			(at 0 0 270)
 			(unlocked yes)
 			(layer "B.Fab")
@@ -29616,7 +29681,7 @@
 				(justify mirror)
 			)
 		)
-		(property "Mouser" ""
+		(property "Mouser" "81-GRM155R60J104KA1D"
 			(at 0 0 270)
 			(unlocked yes)
 			(layer "B.Fab")
@@ -29630,7 +29695,7 @@
 				(justify mirror)
 			)
 		)
-		(property "TME" ""
+		(property "TME" "GRM155R60J104KA01D"
 			(at 0 0 270)
 			(unlocked yes)
 			(layer "B.Fab")
@@ -30162,7 +30227,7 @@
 				(justify mirror)
 			)
 		)
-		(property "DigiKey" ""
+		(property "DigiKey" "1276-6762-1-ND"
 			(at 0 0 0)
 			(unlocked yes)
 			(layer "B.Fab")
@@ -30176,7 +30241,7 @@
 				(justify mirror)
 			)
 		)
-		(property "Mouser" ""
+		(property "Mouser" "187-CL05C221JB51PNC"
 			(at 0 0 0)
 			(unlocked yes)
 			(layer "B.Fab")
@@ -30190,7 +30255,7 @@
 				(justify mirror)
 			)
 		)
-		(property "TME" ""
+		(property "TME" "CL05C221JB51PNC"
 			(at 0 0 0)
 			(unlocked yes)
 			(layer "B.Fab")
@@ -30204,7 +30269,7 @@
 				(justify mirror)
 			)
 		)
-		(property "LCSC" ""
+		(property "LCSC" "C472450"
 			(at 0 0 0)
 			(unlocked yes)
 			(layer "B.Fab")
@@ -30442,7 +30507,7 @@
 				(justify mirror)
 			)
 		)
-		(property "DigiKey" ""
+		(property "DigiKey" "490-6287-1-ND"
 			(at 0 0 180)
 			(unlocked yes)
 			(layer "B.Fab")
@@ -30456,7 +30521,7 @@
 				(justify mirror)
 			)
 		)
-		(property "Mouser" ""
+		(property "Mouser" "81-GRM155R60J104KA1D"
 			(at 0 0 180)
 			(unlocked yes)
 			(layer "B.Fab")
@@ -30470,7 +30535,7 @@
 				(justify mirror)
 			)
 		)
-		(property "TME" ""
+		(property "TME" "GRM155R60J104KA01D"
 			(at 0 0 180)
 			(unlocked yes)
 			(layer "B.Fab")
@@ -30722,7 +30787,7 @@
 				(justify mirror)
 			)
 		)
-		(property "DigiKey" ""
+		(property "DigiKey" "490-6287-1-ND"
 			(at 0 0 0)
 			(unlocked yes)
 			(layer "B.Fab")
@@ -30736,7 +30801,7 @@
 				(justify mirror)
 			)
 		)
-		(property "Mouser" ""
+		(property "Mouser" "81-GRM155R60J104KA1D"
 			(at 0 0 0)
 			(unlocked yes)
 			(layer "B.Fab")
@@ -30750,7 +30815,7 @@
 				(justify mirror)
 			)
 		)
-		(property "TME" ""
+		(property "TME" "GRM155R60J104KA01D"
 			(at 0 0 0)
 			(unlocked yes)
 			(layer "B.Fab")
@@ -31003,7 +31068,7 @@
 				(justify mirror)
 			)
 		)
-		(property "DigiKey" ""
+		(property "DigiKey" "490-6287-1-ND"
 			(at 0 0 180)
 			(unlocked yes)
 			(layer "B.Fab")
@@ -31017,7 +31082,7 @@
 				(justify mirror)
 			)
 		)
-		(property "Mouser" ""
+		(property "Mouser" "81-GRM155R60J104KA1D"
 			(at 0 0 180)
 			(unlocked yes)
 			(layer "B.Fab")
@@ -31031,7 +31096,7 @@
 				(justify mirror)
 			)
 		)
-		(property "TME" ""
+		(property "TME" "GRM155R60J104KA01D"
 			(at 0 0 180)
 			(unlocked yes)
 			(layer "B.Fab")
@@ -32375,7 +32440,7 @@
 				(justify mirror)
 			)
 		)
-		(property "DigiKey" ""
+		(property "DigiKey" "490-6287-1-ND"
 			(at 0 0 180)
 			(unlocked yes)
 			(layer "B.Fab")
@@ -32389,7 +32454,7 @@
 				(justify mirror)
 			)
 		)
-		(property "Mouser" ""
+		(property "Mouser" "81-GRM155R60J104KA1D"
 			(at 0 0 180)
 			(unlocked yes)
 			(layer "B.Fab")
@@ -32403,7 +32468,7 @@
 				(justify mirror)
 			)
 		)
-		(property "TME" ""
+		(property "TME" "GRM155R60J104KA01D"
 			(at 0 0 180)
 			(unlocked yes)
 			(layer "B.Fab")
@@ -32931,7 +32996,7 @@
 				(justify mirror)
 			)
 		)
-		(property "DigiKey" ""
+		(property "DigiKey" "311-10.0KLRCT-ND"
 			(at 0 0 0)
 			(unlocked yes)
 			(layer "B.Fab")
@@ -32945,7 +33010,7 @@
 				(justify mirror)
 			)
 		)
-		(property "Mouser" ""
+		(property "Mouser" "603-RC0402FR-0710KL"
 			(at 0 0 0)
 			(unlocked yes)
 			(layer "B.Fab")
@@ -32959,7 +33024,7 @@
 				(justify mirror)
 			)
 		)
-		(property "TME" ""
+		(property "TME" "SMD0402-10K-1%"
 			(at 0 0 0)
 			(unlocked yes)
 			(layer "B.Fab")
@@ -32973,7 +33038,7 @@
 				(justify mirror)
 			)
 		)
-		(property "LCSC" ""
+		(property "LCSC" "C60490"
 			(at 0 0 0)
 			(unlocked yes)
 			(layer "B.Fab")
@@ -33211,7 +33276,7 @@
 				(justify mirror)
 			)
 		)
-		(property "DigiKey" ""
+		(property "DigiKey" "490-6287-1-ND"
 			(at 0 0 90)
 			(unlocked yes)
 			(layer "B.Fab")
@@ -33225,7 +33290,7 @@
 				(justify mirror)
 			)
 		)
-		(property "Mouser" ""
+		(property "Mouser" "81-GRM155R60J104KA1D"
 			(at 0 0 90)
 			(unlocked yes)
 			(layer "B.Fab")
@@ -33239,7 +33304,7 @@
 				(justify mirror)
 			)
 		)
-		(property "TME" ""
+		(property "TME" "GRM155R60J104KA01D"
 			(at 0 0 90)
 			(unlocked yes)
 			(layer "B.Fab")
@@ -34033,7 +34098,7 @@
 				(justify mirror)
 			)
 		)
-		(property "DigiKey" ""
+		(property "DigiKey" "490-6287-1-ND"
 			(at 0 0 270)
 			(unlocked yes)
 			(layer "B.Fab")
@@ -34047,7 +34112,7 @@
 				(justify mirror)
 			)
 		)
-		(property "Mouser" ""
+		(property "Mouser" "81-GRM155R60J104KA1D"
 			(at 0 0 270)
 			(unlocked yes)
 			(layer "B.Fab")
@@ -34061,7 +34126,7 @@
 				(justify mirror)
 			)
 		)
-		(property "TME" ""
+		(property "TME" "GRM155R60J104KA01D"
 			(at 0 0 270)
 			(unlocked yes)
 			(layer "B.Fab")
@@ -34314,7 +34379,7 @@
 				(justify mirror)
 			)
 		)
-		(property "DigiKey" ""
+		(property "DigiKey" "490-6287-1-ND"
 			(at 0 0 270)
 			(unlocked yes)
 			(layer "B.Fab")
@@ -34328,7 +34393,7 @@
 				(justify mirror)
 			)
 		)
-		(property "Mouser" ""
+		(property "Mouser" "81-GRM155R60J104KA1D"
 			(at 0 0 270)
 			(unlocked yes)
 			(layer "B.Fab")
@@ -34342,7 +34407,7 @@
 				(justify mirror)
 			)
 		)
-		(property "TME" ""
+		(property "TME" "GRM155R60J104KA01D"
 			(at 0 0 270)
 			(unlocked yes)
 			(layer "B.Fab")
@@ -35134,7 +35199,7 @@
 				(justify mirror)
 			)
 		)
-		(property "DigiKey" ""
+		(property "DigiKey" "490-6287-1-ND"
 			(at 0 0 270)
 			(unlocked yes)
 			(layer "B.Fab")
@@ -35148,7 +35213,7 @@
 				(justify mirror)
 			)
 		)
-		(property "Mouser" ""
+		(property "Mouser" "81-GRM155R60J104KA1D"
 			(at 0 0 270)
 			(unlocked yes)
 			(layer "B.Fab")
@@ -35162,7 +35227,7 @@
 				(justify mirror)
 			)
 		)
-		(property "TME" ""
+		(property "TME" "GRM155R60J104KA01D"
 			(at 0 0 270)
 			(unlocked yes)
 			(layer "B.Fab")
@@ -35692,7 +35757,7 @@
 				(justify mirror)
 			)
 		)
-		(property "DigiKey" ""
+		(property "DigiKey" "311-0.0LRCT-ND"
 			(at 0 0 270)
 			(unlocked yes)
 			(layer "B.Fab")
@@ -35706,7 +35771,7 @@
 				(justify mirror)
 			)
 		)
-		(property "Mouser" ""
+		(property "Mouser" "603-RC0402FR-070RL"
 			(at 0 0 270)
 			(unlocked yes)
 			(layer "B.Fab")
@@ -35720,7 +35785,7 @@
 				(justify mirror)
 			)
 		)
-		(property "TME" ""
+		(property "TME" "RC0402FR-070RL"
 			(at 0 0 270)
 			(unlocked yes)
 			(layer "B.Fab")
@@ -35734,7 +35799,7 @@
 				(justify mirror)
 			)
 		)
-		(property "LCSC" ""
+		(property "LCSC" "C106231"
 			(at 0 0 270)
 			(unlocked yes)
 			(layer "B.Fab")
@@ -35973,7 +36038,7 @@
 				(justify mirror)
 			)
 		)
-		(property "DigiKey" ""
+		(property "DigiKey" "490-6287-1-ND"
 			(at 0 0 270)
 			(unlocked yes)
 			(layer "B.Fab")
@@ -35987,7 +36052,7 @@
 				(justify mirror)
 			)
 		)
-		(property "Mouser" ""
+		(property "Mouser" "81-GRM155R60J104KA1D"
 			(at 0 0 270)
 			(unlocked yes)
 			(layer "B.Fab")
@@ -36001,7 +36066,7 @@
 				(justify mirror)
 			)
 		)
-		(property "TME" ""
+		(property "TME" "GRM155R60J104KA01D"
 			(at 0 0 270)
 			(unlocked yes)
 			(layer "B.Fab")
@@ -36533,7 +36598,7 @@
 				(justify mirror)
 			)
 		)
-		(property "DigiKey" ""
+		(property "DigiKey" "490-6287-1-ND"
 			(at 0 0 270)
 			(unlocked yes)
 			(layer "B.Fab")
@@ -36547,7 +36612,7 @@
 				(justify mirror)
 			)
 		)
-		(property "Mouser" ""
+		(property "Mouser" "81-GRM155R60J104KA1D"
 			(at 0 0 270)
 			(unlocked yes)
 			(layer "B.Fab")
@@ -36561,7 +36626,7 @@
 				(justify mirror)
 			)
 		)
-		(property "TME" ""
+		(property "TME" "GRM155R60J104KA01D"
 			(at 0 0 270)
 			(unlocked yes)
 			(layer "B.Fab")
@@ -37092,7 +37157,7 @@
 				(justify mirror)
 			)
 		)
-		(property "DigiKey" ""
+		(property "DigiKey" "490-6287-1-ND"
 			(at 0 0 270)
 			(unlocked yes)
 			(layer "B.Fab")
@@ -37106,7 +37171,7 @@
 				(justify mirror)
 			)
 		)
-		(property "Mouser" ""
+		(property "Mouser" "81-GRM155R60J104KA1D"
 			(at 0 0 270)
 			(unlocked yes)
 			(layer "B.Fab")
@@ -37120,7 +37185,7 @@
 				(justify mirror)
 			)
 		)
-		(property "TME" ""
+		(property "TME" "GRM155R60J104KA01D"
 			(at 0 0 270)
 			(unlocked yes)
 			(layer "B.Fab")
@@ -37370,7 +37435,7 @@
 				(justify mirror)
 			)
 		)
-		(property "DigiKey" ""
+		(property "DigiKey" "13-RC0402FR-1349R9LCT-ND"
 			(at 0 0 0)
 			(unlocked yes)
 			(layer "B.Fab")
@@ -37384,7 +37449,7 @@
 				(justify mirror)
 			)
 		)
-		(property "Mouser" ""
+		(property "Mouser" "603-RC0402FR-1349R9L"
 			(at 0 0 0)
 			(unlocked yes)
 			(layer "B.Fab")
@@ -37398,7 +37463,7 @@
 				(justify mirror)
 			)
 		)
-		(property "TME" ""
+		(property "TME" "RC0402FR-0749R9L"
 			(at 0 0 0)
 			(unlocked yes)
 			(layer "B.Fab")
@@ -37412,7 +37477,7 @@
 				(justify mirror)
 			)
 		)
-		(property "LCSC" ""
+		(property "LCSC" "C4007649"
 			(at 0 0 0)
 			(unlocked yes)
 			(layer "B.Fab")
@@ -37650,7 +37715,7 @@
 				(justify mirror)
 			)
 		)
-		(property "DigiKey" ""
+		(property "DigiKey" "490-6287-1-ND"
 			(at 0 0 0)
 			(unlocked yes)
 			(layer "B.Fab")
@@ -37664,7 +37729,7 @@
 				(justify mirror)
 			)
 		)
-		(property "Mouser" ""
+		(property "Mouser" "81-GRM155R60J104KA1D"
 			(at 0 0 0)
 			(unlocked yes)
 			(layer "B.Fab")
@@ -37678,7 +37743,7 @@
 				(justify mirror)
 			)
 		)
-		(property "TME" ""
+		(property "TME" "GRM155R60J104KA01D"
 			(at 0 0 0)
 			(unlocked yes)
 			(layer "B.Fab")
@@ -37928,7 +37993,7 @@
 				(justify mirror)
 			)
 		)
-		(property "DigiKey" ""
+		(property "DigiKey" "311-0.0LRCT-ND"
 			(at 0 0 90)
 			(unlocked yes)
 			(layer "B.Fab")
@@ -37942,7 +38007,7 @@
 				(justify mirror)
 			)
 		)
-		(property "Mouser" ""
+		(property "Mouser" "603-RC0402FR-070RL"
 			(at 0 0 90)
 			(unlocked yes)
 			(layer "B.Fab")
@@ -37956,7 +38021,7 @@
 				(justify mirror)
 			)
 		)
-		(property "TME" ""
+		(property "TME" "RC0402FR-070RL"
 			(at 0 0 90)
 			(unlocked yes)
 			(layer "B.Fab")
@@ -37970,7 +38035,7 @@
 				(justify mirror)
 			)
 		)
-		(property "LCSC" ""
+		(property "LCSC" "C106231"
 			(at 0 0 90)
 			(unlocked yes)
 			(layer "B.Fab")
@@ -39261,7 +39326,7 @@
 				(justify mirror)
 			)
 		)
-		(property "DigiKey" ""
+		(property "DigiKey" "490-6287-1-ND"
 			(at 0 0 90)
 			(unlocked yes)
 			(layer "B.Fab")
@@ -39275,7 +39340,7 @@
 				(justify mirror)
 			)
 		)
-		(property "Mouser" ""
+		(property "Mouser" "81-GRM155R60J104KA1D"
 			(at 0 0 90)
 			(unlocked yes)
 			(layer "B.Fab")
@@ -39289,7 +39354,7 @@
 				(justify mirror)
 			)
 		)
-		(property "TME" ""
+		(property "TME" "GRM155R60J104KA01D"
 			(at 0 0 90)
 			(unlocked yes)
 			(layer "B.Fab")
@@ -39568,6 +39633,20 @@
 			(layer "B.Fab")
 			(hide yes)
 			(uuid "0d612116-29dc-49d6-b3e5-79f5996e675d")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+				(justify mirror)
+			)
+		)
+		(property "LCSC" "C83998"
+			(at 0 0 0)
+			(unlocked yes)
+			(layer "B.Fab")
+			(hide yes)
+			(uuid "cb429673-5b34-47ff-ba20-46777dbb56ea")
 			(effects
 				(font
 					(size 1 1)
@@ -40379,7 +40458,7 @@
 				(justify mirror)
 			)
 		)
-		(property "DigiKey" ""
+		(property "DigiKey" "490-6287-1-ND"
 			(at 0 0 90)
 			(unlocked yes)
 			(layer "B.Fab")
@@ -40393,7 +40472,7 @@
 				(justify mirror)
 			)
 		)
-		(property "Mouser" ""
+		(property "Mouser" "81-GRM155R60J104KA1D"
 			(at 0 0 90)
 			(unlocked yes)
 			(layer "B.Fab")
@@ -40407,7 +40486,7 @@
 				(justify mirror)
 			)
 		)
-		(property "TME" ""
+		(property "TME" "GRM155R60J104KA01D"
 			(at 0 0 90)
 			(unlocked yes)
 			(layer "B.Fab")
@@ -40659,7 +40738,7 @@
 				(justify mirror)
 			)
 		)
-		(property "DigiKey" ""
+		(property "DigiKey" "490-6287-1-ND"
 			(at 0 0 270)
 			(unlocked yes)
 			(layer "B.Fab")
@@ -40673,7 +40752,7 @@
 				(justify mirror)
 			)
 		)
-		(property "Mouser" ""
+		(property "Mouser" "81-GRM155R60J104KA1D"
 			(at 0 0 270)
 			(unlocked yes)
 			(layer "B.Fab")
@@ -40687,7 +40766,7 @@
 				(justify mirror)
 			)
 		)
-		(property "TME" ""
+		(property "TME" "GRM155R60J104KA01D"
 			(at 0 0 270)
 			(unlocked yes)
 			(layer "B.Fab")
@@ -41507,7 +41586,7 @@
 				(justify mirror)
 			)
 		)
-		(property "DigiKey" ""
+		(property "DigiKey" "490-6287-1-ND"
 			(at 0 0 0)
 			(unlocked yes)
 			(layer "B.Fab")
@@ -41521,7 +41600,7 @@
 				(justify mirror)
 			)
 		)
-		(property "Mouser" ""
+		(property "Mouser" "81-GRM155R60J104KA1D"
 			(at 0 0 0)
 			(unlocked yes)
 			(layer "B.Fab")
@@ -41535,7 +41614,7 @@
 				(justify mirror)
 			)
 		)
-		(property "TME" ""
+		(property "TME" "GRM155R60J104KA01D"
 			(at 0 0 0)
 			(unlocked yes)
 			(layer "B.Fab")
@@ -41788,7 +41867,7 @@
 				(justify mirror)
 			)
 		)
-		(property "DigiKey" ""
+		(property "DigiKey" "490-6287-1-ND"
 			(at 0 0 180)
 			(unlocked yes)
 			(layer "B.Fab")
@@ -41802,7 +41881,7 @@
 				(justify mirror)
 			)
 		)
-		(property "Mouser" ""
+		(property "Mouser" "81-GRM155R60J104KA1D"
 			(at 0 0 180)
 			(unlocked yes)
 			(layer "B.Fab")
@@ -41816,7 +41895,7 @@
 				(justify mirror)
 			)
 		)
-		(property "TME" ""
+		(property "TME" "GRM155R60J104KA01D"
 			(at 0 0 180)
 			(unlocked yes)
 			(layer "B.Fab")
@@ -42068,7 +42147,7 @@
 				(justify mirror)
 			)
 		)
-		(property "DigiKey" ""
+		(property "DigiKey" "490-6287-1-ND"
 			(at 0 0 180)
 			(unlocked yes)
 			(layer "B.Fab")
@@ -42082,7 +42161,7 @@
 				(justify mirror)
 			)
 		)
-		(property "Mouser" ""
+		(property "Mouser" "81-GRM155R60J104KA1D"
 			(at 0 0 180)
 			(unlocked yes)
 			(layer "B.Fab")
@@ -42096,7 +42175,7 @@
 				(justify mirror)
 			)
 		)
-		(property "TME" ""
+		(property "TME" "GRM155R60J104KA01D"
 			(at 0 0 180)
 			(unlocked yes)
 			(layer "B.Fab")
@@ -42908,7 +42987,7 @@
 				(justify mirror)
 			)
 		)
-		(property "DigiKey" ""
+		(property "DigiKey" "490-6287-1-ND"
 			(at 0 0 90)
 			(unlocked yes)
 			(layer "B.Fab")
@@ -42922,7 +43001,7 @@
 				(justify mirror)
 			)
 		)
-		(property "Mouser" ""
+		(property "Mouser" "81-GRM155R60J104KA1D"
 			(at 0 0 90)
 			(unlocked yes)
 			(layer "B.Fab")
@@ -42936,7 +43015,7 @@
 				(justify mirror)
 			)
 		)
-		(property "TME" ""
+		(property "TME" "GRM155R60J104KA01D"
 			(at 0 0 90)
 			(unlocked yes)
 			(layer "B.Fab")
@@ -43186,7 +43265,7 @@
 				(justify mirror)
 			)
 		)
-		(property "DigiKey" ""
+		(property "DigiKey" "13-RC0402FR-1349R9LCT-ND"
 			(at 0 0 180)
 			(unlocked yes)
 			(layer "B.Fab")
@@ -43200,7 +43279,7 @@
 				(justify mirror)
 			)
 		)
-		(property "Mouser" ""
+		(property "Mouser" "603-RC0402FR-1349R9L"
 			(at 0 0 180)
 			(unlocked yes)
 			(layer "B.Fab")
@@ -43214,7 +43293,7 @@
 				(justify mirror)
 			)
 		)
-		(property "TME" ""
+		(property "TME" "RC0402FR-0749R9L"
 			(at 0 0 180)
 			(unlocked yes)
 			(layer "B.Fab")
@@ -43228,7 +43307,7 @@
 				(justify mirror)
 			)
 		)
-		(property "LCSC" ""
+		(property "LCSC" "C4007649"
 			(at 0 0 180)
 			(unlocked yes)
 			(layer "B.Fab")
@@ -43464,7 +43543,7 @@
 				(justify mirror)
 			)
 		)
-		(property "DigiKey" ""
+		(property "DigiKey" "13-RC0402FR-1349R9LCT-ND"
 			(at 0 0 180)
 			(unlocked yes)
 			(layer "B.Fab")
@@ -43478,7 +43557,7 @@
 				(justify mirror)
 			)
 		)
-		(property "Mouser" ""
+		(property "Mouser" "603-RC0402FR-1349R9L"
 			(at 0 0 180)
 			(unlocked yes)
 			(layer "B.Fab")
@@ -43492,7 +43571,7 @@
 				(justify mirror)
 			)
 		)
-		(property "TME" ""
+		(property "TME" "RC0402FR-0749R9L"
 			(at 0 0 180)
 			(unlocked yes)
 			(layer "B.Fab")
@@ -43506,7 +43585,7 @@
 				(justify mirror)
 			)
 		)
-		(property "LCSC" ""
+		(property "LCSC" "C4007649"
 			(at 0 0 180)
 			(unlocked yes)
 			(layer "B.Fab")
@@ -43742,7 +43821,7 @@
 				(justify mirror)
 			)
 		)
-		(property "DigiKey" ""
+		(property "DigiKey" "13-RC0402FR-1349R9LCT-ND"
 			(at 0 0 180)
 			(unlocked yes)
 			(layer "B.Fab")
@@ -43756,7 +43835,7 @@
 				(justify mirror)
 			)
 		)
-		(property "Mouser" ""
+		(property "Mouser" "603-RC0402FR-1349R9L"
 			(at 0 0 180)
 			(unlocked yes)
 			(layer "B.Fab")
@@ -43770,7 +43849,7 @@
 				(justify mirror)
 			)
 		)
-		(property "TME" ""
+		(property "TME" "RC0402FR-0749R9L"
 			(at 0 0 180)
 			(unlocked yes)
 			(layer "B.Fab")
@@ -43784,7 +43863,7 @@
 				(justify mirror)
 			)
 		)
-		(property "LCSC" ""
+		(property "LCSC" "C4007649"
 			(at 0 0 180)
 			(unlocked yes)
 			(layer "B.Fab")
@@ -44022,7 +44101,7 @@
 				(justify mirror)
 			)
 		)
-		(property "DigiKey" ""
+		(property "DigiKey" "490-6287-1-ND"
 			(at 0 0 0)
 			(unlocked yes)
 			(layer "B.Fab")
@@ -44036,7 +44115,7 @@
 				(justify mirror)
 			)
 		)
-		(property "Mouser" ""
+		(property "Mouser" "81-GRM155R60J104KA1D"
 			(at 0 0 0)
 			(unlocked yes)
 			(layer "B.Fab")
@@ -44050,7 +44129,7 @@
 				(justify mirror)
 			)
 		)
-		(property "TME" ""
+		(property "TME" "GRM155R60J104KA01D"
 			(at 0 0 0)
 			(unlocked yes)
 			(layer "B.Fab")
@@ -44618,6 +44697,20 @@
 				(justify mirror)
 			)
 		)
+		(property "LCSC" "C2661511"
+			(at 0 0 270)
+			(unlocked yes)
+			(layer "B.Fab")
+			(hide yes)
+			(uuid "e131bb8e-13a6-43d3-b363-ca3cbda6db16")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+				(justify mirror)
+			)
+		)
 		(property ki_fp_filters "Inductor_* L_* *Ferrite*")
 		(path "/d7166dbe-caf3-45a8-82fe-1ff0a9696e25/3440b3a5-346a-4904-8da1-e6af502b40dc")
 		(sheetname "/STM32H7 MCU/")
@@ -44770,7 +44863,7 @@
 				(justify mirror)
 			)
 		)
-		(property "DigiKey" ""
+		(property "DigiKey" "490-6287-1-ND"
 			(at 0 0 0)
 			(unlocked yes)
 			(layer "B.Fab")
@@ -44784,7 +44877,7 @@
 				(justify mirror)
 			)
 		)
-		(property "Mouser" ""
+		(property "Mouser" "81-GRM155R60J104KA1D"
 			(at 0 0 0)
 			(unlocked yes)
 			(layer "B.Fab")
@@ -44798,7 +44891,7 @@
 				(justify mirror)
 			)
 		)
-		(property "TME" ""
+		(property "TME" "GRM155R60J104KA01D"
 			(at 0 0 0)
 			(unlocked yes)
 			(layer "B.Fab")
@@ -45607,7 +45700,7 @@
 				(justify mirror)
 			)
 		)
-		(property "DigiKey" ""
+		(property "DigiKey" "490-6287-1-ND"
 			(at 0 0 90)
 			(unlocked yes)
 			(layer "B.Fab")
@@ -45621,7 +45714,7 @@
 				(justify mirror)
 			)
 		)
-		(property "Mouser" ""
+		(property "Mouser" "81-GRM155R60J104KA1D"
 			(at 0 0 90)
 			(unlocked yes)
 			(layer "B.Fab")
@@ -45635,7 +45728,7 @@
 				(justify mirror)
 			)
 		)
-		(property "TME" ""
+		(property "TME" "GRM155R60J104KA01D"
 			(at 0 0 90)
 			(unlocked yes)
 			(layer "B.Fab")
@@ -45887,7 +45980,7 @@
 				(justify mirror)
 			)
 		)
-		(property "DigiKey" ""
+		(property "DigiKey" "490-6287-1-ND"
 			(at 0 0 0)
 			(unlocked yes)
 			(layer "B.Fab")
@@ -45901,7 +45994,7 @@
 				(justify mirror)
 			)
 		)
-		(property "Mouser" ""
+		(property "Mouser" "81-GRM155R60J104KA1D"
 			(at 0 0 0)
 			(unlocked yes)
 			(layer "B.Fab")
@@ -45915,7 +46008,7 @@
 				(justify mirror)
 			)
 		)
-		(property "TME" ""
+		(property "TME" "GRM155R60J104KA01D"
 			(at 0 0 0)
 			(unlocked yes)
 			(layer "B.Fab")
@@ -46181,7 +46274,7 @@
 				(justify mirror)
 			)
 		)
-		(property "DigiKey" ""
+		(property "DigiKey" "490-6287-1-ND"
 			(at 0 0 0)
 			(unlocked yes)
 			(layer "B.Fab")
@@ -46195,7 +46288,7 @@
 				(justify mirror)
 			)
 		)
-		(property "Mouser" ""
+		(property "Mouser" "81-GRM155R60J104KA1D"
 			(at 0 0 0)
 			(unlocked yes)
 			(layer "B.Fab")
@@ -46209,7 +46302,7 @@
 				(justify mirror)
 			)
 		)
-		(property "TME" ""
+		(property "TME" "GRM155R60J104KA01D"
 			(at 0 0 0)
 			(unlocked yes)
 			(layer "B.Fab")
@@ -46726,7 +46819,7 @@
 				(justify mirror)
 			)
 		)
-		(property "DigiKey" ""
+		(property "DigiKey" "490-6287-1-ND"
 			(at 0 0 270)
 			(unlocked yes)
 			(layer "B.Fab")
@@ -46740,7 +46833,7 @@
 				(justify mirror)
 			)
 		)
-		(property "Mouser" ""
+		(property "Mouser" "81-GRM155R60J104KA1D"
 			(at 0 0 270)
 			(unlocked yes)
 			(layer "B.Fab")
@@ -46754,7 +46847,7 @@
 				(justify mirror)
 			)
 		)
-		(property "TME" ""
+		(property "TME" "GRM155R60J104KA01D"
 			(at 0 0 270)
 			(unlocked yes)
 			(layer "B.Fab")
@@ -47006,7 +47099,7 @@
 				(justify mirror)
 			)
 		)
-		(property "DigiKey" ""
+		(property "DigiKey" "490-6287-1-ND"
 			(at 0 0 90)
 			(unlocked yes)
 			(layer "B.Fab")
@@ -47020,7 +47113,7 @@
 				(justify mirror)
 			)
 		)
-		(property "Mouser" ""
+		(property "Mouser" "81-GRM155R60J104KA1D"
 			(at 0 0 90)
 			(unlocked yes)
 			(layer "B.Fab")
@@ -47034,7 +47127,7 @@
 				(justify mirror)
 			)
 		)
-		(property "TME" ""
+		(property "TME" "GRM155R60J104KA01D"
 			(at 0 0 90)
 			(unlocked yes)
 			(layer "B.Fab")
@@ -47284,7 +47377,7 @@
 				(justify mirror)
 			)
 		)
-		(property "DigiKey" ""
+		(property "DigiKey" "311-10.0KLRCT-ND"
 			(at 0 0 0)
 			(unlocked yes)
 			(layer "B.Fab")
@@ -47298,7 +47391,7 @@
 				(justify mirror)
 			)
 		)
-		(property "Mouser" ""
+		(property "Mouser" "603-RC0402FR-0710KL"
 			(at 0 0 0)
 			(unlocked yes)
 			(layer "B.Fab")
@@ -47312,7 +47405,7 @@
 				(justify mirror)
 			)
 		)
-		(property "TME" ""
+		(property "TME" "SMD0402-10K-1%"
 			(at 0 0 0)
 			(unlocked yes)
 			(layer "B.Fab")
@@ -47326,7 +47419,7 @@
 				(justify mirror)
 			)
 		)
-		(property "LCSC" ""
+		(property "LCSC" "C60490"
 			(at 0 0 0)
 			(unlocked yes)
 			(layer "B.Fab")
@@ -47564,7 +47657,7 @@
 				(justify mirror)
 			)
 		)
-		(property "DigiKey" ""
+		(property "DigiKey" "490-6287-1-ND"
 			(at 0 0 270)
 			(unlocked yes)
 			(layer "B.Fab")
@@ -47578,7 +47671,7 @@
 				(justify mirror)
 			)
 		)
-		(property "Mouser" ""
+		(property "Mouser" "81-GRM155R60J104KA1D"
 			(at 0 0 270)
 			(unlocked yes)
 			(layer "B.Fab")
@@ -47592,7 +47685,7 @@
 				(justify mirror)
 			)
 		)
-		(property "TME" ""
+		(property "TME" "GRM155R60J104KA01D"
 			(at 0 0 270)
 			(unlocked yes)
 			(layer "B.Fab")
@@ -47845,7 +47938,7 @@
 				(justify mirror)
 			)
 		)
-		(property "DigiKey" ""
+		(property "DigiKey" "490-6287-1-ND"
 			(at 0 0 90)
 			(unlocked yes)
 			(layer "B.Fab")
@@ -47859,7 +47952,7 @@
 				(justify mirror)
 			)
 		)
-		(property "Mouser" ""
+		(property "Mouser" "81-GRM155R60J104KA1D"
 			(at 0 0 90)
 			(unlocked yes)
 			(layer "B.Fab")
@@ -47873,7 +47966,7 @@
 				(justify mirror)
 			)
 		)
-		(property "TME" ""
+		(property "TME" "GRM155R60J104KA01D"
 			(at 0 0 90)
 			(unlocked yes)
 			(layer "B.Fab")
@@ -48126,7 +48219,7 @@
 				(justify mirror)
 			)
 		)
-		(property "DigiKey" ""
+		(property "DigiKey" "490-6287-1-ND"
 			(at 0 0 90)
 			(unlocked yes)
 			(layer "B.Fab")
@@ -48140,7 +48233,7 @@
 				(justify mirror)
 			)
 		)
-		(property "Mouser" ""
+		(property "Mouser" "81-GRM155R60J104KA1D"
 			(at 0 0 90)
 			(unlocked yes)
 			(layer "B.Fab")
@@ -48154,7 +48247,7 @@
 				(justify mirror)
 			)
 		)
-		(property "TME" ""
+		(property "TME" "GRM155R60J104KA01D"
 			(at 0 0 90)
 			(unlocked yes)
 			(layer "B.Fab")

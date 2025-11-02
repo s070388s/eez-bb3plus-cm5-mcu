@@ -881,7 +881,7 @@
   },
   "schematic": {
     "annotate_start_num": 0,
-    "bom_export_filename": "fabrication/bom/BB3plus CM5 STM32H7 module.csv",
+    "bom_export_filename": "bom/BB3plus CM5 STM32H7 module.csv",
     "bom_fmt_presets": [],
     "bom_fmt_settings": {
       "field_delimiter": ",",
