@@ -8272,7 +8272,7 @@
 			)
 		)
 	)
-	(global_label "TFT_DVID_HPA"
+	(global_label "TFT_DVID_HPD"
 		(shape input)
 		(at 210.82 78.74 0)
 		(fields_autoplaced yes)
@@ -8285,7 +8285,7 @@
 		)
 		(uuid "a62db9db-768a-4c5d-8818-c29252ab027e")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 221.4684 78.74 0)
+			(at 221.5954 78.74 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -8497,7 +8497,7 @@
 			)
 		)
 	)
-	(global_label "REAR_DVID_HPA"
+	(global_label "REAR_DVID_HPD"
 		(shape input)
 		(at 210.82 91.44 0)
 		(fields_autoplaced yes)
@@ -8510,7 +8510,7 @@
 		)
 		(uuid "c2121969-c4c0-4982-a62c-f13c6be0a757")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 222.6961 91.44 0)
+			(at 222.8231 91.44 0)
 			(effects
 				(font
 					(size 1.27 1.27)

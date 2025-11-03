@@ -4259,14 +4259,6 @@
 		(uuid "385f8057-3207-4767-bf5a-0e330310bf70")
 	)
 	(no_connect
-		(at 152.4 91.44)
-		(uuid "403269a3-9869-47be-9a73-8edb7eda5950")
-	)
-	(no_connect
-		(at 152.4 93.98)
-		(uuid "482ba60a-2099-43fe-a71d-e3b74afdf902")
-	)
-	(no_connect
 		(at 236.22 71.12)
 		(uuid "8b7c069c-e985-43c7-9449-5a06b7500df2")
 	)
@@ -4349,6 +4341,16 @@
 			(type default)
 		)
 		(uuid "0d17e971-ec59-4515-84e9-a0dcfee35737")
+	)
+	(wire
+		(pts
+			(xy 152.4 91.44) (xy 157.48 91.44)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "0d791438-7de0-442f-b690-95002db1d5af")
 	)
 	(wire
 		(pts
@@ -5553,6 +5555,16 @@
 	)
 	(wire
 		(pts
+			(xy 152.4 93.98) (xy 157.48 93.98)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "a9fc6da7-8d91-4ba4-a495-6e31c86799aa")
+	)
+	(wire
+		(pts
 			(xy 63.5 124.46) (xy 68.58 124.46)
 		)
 		(stroke
@@ -6754,6 +6766,29 @@
 			)
 		)
 	)
+	(global_label "TFT_DVID_HPD"
+		(shape input)
+		(at 157.48 91.44 0)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 0.889 0.889)
+				(color 255 153 0 1)
+			)
+			(justify left)
+		)
+		(uuid "39f327f6-771e-4c36-93bf-0abe3653f88b")
+		(property "Intersheetrefs" "${INTERSHEET_REFS}"
+			(at 168.2554 91.44 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+				(hide yes)
+			)
+		)
+	)
 	(global_label "SCL"
 		(shape bidirectional)
 		(at 22.86 129.54 180)
@@ -7207,8 +7242,8 @@
 			)
 		)
 	)
-	(global_label "REAR_DVID_HPA"
-		(shape output)
+	(global_label "REAR_DVID_HPD"
+		(shape input)
 		(at 157.48 104.14 0)
 		(fields_autoplaced yes)
 		(effects
@@ -7220,7 +7255,7 @@
 		)
 		(uuid "76b4aaf5-6cba-469f-bd20-da42d917e7c0")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 169.3561 104.14 0)
+			(at 169.4831 104.14 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -7639,7 +7674,7 @@
 			)
 		)
 	)
-	(global_label "TFT_DVID_CEC"
+	(global_label "DVID_CEC"
 		(shape input)
 		(at 116.84 99.06 180)
 		(fields_autoplaced yes)
@@ -7652,7 +7687,7 @@
 		)
 		(uuid "cd5f7f3e-784c-4715-b4f1-79e7f72283f2")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 106.1916 99.06 0)
+			(at 108.9855 99.06 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -7708,8 +7743,8 @@
 			)
 		)
 	)
-	(global_label "TFT_DVID_HPA"
-		(shape input)
+	(global_label "DVID_HPD"
+		(shape output)
 		(at 116.84 101.6 180)
 		(fields_autoplaced yes)
 		(effects
@@ -7721,7 +7756,7 @@
 		)
 		(uuid "d90559af-f5ab-46b4-ab65-79daa97e8428")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 106.1916 101.6 0)
+			(at 108.8585 101.6 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -7865,6 +7900,29 @@
 					(size 1.27 1.27)
 				)
 				(justify right)
+				(hide yes)
+			)
+		)
+	)
+	(global_label "TFT_DVID_CEC"
+		(shape output)
+		(at 157.48 93.98 0)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 0.889 0.889)
+				(color 255 153 0 1)
+			)
+			(justify left)
+		)
+		(uuid "e98caeb4-dc40-4d16-b64d-8792d9f36771")
+		(property "Intersheetrefs" "${INTERSHEET_REFS}"
+			(at 168.1284 93.98 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
 				(hide yes)
 			)
 		)
