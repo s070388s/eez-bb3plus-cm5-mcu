@@ -60,18 +60,6 @@
       ],
       "drc_exclusions": [
         [
-          "clearance|119925001|96931507|27d3c9f6-e2ec-492e-9c31-183a5a69c490|8718966b-aacf-4d1a-a756-721e679b4abc",
-          ""
-        ],
-        [
-          "clearance|119982862|96984428|97d39fc3-c58c-400d-be22-d05cea89da6c|f7f5400b-e580-40ba-8636-a5d5ae779653",
-          ""
-        ],
-        [
-          "clearance|120861422|98007928|ddf35469-7de5-4d3b-86a4-01cdbc6c6d14|844943d1-a350-4694-bc70-00575b8996c5",
-          ""
-        ],
-        [
           "clearance|142660000|78564800|d0d17cce-050e-4644-b87e-ca1f113d3029|ffbc023d-ac1f-455a-a603-0a14ecf62611",
           ""
         ],
@@ -92,15 +80,31 @@
           ""
         ],
         [
-          "shorting_items|120840001|97991507|844943d1-a350-4694-bc70-00575b8996c5|cfce540c-b544-4e3d-8d6c-1e5d96086e30",
+          "shorting_items|117820000|97990000|d1b79eb9-137e-40c3-a3e8-45dbff3d2075|27d3c9f6-e2ec-492e-9c31-183a5a69c490",
           ""
         ],
         [
-          "solder_mask_bridge|119977863|96945934|97d39fc3-c58c-400d-be22-d05cea89da6c|8718966b-aacf-4d1a-a756-721e679b4abc",
+          "shorting_items|117836988|98123012|27d3c9f6-e2ec-492e-9c31-183a5a69c490|47cf3ec5-bdec-4341-8dcd-d25170b0abbf",
           ""
         ],
         [
-          "solder_mask_bridge|120840001|97991507|cfce540c-b544-4e3d-8d6c-1e5d96086e30|844943d1-a350-4694-bc70-00575b8996c5",
+          "shorting_items|117836988|98123012|47cf3ec5-bdec-4341-8dcd-d25170b0abbf|c048797e-1cc9-4f94-bd8a-2dc9af71d137",
+          ""
+        ],
+        [
+          "shorting_items|120880000|97980000|ef3c3e80-dfbc-4358-84be-2a1a70bf3b08|f13bd687-68b5-4bd1-84d6-1170c9cff0af",
+          ""
+        ],
+        [
+          "shorting_items|121150000|98120000|2cc9f396-d783-4863-b94d-e37fff44b166|ef3c3e80-dfbc-4358-84be-2a1a70bf3b08",
+          ""
+        ],
+        [
+          "solder_mask_bridge|117822279|97990000|c048797e-1cc9-4f94-bd8a-2dc9af71d137|d1b79eb9-137e-40c3-a3e8-45dbff3d2075",
+          ""
+        ],
+        [
+          "solder_mask_bridge|120880000|97980000|ef3c3e80-dfbc-4358-84be-2a1a70bf3b08|f13bd687-68b5-4bd1-84d6-1170c9cff0af",
           ""
         ],
         [
@@ -886,8 +890,8 @@
       "gencad": "",
       "idf": "",
       "netlist": "",
-      "plot": "fabrication/gerbers/",
-      "pos_files": "fabrication/pos/",
+      "plot": "../fabrication/gerbers/",
+      "pos_files": "../fabrication/pos/",
       "specctra_dsn": "",
       "step": "fabrication/step/Envox H745 Master MCU r2B6.step",
       "svg": "",

@@ -1,4 +1,4 @@
-### Footprint positions - created on 2025-11-03T10:46:17+0100 ###
+### Footprint positions - created on 2025-11-03T18:30:54+0100 ###
 ### Printed by KiCad version 9.0.6-9.0.6~ubuntu24.04.1
 ## Unit = mm, Angle = deg.
 ## Side : top
@@ -19,12 +19,13 @@ C62       100n                          C_0402_1005Metric            39.4200    
 C63       100n                          C_0402_1005Metric            39.6853    24.8032  180.0000  top
 C64       100n                          C_0402_1005Metric            45.1600    31.6600   90.0000  top
 C65       100n                          C_0402_1005Metric            39.6853    21.8132  180.0000  top
-C67       4u7                           C_0603_1608Metric            42.1200    32.0850  -90.0000  top
-C68       10n                           C_0402_1005Metric            27.2400    28.7200  180.0000  top
-C69       100n                          C_0402_1005Metric            27.2400    29.6400  180.0000  top
+C67       10u                           C_0603_1608Metric            43.9700    32.2300   90.0000  top
+C68       10u                           C_0603_1608Metric            39.5900    29.2300  -90.0000  top
+C70       10n                           C_0402_1005Metric            27.2400    28.7200  180.0000  top
+C71       100n                          C_0402_1005Metric            27.2400    29.6400  180.0000  top
 FB2       BLM18AG102SH1D                BEAD0603                      7.2030    12.2600    0.0000  top
-FB3       60R@100MHz                    BEAD0603                     43.7700    32.0000   90.0000  top
-FB4       60R@100MHz                    BEAD0603                     39.6900    29.1600   90.0000  top
+FB3       60R@100MHz                    BEAD0603                     42.3200    32.1500   90.0000  top
+FB4       60R@100MHz                    BEAD0603                     39.7400    32.1400   90.0000  top
 FM1       ~                             Fiducial_0.75mm_Mask1.5mm     7.4000    38.7200    0.0000  top
 FM2       ~                             Fiducial_0.75mm_Mask1.5mm    47.9000    38.7200    0.0000  top
 FM3       ~                             Fiducial_0.75mm_Mask1.5mm     7.4000     1.2200    0.0000  top
@@ -52,7 +53,7 @@ R10       10K                           R_0402_1005Metric             9.2207    
 R11       12K1                          R_0402_1005Metric             7.5500     5.7800  180.0000  top
 R12       10K                           R_0402_1005Metric            12.3300     1.9800  180.0000  top
 R13       10K                           R_0402_1005Metric            10.4700     1.9800    0.0000  top
-R19       4K99                          R_0402_1005Metric            46.0847    31.6400  -90.0000  top
+R19       4K7                           R_0402_1005Metric            46.0847    31.6400  -90.0000  top
 R20       10K                           R_0402_1005Metric            49.6700    31.3400   90.0000  top
 R21       510R                          R_0402_1005Metric            39.3900    26.3700  180.0000  top
 R22       1K                            R_0402_1005Metric            47.0200    31.6400   90.0000  top
