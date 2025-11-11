@@ -5,13 +5,13 @@
       "Application": "Pcbnew",
       "Version": "9.0.6-9.0.6~ubuntu24.04.1"
     },
-    "CreationDate": "2025-11-04T08:15:39+01:00"
+    "CreationDate": "2025-11-11T14:54:16+01:00"
   },
   "GeneralSpecs": {
     "ProjectId": {
       "Name": "BB3plus CM5 STM32H7 module",
       "GUID": "42423370-6c75-4732-9043-4d352053544d",
-      "Revision": "rev?"
+      "Revision": "r1B1"
     },
     "Size": {
       "X": 55.1,
@@ -37,8 +37,8 @@
       "PadToTrack": 0.0,
       "TrackToTrack": -0.0,
       "MinLineWidth": 0.127,
-      "TrackToRegion": 0.1524,
-      "RegionToRegion": 0.1524
+      "TrackToRegion": 0.127,
+      "RegionToRegion": 0.127
     }
   ],
   "FilesAttributes": [

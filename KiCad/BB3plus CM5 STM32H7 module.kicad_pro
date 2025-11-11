@@ -72,35 +72,19 @@
           ""
         ],
         [
-          "courtyards_overlap|121165000|96735000|4c877f89-c293-4280-a688-ce71458e0a60|d486bef9-35e6-4e45-bd70-027c763744ac",
+          "courtyards_overlap|118285000|98525000|236093b5-5e19-4708-bc19-8c2ede3c4578|f32fcb4d-e130-49c4-80d5-518698a98213",
           ""
         ],
         [
-          "courtyards_overlap|122935002|97088012|7b5e9e03-38d3-432e-82c8-74e695faa9cf|dc15cee2-cf17-4b81-9984-c6fcbc33d537",
+          "courtyards_overlap|119215002|98525000|236093b5-5e19-4708-bc19-8c2ede3c4578|81453b1c-130b-46e7-abd7-f146ab285001",
           ""
         ],
         [
-          "shorting_items|117820000|97990000|27d3c9f6-e2ec-492e-9c31-183a5a69c490|d1b79eb9-137e-40c3-a3e8-45dbff3d2075",
+          "courtyards_overlap|120325000|98525000|236093b5-5e19-4708-bc19-8c2ede3c4578|4c877f89-c293-4280-a688-ce71458e0a60",
           ""
         ],
         [
-          "shorting_items|117836988|98123012|27d3c9f6-e2ec-492e-9c31-183a5a69c490|47cf3ec5-bdec-4341-8dcd-d25170b0abbf",
-          ""
-        ],
-        [
-          "shorting_items|117836988|98123012|47cf3ec5-bdec-4341-8dcd-d25170b0abbf|c048797e-1cc9-4f94-bd8a-2dc9af71d137",
-          ""
-        ],
-        [
-          "shorting_items|121150000|98120000|2cc9f396-d783-4863-b94d-e37fff44b166|ef3c3e80-dfbc-4358-84be-2a1a70bf3b08",
-          ""
-        ],
-        [
-          "solder_mask_bridge|117822279|97990000|c048797e-1cc9-4f94-bd8a-2dc9af71d137|d1b79eb9-137e-40c3-a3e8-45dbff3d2075",
-          ""
-        ],
-        [
-          "solder_mask_bridge|120880000|97980000|ef3c3e80-dfbc-4358-84be-2a1a70bf3b08|f13bd687-68b5-4bd1-84d6-1170c9cff0af",
+          "courtyards_overlap|121235000|96735000|4c877f89-c293-4280-a688-ce71458e0a60|d486bef9-35e6-4e45-bd70-027c763744ac",
           ""
         ],
         [
@@ -259,7 +243,7 @@
           "max_amplitude": 0.635,
           "min_amplitude": 0.127,
           "single_sided": false,
-          "spacing": 0.635
+          "spacing": 0.381
         },
         "diff_pair_skew_defaults": {
           "corner_radius_percentage": 80,
@@ -286,10 +270,6 @@
         {
           "diameter": 0.42,
           "drill": 0.2
-        },
-        {
-          "diameter": 0.46,
-          "drill": 0.25
         },
         {
           "diameter": 0.5,
@@ -567,8 +547,8 @@
         "priority": 2147483647,
         "schematic_color": "rgba(0, 0, 0, 0.000)",
         "track_width": 0.1524,
-        "via_diameter": 0.45,
-        "via_drill": 0.3,
+        "via_diameter": 0.42,
+        "via_drill": 0.2,
         "wire_width": 6
       },
       {
