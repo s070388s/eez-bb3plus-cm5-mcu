@@ -6,7 +6,7 @@
 	(paper "A4")
 	(title_block
 		(title "${project_name}")
-		(date "2025-11-17")
+		(date "2025-11-23")
 		(rev "${project_version}")
 		(company "${project_creator}")
 		(comment 1 "${project_license}")
@@ -7233,10 +7233,6 @@
 		(uuid "3b15866c-f565-4780-bb8b-9211a361af34")
 	)
 	(no_connect
-		(at 71.12 45.72)
-		(uuid "44f9d999-5b82-4d10-a648-fc2c8d927d2f")
-	)
-	(no_connect
 		(at 71.12 38.1)
 		(uuid "503b490b-547a-4676-b396-a8640cc7f7a7")
 	)
@@ -7821,6 +7817,16 @@
 			(type default)
 		)
 		(uuid "108901b6-453f-4a98-a7da-51f8c20dc54d")
+	)
+	(wire
+		(pts
+			(xy 76.2 45.72) (xy 71.12 45.72)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "10faceb0-eef1-4791-bfc9-b61d7e793b59")
 	)
 	(wire
 		(pts
@@ -12353,7 +12359,7 @@
 			)
 		)
 	)
-	(global_label "UART0_RX{slash}DIN2"
+	(global_label "UART_RX{slash}DIN2"
 		(shape input)
 		(at 76.2 88.9 0)
 		(fields_autoplaced yes)
@@ -12365,7 +12371,7 @@
 		)
 		(uuid "197aa03e-8051-4748-a9a4-2ef069bb8527")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 88.3725 88.9 0)
+			(at 87.5258 88.9 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -12601,7 +12607,7 @@
 			)
 		)
 	)
-	(global_label "UART1_RX{slash}DIN1"
+	(global_label "RS485_RX{slash}DIN1"
 		(shape input)
 		(at 76.2 27.94 0)
 		(fields_autoplaced yes)
@@ -12613,7 +12619,7 @@
 		)
 		(uuid "4703adf8-c078-4b74-be72-8db2c6bfca88")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 88.3725 27.94 0)
+			(at 88.542 27.94 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -12982,7 +12988,7 @@
 			)
 		)
 	)
-	(global_label "UART0_TX{slash}DOUT3"
+	(global_label "UART_TX{slash}DOUT3"
 		(shape output)
 		(at 76.2 132.08 0)
 		(fields_autoplaced yes)
@@ -12994,7 +13000,7 @@
 		)
 		(uuid "79a16a8b-9c05-4f36-836d-a30b2d2ef4e9")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 89.3461 132.08 0)
+			(at 88.4994 132.08 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -13432,7 +13438,7 @@
 			)
 		)
 	)
-	(global_label "UART1_TX{slash}DOUT1"
+	(global_label "RS485_TX{slash}DOUT1"
 		(shape output)
 		(at 76.2 30.48 0)
 		(fields_autoplaced yes)
@@ -13444,7 +13450,7 @@
 		)
 		(uuid "a8be800e-f0c5-475a-829e-845eaf51d609")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 89.3461 30.48 0)
+			(at 89.5156 30.48 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -13832,6 +13838,28 @@
 					(size 1.27 1.27)
 				)
 				(justify right)
+				(hide yes)
+			)
+		)
+	)
+	(global_label "DIN3"
+		(shape input)
+		(at 76.2 45.72 0)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 0.889 0.889)
+			)
+			(justify left)
+		)
+		(uuid "c9569bd0-9053-480b-9dce-ddd1e005a285")
+		(property "Intersheetrefs" "${INTERSHEET_REFS}"
+			(at 80.9219 45.72 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
 				(hide yes)
 			)
 		)
