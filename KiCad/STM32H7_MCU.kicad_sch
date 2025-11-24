@@ -6,7 +6,7 @@
 	(paper "A4")
 	(title_block
 		(title "${project_name}")
-		(date "2025-11-23")
+		(date "2025-11-24")
 		(rev "${project_version}")
 		(company "${project_creator}")
 		(comment 1 "${project_license}")
@@ -7237,8 +7237,12 @@
 		(uuid "503b490b-547a-4676-b396-a8640cc7f7a7")
 	)
 	(no_connect
-		(at 149.86 33.02)
-		(uuid "59f25ed0-d4f9-487d-bb83-5bfc9f71f569")
+		(at 71.12 73.66)
+		(uuid "556449c0-4b08-4910-a814-940c9b7a564e")
+	)
+	(no_connect
+		(at 71.12 43.18)
+		(uuid "5d5e587f-ea34-4355-848a-13d33294cbae")
 	)
 	(no_connect
 		(at 71.12 55.88)
@@ -7279,10 +7283,6 @@
 	(no_connect
 		(at 149.86 50.8)
 		(uuid "d2d1a704-aeba-4e35-94e9-a2cfd797d93c")
-	)
-	(no_connect
-		(at 71.12 73.66)
-		(uuid "df1ed5de-0a3b-422b-9e81-d5b4e282a33d")
 	)
 	(no_connect
 		(at 40.64 149.86)
@@ -7817,16 +7817,6 @@
 			(type default)
 		)
 		(uuid "108901b6-453f-4a98-a7da-51f8c20dc54d")
-	)
-	(wire
-		(pts
-			(xy 76.2 45.72) (xy 71.12 45.72)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "10faceb0-eef1-4791-bfc9-b61d7e793b59")
 	)
 	(wire
 		(pts
@@ -8974,16 +8964,6 @@
 	)
 	(wire
 		(pts
-			(xy 76.2 43.18) (xy 71.12 43.18)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "5643bdbe-45ce-4beb-bbaf-23a853b5e0ae")
-	)
-	(wire
-		(pts
 			(xy 149.86 137.16) (xy 147.32 137.16)
 		)
 		(stroke
@@ -9261,6 +9241,16 @@
 			(type default)
 		)
 		(uuid "683de72b-4352-42dc-af2c-db4a6f9d44c3")
+	)
+	(wire
+		(pts
+			(xy 149.86 33.02) (xy 154.94 33.02)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "6874dc92-3849-4853-b35f-94a5ba0c00e2")
 	)
 	(wire
 		(pts
@@ -11227,6 +11217,16 @@
 	)
 	(wire
 		(pts
+			(xy 76.2 45.72) (xy 71.12 45.72)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "e3317403-6bd2-4b89-a67e-211e46da5744")
+	)
+	(wire
+		(pts
 			(xy 213.36 43.18) (xy 215.9 43.18)
 		)
 		(stroke
@@ -12359,7 +12359,7 @@
 			)
 		)
 	)
-	(global_label "UART_RX{slash}DIN2"
+	(global_label "UART_RX{slash}DIN1"
 		(shape input)
 		(at 76.2 88.9 0)
 		(fields_autoplaced yes)
@@ -12519,7 +12519,7 @@
 	)
 	(global_label "ETH_REF_CLK"
 		(shape input)
-		(at 76.2 43.18 0)
+		(at 76.2 45.72 0)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -12530,7 +12530,7 @@
 		)
 		(uuid "30123289-44ba-4aca-88dd-3b675ff876f7")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 86.5521 43.18 0)
+			(at 86.5521 45.72 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -12607,7 +12607,7 @@
 			)
 		)
 	)
-	(global_label "RS485_RX{slash}DIN1"
+	(global_label "RS485_RX{slash}DIN3"
 		(shape input)
 		(at 76.2 27.94 0)
 		(fields_autoplaced yes)
@@ -12988,7 +12988,7 @@
 			)
 		)
 	)
-	(global_label "UART_TX{slash}DOUT3"
+	(global_label "UART_TX{slash}DOUT1"
 		(shape output)
 		(at 76.2 132.08 0)
 		(fields_autoplaced yes)
@@ -13438,7 +13438,7 @@
 			)
 		)
 	)
-	(global_label "RS485_TX{slash}DOUT1"
+	(global_label "RS485_TX{slash}DOUT3"
 		(shape output)
 		(at 76.2 30.48 0)
 		(fields_autoplaced yes)
@@ -13842,9 +13842,9 @@
 			)
 		)
 	)
-	(global_label "DIN3"
+	(global_label "DIN2"
 		(shape input)
-		(at 76.2 45.72 0)
+		(at 154.94 33.02 0)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -13854,7 +13854,7 @@
 		)
 		(uuid "c9569bd0-9053-480b-9dce-ddd1e005a285")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 80.9219 45.72 0)
+			(at 159.6619 33.02 0)
 			(effects
 				(font
 					(size 1.27 1.27)

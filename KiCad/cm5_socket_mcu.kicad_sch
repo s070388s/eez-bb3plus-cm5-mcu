@@ -6,7 +6,7 @@
 	(paper "A4")
 	(title_block
 		(title "${project_name}")
-		(date "2025-11-23")
+		(date "2025-11-24")
 		(rev "${project_version}")
 		(company "${project_creator}")
 		(comment 1 "${project_license}")
@@ -7284,7 +7284,7 @@
 			)
 		)
 	)
-	(global_label "DIN3"
+	(global_label "DIN2"
 		(shape output)
 		(at 109.22 68.58 0)
 		(fields_autoplaced yes)
@@ -8092,7 +8092,7 @@
 			)
 		)
 	)
-	(global_label "UART_RX{slash}DIN2"
+	(global_label "UART_RX{slash}DIN1"
 		(shape output)
 		(at 43.18 96.52 180)
 		(fields_autoplaced yes)
@@ -8159,7 +8159,7 @@
 			)
 		)
 	)
-	(global_label "RS485_RX{slash}DIN1"
+	(global_label "RS485_RX{slash}DIN3"
 		(shape output)
 		(at 40.64 149.86 180)
 		(fields_autoplaced yes)
@@ -8359,7 +8359,7 @@
 			)
 		)
 	)
-	(global_label "RS485_TX{slash}DOUT1"
+	(global_label "RS485_TX{slash}DOUT3"
 		(shape input)
 		(at 109.22 147.32 0)
 		(fields_autoplaced yes)
@@ -8381,7 +8381,7 @@
 			)
 		)
 	)
-	(global_label "UART_TX{slash}DOUT3"
+	(global_label "UART_TX{slash}DOUT1"
 		(shape input)
 		(at 43.18 93.98 180)
 		(fields_autoplaced yes)
