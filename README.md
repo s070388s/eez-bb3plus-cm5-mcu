@@ -20,8 +20,8 @@ The MCU module uses a high performance STM32 MCU and is pin compatible with Rasp
 * 4 GB eMMC 
 * Two USB ports (FS and HS)
 * 10/100 Mbps Ethernet
-* 24-bit color video output with 1:2 MUX (HDMI compatible)
-* 6-layer PCB
+* 24-bit color video output with 1:2 MUX (HDMI® compatible)
+* 6-layer PCB (without buried/blind vias)
 
 ### Related topics and links
 

@@ -6,7 +6,7 @@
 	(paper "A4")
 	(title_block
 		(title "${project_name}")
-		(date "2025-11-28")
+		(date "2025-12-19")
 		(rev "${project_version}")
 		(company "${project_creator}")
 		(comment 1 "${project_license}")
@@ -38,7 +38,7 @@
 					(justify left top)
 				)
 			)
-			(property "Footprint" "PCM_EEZ_BGA:BGA24C100P5X5_800X600X120"
+			(property "Footprint" "PCM_EEZ_BGA:APS256XXN-OBR-BG_APY-L"
 				(at 0 -48.26 0)
 				(effects
 					(font
@@ -13007,7 +13007,7 @@
 				(justify left top)
 			)
 		)
-		(property "Footprint" "PCM_EEZ_BGA:BGA24C100P5X5_800X600X120"
+		(property "Footprint" "PCM_EEZ_BGA:APS256XXN-OBR-BG_APY-L"
 			(at 208.28 88.9 0)
 			(effects
 				(font

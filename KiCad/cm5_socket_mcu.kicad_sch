@@ -6,7 +6,7 @@
 	(paper "A4")
 	(title_block
 		(title "${project_name}")
-		(date "2025-11-28")
+		(date "2025-12-19")
 		(rev "${project_version}")
 		(company "${project_creator}")
 		(comment 1 "${project_license}")
@@ -207,7 +207,7 @@
 					(justify left bottom)
 				)
 			)
-			(property "Value" "2x DF40HC(3.0)-100DS-0.4V(51"
+			(property "Value" "2x DF40C-100DP-0.4V(51)"
 				(at 0 -130.175 0)
 				(do_not_autoplace)
 				(effects
@@ -244,7 +244,7 @@
 					(hide yes)
 				)
 			)
-			(property "DigiKey" "26-DF40HC(3.0)-100DS-0.4V(51)CT-ND"
+			(property "DigiKey" "H11614CT-ND"
 				(at 0 -139.7 0)
 				(show_name)
 				(effects
@@ -254,7 +254,7 @@
 					(hide yes)
 				)
 			)
-			(property "Mouser" "798-DF40HC30100DS451"
+			(property "Mouser" "798-DF40C100DP0.4V51"
 				(at 0 -142.24 0)
 				(show_name)
 				(effects
@@ -264,7 +264,7 @@
 					(hide yes)
 				)
 			)
-			(property "TME" "-"
+			(property "TME" "DF40C-100DP-04V-51"
 				(at 0 -144.78 0)
 				(show_name)
 				(effects
@@ -274,7 +274,7 @@
 					(hide yes)
 				)
 			)
-			(property "LCSC" "C424649"
+			(property "LCSC" "C531031"
 				(at 0 -147.32 0)
 				(show_name)
 				(effects
@@ -1189,6 +1189,24 @@
 						)
 					)
 					(number "100"
+						(effects
+							(font
+								(size 0.889 0.889)
+							)
+						)
+					)
+				)
+				(pin passive line
+					(at 22.86 -132.08 90)
+					(length 2.54)
+					(name "SH"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "SH"
 						(effects
 							(font
 								(size 0.889 0.889)
@@ -4253,6 +4271,155 @@
 			)
 			(embedded_fonts no)
 		)
+		(symbol "PCM_EEZ_unsorted:JP2 shorted"
+			(exclude_from_sim no)
+			(in_bom no)
+			(on_board yes)
+			(property "Reference" "JP"
+				(at -3.175 1.27 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(justify left bottom)
+				)
+			)
+			(property "Value" ""
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "Footprint" "PCM_EEZ_SMD:JP2 shorted"
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "Datasheet" ""
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "Description" ""
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(symbol "JP2 shorted_1_0"
+				(arc
+					(start 1.016 -0.508)
+					(mid 0.5102 0)
+					(end 1.016 0.508)
+					(stroke
+						(width 0.0001)
+						(type solid)
+					)
+					(fill
+						(type outline)
+					)
+				)
+				(arc
+					(start 1.524 0.508)
+					(mid 1.8832 0.3592)
+					(end 2.032 0)
+					(stroke
+						(width 0.0001)
+						(type solid)
+					)
+					(fill
+						(type outline)
+					)
+				)
+				(arc
+					(start 2.032 0)
+					(mid 1.8832 -0.3592)
+					(end 1.524 -0.508)
+					(stroke
+						(width 0.0001)
+						(type solid)
+					)
+					(fill
+						(type outline)
+					)
+				)
+				(polyline
+					(pts
+						(xy 1.778 0) (xy 0 0)
+					)
+					(stroke
+						(width 0.1524)
+						(type solid)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(polyline
+					(pts
+						(xy 2.54 0) (xy 1.778 0)
+					)
+					(stroke
+						(width 0.1524)
+						(type solid)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(pin passive line
+					(at 0 0 270)
+					(length 0)
+					(name "1"
+						(effects
+							(font
+								(size 0 0)
+							)
+						)
+					)
+					(number "1"
+						(effects
+							(font
+								(size 0 0)
+							)
+						)
+					)
+				)
+				(pin passive line
+					(at 2.54 0 270)
+					(length 0)
+					(name "2"
+						(effects
+							(font
+								(size 0 0)
+							)
+						)
+					)
+					(number "2"
+						(effects
+							(font
+								(size 0 0)
+							)
+						)
+					)
+				)
+			)
+			(embedded_fonts no)
+		)
 		(symbol "power:GND"
 			(power)
 			(pin_numbers
@@ -4470,6 +4637,28 @@
 		)
 		(uuid "d99ae3b7-9820-4d42-9bcf-ac94904eabc4")
 	)
+	(text_box "Disable rear top USB since it\nis not supported"
+		(exclude_from_sim no)
+		(at 212.725 35.56 0)
+		(size 22.225 4.445)
+		(margins 0.9525 0.9525 0.9525 0.9525)
+		(stroke
+			(width 0)
+			(type solid)
+			(color 132 0 132 1)
+		)
+		(fill
+			(type none)
+		)
+		(effects
+			(font
+				(size 0.889 0.889)
+				(color 132 0 132 1)
+			)
+			(justify left top)
+		)
+		(uuid "03bd81e5-6ad5-45e8-8f06-fcf685e455b8")
+	)
 	(junction
 		(at 104.14 66.04)
 		(diameter 0)
@@ -4649,6 +4838,12 @@
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "5ee8eca6-9228-4831-b990-9e1733ef2b6a")
+	)
+	(junction
+		(at 208.28 38.1)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "661a8bba-3d09-410b-b0bc-45bf90d700f9")
 	)
 	(junction
 		(at 147.32 48.26)
@@ -4975,10 +5170,6 @@
 		(uuid "6a108d9d-83fa-44c0-9ccc-f226769ad183")
 	)
 	(no_connect
-		(at 205.74 38.1)
-		(uuid "7344abdd-4687-4661-b188-e44097491241")
-	)
-	(no_connect
 		(at 50.8 111.76)
 		(uuid "77192da5-2218-440e-93dc-da9197c51931")
 	)
@@ -5148,6 +5339,16 @@
 			(type default)
 		)
 		(uuid "05eef769-e256-4997-b309-1af075702b3c")
+	)
+	(wire
+		(pts
+			(xy 208.28 38.1) (xy 208.28 40.64)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "078c37ee-a3d2-427b-a542-b83ec6359321")
 	)
 	(wire
 		(pts
@@ -6872,7 +7073,7 @@
 	)
 	(wire
 		(pts
-			(xy 208.28 33.02) (xy 208.28 40.64)
+			(xy 208.28 33.02) (xy 208.28 38.1)
 		)
 		(stroke
 			(width 0)
@@ -8409,7 +8610,7 @@
 			)
 		)
 	)
-	(global_label "WDG_IN"
+	(global_label "DIB_OE_SYNC"
 		(shape input)
 		(at 43.18 83.82 180)
 		(fields_autoplaced yes)
@@ -8421,7 +8622,7 @@
 		)
 		(uuid "b2a8aead-f605-42bf-8e3c-94a6386d8af9")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 36.7225 83.82 0)
+			(at 32.8279 83.82 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -9360,7 +9561,7 @@
 				(hide yes)
 			)
 		)
-		(property "DigiKey" "26-DF40HC(3.0)-100DS-0.4V(51)CT-ND"
+		(property "DigiKey" "H11614CT-ND"
 			(at 53.34 162.56 0)
 			(effects
 				(font
@@ -9369,7 +9570,7 @@
 				(hide yes)
 			)
 		)
-		(property "Mouser" "798-DF40HC30100DS451"
+		(property "Mouser" "798-DF40C100DP0.4V51"
 			(at 53.34 165.1 0)
 			(effects
 				(font
@@ -9378,7 +9579,7 @@
 				(hide yes)
 			)
 		)
-		(property "TME" "-"
+		(property "TME" "DF40C-100DP-04V-51"
 			(at 53.34 167.64 0)
 			(effects
 				(font
@@ -9387,7 +9588,7 @@
 				(hide yes)
 			)
 		)
-		(property "LCSC" "C424649"
+		(property "LCSC" "C531031"
 			(at 53.34 170.18 0)
 			(effects
 				(font
@@ -9996,6 +10197,9 @@
 		(pin "197"
 			(uuid "f43419a0-9b2d-4707-b3e8-06319f6938cd")
 		)
+		(pin "SH"
+			(uuid "5e7929d9-3cec-481e-be1c-8aac353209c3")
+		)
 		(instances
 			(project ""
 				(path "/1a4f0aea-3a69-423f-8790-3103cd0321c4/c2910023-6066-4877-a406-045757318a99"
@@ -10176,6 +10380,111 @@
 		)
 	)
 	(symbol
+		(lib_id "PCM_EEZ_unsorted:JP2 shorted")
+		(at 205.74 38.1 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom no)
+		(on_board yes)
+		(dnp no)
+		(uuid "a14e90a1-a1fb-4f55-859a-a008fc9f570b")
+		(property "Reference" "JP2"
+			(at 208.915 38.1 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Value" "~"
+			(at 205.74 38.1 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Footprint" "PCM_EEZ_SMD:JP2 shorted (0603)"
+			(at 205.74 38.1 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" ""
+			(at 205.74 38.1 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" ""
+			(at 205.74 38.1 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "DigiKey" ""
+			(at 205.74 38.1 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Mouser" ""
+			(at 205.74 38.1 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "TME" ""
+			(at 205.74 38.1 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC" ""
+			(at 205.74 38.1 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "2"
+			(uuid "52f3726d-07c3-43a5-99b6-9c56a932f14a")
+		)
+		(pin "1"
+			(uuid "6f07309b-72e6-466a-92c9-276d05208896")
+		)
+		(instances
+			(project ""
+				(path "/1a4f0aea-3a69-423f-8790-3103cd0321c4/c2910023-6066-4877-a406-045757318a99"
+					(reference "JP2")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
 		(lib_id "power:PWR_FLAG")
 		(at 109.22 121.92 0)
 		(unit 1)
@@ -10294,7 +10603,7 @@
 				(hide yes)
 			)
 		)
-		(property "DigiKey" "26-DF40HC(3.0)-100DS-0.4V(51)CT-ND"
+		(property "DigiKey" "H11614CT-ND"
 			(at 154.94 162.56 0)
 			(effects
 				(font
@@ -10303,7 +10612,7 @@
 				(hide yes)
 			)
 		)
-		(property "Mouser" "798-DF40HC30100DS451"
+		(property "Mouser" "798-DF40C100DP0.4V51"
 			(at 154.94 165.1 0)
 			(effects
 				(font
@@ -10312,7 +10621,7 @@
 				(hide yes)
 			)
 		)
-		(property "TME" "-"
+		(property "TME" "DF40C-100DP-04V-51"
 			(at 154.94 167.64 0)
 			(effects
 				(font
@@ -10321,7 +10630,7 @@
 				(hide yes)
 			)
 		)
-		(property "LCSC" "C424649"
+		(property "LCSC" "C531031"
 			(at 154.94 170.18 0)
 			(effects
 				(font
@@ -10930,6 +11239,9 @@
 		(pin "197"
 			(uuid "f43419a0-9b2d-4707-b3e8-06319f6938ce")
 		)
+		(pin "SH"
+			(uuid "5e056053-4e39-4b41-bf3f-1cde8f487c09")
+		)
 		(instances
 			(project ""
 				(path "/1a4f0aea-3a69-423f-8790-3103cd0321c4/c2910023-6066-4877-a406-045757318a99"
@@ -11066,6 +11378,72 @@
 			(project "BB3plus CM5 STM32H7 module"
 				(path "/1a4f0aea-3a69-423f-8790-3103cd0321c4/c2910023-6066-4877-a406-045757318a99"
 					(reference "#PWR07")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "power:GND")
+		(at 76.2 154.94 0)
+		(mirror y)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(uuid "dd04d421-d763-4000-98d2-011a9a9850a5")
+		(property "Reference" "#PWR019"
+			(at 76.2 161.29 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Value" "GND"
+			(at 72.39 156.21 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" ""
+			(at 76.2 154.94 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" ""
+			(at 76.2 154.94 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Power symbol creates a global label with name \"GND\" , ground"
+			(at 76.2 154.94 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "0672bed8-7edf-4afc-991b-304dfc182ab6")
+		)
+		(instances
+			(project "BB3plus CM5 STM32H7 module"
+				(path "/1a4f0aea-3a69-423f-8790-3103cd0321c4/c2910023-6066-4877-a406-045757318a99"
+					(reference "#PWR019")
 					(unit 1)
 				)
 			)

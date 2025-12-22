@@ -1,4 +1,4 @@
-### Footprint positions - created on 2025-11-23T23:41:06+0100 ###
+### Footprint positions - created on 2025-12-22T17:11:51+0100 ###
 ### Printed by KiCad version 9.0.6-9.0.6~ubuntu24.04.1
 ## Unit = mm, Angle = deg.
 ## Side : top
@@ -30,7 +30,6 @@ FM1       ~                             Fiducial_0.75mm_Mask1.5mm     7.4000    
 FM2       ~                             Fiducial_0.75mm_Mask1.5mm    47.9000    38.7200    0.0000  top
 FM3       ~                             Fiducial_0.75mm_Mask1.5mm     7.4000     1.2200    0.0000  top
 FM4       ~                             Fiducial_0.75mm_Mask1.5mm    47.9000     1.2200    0.0000  top
-G***      LOGO                          Intergalaktik_logo           34.5700     5.0600    0.0000  top
 IC1       AZ1117CH2-3.3TRG1             SOT223                       50.3075    11.1900    0.0000  top
 IC2       SN74LVC1G14DBVR               DBV5                         16.4738     2.6700    0.0000  top
 IC3       STM32H7R7L8H6H                TFBGA225_13X13_STM           25.0200    17.5270   90.0000  top
@@ -40,7 +39,7 @@ IC6       LAN8742A-CZ-TR                SQFN24_4X4MC_MCH-M           11.2300    
 IC7       APS256XXN-OBR-BG              APS256XXN-OBR-BG_APY-L       39.7500    13.1250  -90.0000  top
 IC8       TFP410PAP                     PAP64_5X5-L                  46.9900    24.0500  -90.0000  top
 IC9       TS3DV642A0RUAR                RUA42_7P55X2P05              33.3100    30.4400   90.0000  top
-IC10      MX25UM25645GXDI00-T           BGA24C100P5X5_800X600X120    21.2000    31.3900    0.0000  top
+IC10      MX25UM25645GXDI00-T           APS256XXN-OBR-BG_APY-L       21.2500    31.3221   90.0000  top
 JP1       ~                             JP3_shorted_(0603)           48.3100    33.3200   90.0000  top
 R1        1K5                           R_0402_1005Metric            17.0900    14.3800  180.0000  top
 R2        1K5                           R_0402_1005Metric            17.0900    15.3300  180.0000  top
@@ -57,7 +56,9 @@ R17       4K7                           R_0402_1005Metric            46.0847    
 R18       10K                           R_0402_1005Metric            49.6700    31.3400   90.0000  top
 R19       510R                          R_0402_1005Metric            39.3900    26.3700  180.0000  top
 R20       1K                            R_0402_1005Metric            47.0200    31.6400   90.0000  top
-R22       10K                           R_0402_1005Metric            26.8100    32.8900  -90.0000  top
+R21       10K                           R_0402_1005Metric            20.6152    27.5600  180.0000  top
+R22       10K                           R_0402_1005Metric            16.3560    33.8400   90.0000  top
+R23       10K                           R_0402_1005Metric            28.1600    10.2100    0.0000  top
 RN1       CAY16A-330J4AS                CAY16                        11.4100    12.2400  180.0000  top
 RN2       CAY16A-330J4AS                CAY16                        16.1000    12.2400  180.0000  top
 SoM1      2x_DF40HC(3.0)-100DS-0.4V(51  Raspberry-Pi-CM5_(SoM)       51.5000     3.5200   90.0000  top
