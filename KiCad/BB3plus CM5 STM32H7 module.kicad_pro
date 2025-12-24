@@ -76,7 +76,7 @@
           ""
         ],
         [
-          "courtyards_overlap|102454194|73213000|21aa119f-277a-4a8f-972c-7c0d9d5f2d0b|c7269226-2f31-41ab-9228-9e1355fd9fb7",
+          "courtyards_overlap|100628000|75067921|c7269226-2f31-41ab-9228-9e1355fd9fb7|f6d8b42f-e40f-4427-b7dd-85c064dbb18a",
           ""
         ],
         [
@@ -93,6 +93,18 @@
         ],
         [
           "courtyards_overlap|121235000|96735000|4c877f89-c293-4280-a688-ce71458e0a60|d486bef9-35e6-4e45-bd70-027c763744ac",
+          ""
+        ],
+        [
+          "courtyards_overlap|95548222|78003844|21aa119f-277a-4a8f-972c-7c0d9d5f2d0b|f6d8b42f-e40f-4427-b7dd-85c064dbb18a",
+          ""
+        ],
+        [
+          "silk_over_copper|103846500|99512506|a6e9eb6f-1315-41c6-9f26-7c4e2ac15381|00000000-0000-0000-0000-000000000000",
+          ""
+        ],
+        [
+          "silk_overlap|111044696|78897885|1dee86fb-1865-47dd-b255-494ab3220fd7|ad6efe5b-5260-4e0a-9810-c97417b093fe",
           ""
         ],
         [
@@ -1068,6 +1080,6 @@
     "project_license": "Licensed under the TAPR Open Hardware License (www.tapr.org/OHL)",
     "project_name": "EEZ BB3+ STM32H7 CM5 module",
     "project_url": "https://www.envox.eu",
-    "project_version": "r1B2"
+    "project_version": "r1B3"
   }
 }

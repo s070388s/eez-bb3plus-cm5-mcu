@@ -1,4 +1,4 @@
-### Footprint positions - created on 2025-12-22T17:11:51+0100 ###
+### Footprint positions - created on 2025-12-24T17:25:21+0100 ###
 ### Printed by KiCad version 9.0.6-9.0.6~ubuntu24.04.1
 ## Unit = mm, Angle = deg.
 ## Side : bottom
@@ -41,12 +41,12 @@ C40       4u7                   C_0603_1608Metric       28.6000    24.8200   90.
 C41       4u7                   C_0603_1608Metric       26.7000    24.8200   90.0000  bottom
 C42       10p                   C_0402_1005Metric       10.1957     4.9100    0.0000  bottom
 C43       10p                   C_0402_1005Metric       13.1557     4.9100  180.0000  bottom
-C44       2u2                   C_0402_1005Metric        6.3294    20.6392  180.0000  bottom
-C45       2u2                   C_0402_1005Metric        4.3294    24.5592  180.0000  bottom
-C46       2u2                   C_0402_1005Metric       11.9300    25.3400   90.0000  bottom
-C47       100n                  C_0402_1005Metric        6.3294    19.7192  180.0000  bottom
-C48       100n                  C_0402_1005Metric        4.3294    23.6392  180.0000  bottom
-C49       100n                  C_0402_1005Metric       11.0086    25.3400   90.0000  bottom
+C44       2u2                   C_0402_1005Metric        2.6000    25.1400  -90.0000  bottom
+C45       2u2                   C_0402_1005Metric        9.9100    23.7487   90.0000  bottom
+C46       2u2                   C_0402_1005Metric        7.1800    27.6800   90.0000  bottom
+C47       100n                  C_0402_1005Metric        3.5200    25.1400  -90.0000  bottom
+C48       100n                  C_0402_1005Metric        8.9900    23.7487   90.0000  bottom
+C49       100n                  C_0402_1005Metric        6.2586    27.6800   90.0000  bottom
 C56       100n                  C_0402_1005Metric        7.2600     9.5500    0.0000  bottom
 C57       100n                  C_0402_1005Metric       38.7500    16.3850   90.0000  bottom
 C58       4u7                   C_0603_1608Metric       37.5600    16.9450   90.0000  bottom
@@ -63,11 +63,11 @@ C77       4u7                   C_0603_1608Metric       22.6552    27.5600  -90.
 FB1       FBMJ1608HM180NTR      BEAD0603                27.6000    10.2100  -90.0000  bottom
 FB5       60R@100MHz            BEAD0603                39.0700    20.4200  180.0000  bottom
 L1        LQM2MPN2R2NG0         0806                    23.2886    10.2370    0.0000  bottom
-R12       10K                   R_0402_1005Metric       40.8500    13.2000  180.0000  bottom
-R13       49R9                  R_0402_1005Metric        7.2800     7.6700    0.0000  bottom
-R14       49R9                  R_0402_1005Metric        7.2800     8.6100    0.0000  bottom
-R15       49R9                  R_0402_1005Metric        7.2800     5.7900    0.0000  bottom
-R16       49R9                  R_0402_1005Metric        7.2800     6.7300  180.0000  bottom
+R13       10K                   R_0402_1005Metric       40.8500    13.2000  180.0000  bottom
+R14       49R9                  R_0402_1005Metric        7.2800     7.6700    0.0000  bottom
+R15       49R9                  R_0402_1005Metric        7.2800     8.6100    0.0000  bottom
+R16       49R9                  R_0402_1005Metric        7.2800     5.7900    0.0000  bottom
+R17       49R9                  R_0402_1005Metric        7.2800     6.7300  180.0000  bottom
 Y1        VXM7-9032-25M0000000  XTAL_403C11A24M00000    32.1500    12.0500    0.0000  bottom
 Y2        VXM7-9032-25M0000000  XTAL_403C11A24M00000    11.6757     2.5200  -90.0000  bottom
 ## End

@@ -17,8 +17,8 @@ The MCU module uses a high performance STM32 MCU and is pin compatible with Rasp
 * [STM32H7R7L8H6H](https://www.st.com/en/microcontrollers-microprocessors/stm32h7r7l8.html) 32-bit High-Performance Arm Cortex-M7 MCU, 600 MHz, NeoChrom GPU
 * 32 MB PSRAM
 * 32 MB Flash memory
-* 4 GB eMMC 
-* Two USB ports (FS and HS)
+* 4 GB eMMC (100-pin FBGA)
+* Two USB ports (FS/HS)
 * 10/100 Mbps Ethernet
 * 24-bit color video output with 1:2 MUX (HDMI® compatible)
 * 6-layer PCB (without buried/blind vias)

@@ -6,7 +6,7 @@
 	(paper "A4")
 	(title_block
 		(title "${project_name}")
-		(date "2025-12-19")
+		(date "2025-12-24")
 		(rev "${project_version}")
 		(company "${project_creator}")
 		(comment 1 "${project_license}")
@@ -8938,7 +8938,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "07f304a7-7b70-44da-a470-345b5eb3f123")
-		(property "Reference" "#PWR06"
+		(property "Reference" "#PWR07"
 			(at 104.14 161.29 0)
 			(effects
 				(font
@@ -8988,7 +8988,7 @@
 		(instances
 			(project "BB3plus CM5 STM32H7 module"
 				(path "/1a4f0aea-3a69-423f-8790-3103cd0321c4/c2910023-6066-4877-a406-045757318a99"
-					(reference "#PWR06")
+					(reference "#PWR07")
 					(unit 1)
 				)
 			)
@@ -9255,7 +9255,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "35eda850-ee08-4b74-a8db-da727b00ef0f")
-		(property "Reference" "#PWR08"
+		(property "Reference" "#PWR09"
 			(at 208.28 161.29 0)
 			(effects
 				(font
@@ -9305,7 +9305,7 @@
 		(instances
 			(project "BB3plus CM5 STM32H7 module"
 				(path "/1a4f0aea-3a69-423f-8790-3103cd0321c4/c2910023-6066-4877-a406-045757318a99"
-					(reference "#PWR08")
+					(reference "#PWR09")
 					(unit 1)
 				)
 			)
@@ -10388,7 +10388,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "a14e90a1-a1fb-4f55-859a-a008fc9f570b")
-		(property "Reference" "JP2"
+		(property "Reference" "JP1"
 			(at 208.915 38.1 0)
 			(effects
 				(font
@@ -10478,7 +10478,7 @@
 		(instances
 			(project ""
 				(path "/1a4f0aea-3a69-423f-8790-3103cd0321c4/c2910023-6066-4877-a406-045757318a99"
-					(reference "JP2")
+					(reference "JP1")
 					(unit 1)
 				)
 			)
@@ -11327,7 +11327,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "d7f8e1cb-eee4-4974-8311-f81652181ccb")
-		(property "Reference" "#PWR07"
+		(property "Reference" "#PWR08"
 			(at 147.32 161.29 0)
 			(effects
 				(font
@@ -11377,7 +11377,7 @@
 		(instances
 			(project "BB3plus CM5 STM32H7 module"
 				(path "/1a4f0aea-3a69-423f-8790-3103cd0321c4/c2910023-6066-4877-a406-045757318a99"
-					(reference "#PWR07")
+					(reference "#PWR08")
 					(unit 1)
 				)
 			)
@@ -11393,7 +11393,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "dd04d421-d763-4000-98d2-011a9a9850a5")
-		(property "Reference" "#PWR019"
+		(property "Reference" "#PWR06"
 			(at 76.2 161.29 0)
 			(effects
 				(font
@@ -11443,7 +11443,7 @@
 		(instances
 			(project "BB3plus CM5 STM32H7 module"
 				(path "/1a4f0aea-3a69-423f-8790-3103cd0321c4/c2910023-6066-4877-a406-045757318a99"
-					(reference "#PWR019")
+					(reference "#PWR06")
 					(unit 1)
 				)
 			)
