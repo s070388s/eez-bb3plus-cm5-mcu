@@ -10723,7 +10723,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "54c543cf-649d-4992-9a63-e6d3fdc6ca5a")
-		(property "Reference" "#FLG08"
+		(property "Reference" "#FLG05"
 			(at 104.14 147.955 0)
 			(effects
 				(font
@@ -10774,7 +10774,7 @@
 		(instances
 			(project "BB3plus CM5 STM32H7 module"
 				(path "/1a4f0aea-3a69-423f-8790-3103cd0321c4/db533ab3-e8cc-4dba-934e-bd27ee1dfc29"
-					(reference "#FLG08")
+					(reference "#FLG05")
 					(unit 1)
 				)
 			)

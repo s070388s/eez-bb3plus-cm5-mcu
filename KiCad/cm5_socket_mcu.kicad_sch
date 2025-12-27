@@ -4271,6 +4271,110 @@
 			)
 			(embedded_fonts no)
 		)
+		(symbol "PCM_EEZ_symbols:+5V"
+			(power)
+			(exclude_from_sim no)
+			(in_bom yes)
+			(on_board yes)
+			(property "Reference" "#+5V"
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "Value" "+5V"
+				(at 0 0.635 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(justify bottom)
+				)
+			)
+			(property "Footprint" ""
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "Datasheet" ""
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "Description" ""
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "ki_locked" ""
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+				)
+			)
+			(symbol "+5V_1_0"
+				(polyline
+					(pts
+						(xy 0 0) (xy -1.27 -1.905)
+					)
+					(stroke
+						(width 0.254)
+						(type solid)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(polyline
+					(pts
+						(xy 1.27 -1.905) (xy 0 0)
+					)
+					(stroke
+						(width 0.254)
+						(type solid)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(pin power_in line
+					(at 0 -2.54 90)
+					(length 2.54)
+					(name "+5V"
+						(effects
+							(font
+								(size 0 0)
+							)
+						)
+					)
+					(number "1"
+						(effects
+							(font
+								(size 0 0)
+							)
+						)
+					)
+				)
+			)
+			(embedded_fonts no)
+		)
 		(symbol "PCM_EEZ_unsorted:JP2 shorted"
 			(exclude_from_sim no)
 			(in_bom no)
@@ -5972,7 +6076,7 @@
 	)
 	(wire
 		(pts
-			(xy 109.22 121.92) (xy 116.84 121.92)
+			(xy 109.22 121.92) (xy 111.76 121.92)
 		)
 		(stroke
 			(width 0)
@@ -6139,6 +6243,16 @@
 			(type default)
 		)
 		(uuid "62687a64-0b18-470e-8c70-0f32ea7270a2")
+	)
+	(wire
+		(pts
+			(xy 27.94 175.26) (xy 30.48 175.26)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "626f7ca7-04bf-4b1e-abca-6424b038c5c6")
 	)
 	(wire
 		(pts
@@ -7013,16 +7127,6 @@
 	)
 	(wire
 		(pts
-			(xy 30.48 175.26) (xy 22.86 175.26)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "d6a6521c-521d-4a1d-af11-12e82fc798e9")
-	)
-	(wire
-		(pts
 			(xy 147.32 71.12) (xy 149.86 71.12)
 		)
 		(stroke
@@ -7380,26 +7484,6 @@
 			(type default)
 		)
 		(uuid "ff382973-47db-4163-ab31-b943908e9e3e")
-	)
-	(label "+5V_IN"
-		(at 116.84 121.92 180)
-		(effects
-			(font
-				(size 0.889 0.889)
-			)
-			(justify right bottom)
-		)
-		(uuid "0799ee1b-b4a6-4bf0-b7a4-6e291cea6bf9")
-	)
-	(label "+5V_IN"
-		(at 22.86 175.26 0)
-		(effects
-			(font
-				(size 0.889 0.889)
-			)
-			(justify left bottom)
-		)
-		(uuid "338480e0-da68-4cdf-985d-10a7e0880bca")
 	)
 	(global_label "TFT_DVID_CLK_N"
 		(shape input)
@@ -10485,6 +10569,72 @@
 		)
 	)
 	(symbol
+		(lib_id "PCM_EEZ_symbols:+5V")
+		(at 25.4 175.26 90)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(uuid "a3848228-dd01-44ec-9509-2bf100c13dbe")
+		(property "Reference" "#+5V01"
+			(at 25.4 175.26 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Value" "+5V"
+			(at 24.765 175.26 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Footprint" ""
+			(at 25.4 175.26 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" ""
+			(at 25.4 175.26 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" ""
+			(at 25.4 175.26 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "9b76398e-609a-4adc-ab4e-621b87dd6ab4")
+		)
+		(instances
+			(project ""
+				(path "/1a4f0aea-3a69-423f-8790-3103cd0321c4/c2910023-6066-4877-a406-045757318a99"
+					(reference "#+5V01")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
 		(lib_id "power:PWR_FLAG")
 		(at 109.22 121.92 0)
 		(unit 1)
@@ -11682,6 +11832,73 @@
 			(project "BB3plus CM5 STM32H7 module"
 				(path "/1a4f0aea-3a69-423f-8790-3103cd0321c4/c2910023-6066-4877-a406-045757318a99"
 					(reference "#FLG02")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "PCM_EEZ_symbols:+5V")
+		(at 114.3 121.92 270)
+		(mirror x)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(uuid "f5625bac-b343-49ec-90c5-bee3e083c87c")
+		(property "Reference" "#+5V02"
+			(at 114.3 121.92 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Value" "+5V"
+			(at 114.935 121.92 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Footprint" ""
+			(at 114.3 121.92 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" ""
+			(at 114.3 121.92 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" ""
+			(at 114.3 121.92 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "0da93a27-442c-4ed1-a86f-283219d1f7f0")
+		)
+		(instances
+			(project "BB3plus CM5 STM32H7 module"
+				(path "/1a4f0aea-3a69-423f-8790-3103cd0321c4/c2910023-6066-4877-a406-045757318a99"
+					(reference "#+5V02")
 					(unit 1)
 				)
 			)
