@@ -1,4 +1,4 @@
-### Footprint positions - created on 2025-12-27T13:56:41+0100 ###
+### Footprint positions - created on 2025-12-27T17:46:52+0100 ###
 ### Printed by KiCad version 9.0.6-9.0.6~ubuntu24.04.1
 ## Unit = mm, Angle = deg.
 ## Side : top
@@ -23,8 +23,8 @@ C67       10u                           C_0603_1608Metric            43.9700    
 C68       10u                           C_0603_1608Metric            39.5900    29.2300  -90.0000  top
 C70       10n                           C_0402_1005Metric            27.2400    28.7200  180.0000  top
 C71       100n                          C_0402_1005Metric            27.2400    29.6400  180.0000  top
-C72       100n                          C_0402_1005Metric            41.4768    38.2300  -90.0000  top
-C73       100n                          C_0402_1005Metric            46.1668    38.2700  -90.0000  top
+C72       100n                          C_0402_1005Metric            41.8032    38.5600  -90.0000  top
+C73       100n                          C_0402_1005Metric            45.4732    38.5600  -90.0000  top
 FB2       BLM18AG102SH1D                BEAD0603                      6.2200    11.4100  -90.0000  top
 FB3       60R@100MHz                    BEAD0603                     42.3200    32.1500   90.0000  top
 FB4       60R@100MHz                    BEAD0603                     39.7400    32.1400   90.0000  top
@@ -41,7 +41,7 @@ IC6       LAN8742A-CZ-TR                SQFN24_4X4MC_MCH-M           11.2300    
 IC7       APS256XXN-OBR-BG              APS256XXN-OBR-BG_APY-L       39.7500    13.1250  -90.0000  top
 IC8       TFP410PAP                     PAP64_5X5-L                  46.9900    24.0500  -90.0000  top
 IC9       TS3DV642A0RUAR                RUA42_7P55X2P05              33.3100    30.4400   90.0000  top
-IC10      LSF0102DCH                    U_SOT765-1_NEX-L             43.8068    37.1600    0.0000  top
+IC10      LSF0204GU12                   XQFN12_SOT1174-1_NEX-L       43.6161    37.0700    0.0000  top
 IC11      MX25UM25645GXDI00-T           APS256XXN-OBR-BG_APY-L       21.2500    31.3221   90.0000  top
 JP2       ~                             JP3_shorted_(0603)           48.3100    33.3200   90.0000  top
 R1        1K5                           R_0402_1005Metric            17.0900    14.3800  180.0000  top
@@ -61,7 +61,9 @@ R19       10K                           R_0402_1005Metric            49.6700    
 R20       510R                          R_0402_1005Metric            39.3900    26.3700  180.0000  top
 R21       1K                            R_0402_1005Metric            47.0200    31.6400   90.0000  top
 R22       10K                           R_0402_1005Metric            20.6152    27.5600  180.0000  top
-R23       10K                           R_0402_1005Metric            17.9200    35.6100   90.0000  top
+R23       1K5                           R_0402_1005Metric            45.8632    37.1800    0.0000  top
+R24       1K5                           R_0402_1005Metric            45.8632    36.2400    0.0000  top
+R25       10K                           R_0402_1005Metric            17.9200    35.6100   90.0000  top
 RN1       CAY16A-330J4AS                CAY16                        11.4100    11.9300  180.0000  top
 RN2       CAY16A-330J4AS                CAY16                        16.1000    11.9300  180.0000  top
 SoM1      2x_DF40HC(3.0)-100DS-0.4V(51  Raspberry-Pi-CM5_(SoM)       51.5000     3.5200   90.0000  top
