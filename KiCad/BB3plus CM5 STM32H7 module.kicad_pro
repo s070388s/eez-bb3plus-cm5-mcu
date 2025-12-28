@@ -60,14 +60,6 @@
       ],
       "drc_exclusions": [
         [
-          "clearance|117440000|78110000|c65c2eb0-90fd-4eef-997e-53986d99b39a|9a5cc97a-6992-494a-ace5-489c1675b0a8",
-          ""
-        ],
-        [
-          "clearance|118100400|78110000|cf89683e-6b22-4aa8-a911-902ee1998e52|9a5cc97a-6992-494a-ace5-489c1675b0a8",
-          ""
-        ],
-        [
           "clearance|142660000|78564800|d0d17cce-050e-4644-b87e-ca1f113d3029|ffbc023d-ac1f-455a-a603-0a14ecf62611",
           ""
         ],
@@ -105,14 +97,6 @@
         ],
         [
           "silk_overlap|111044696|78897885|1dee86fb-1865-47dd-b255-494ab3220fd7|ad6efe5b-5260-4e0a-9810-c97417b093fe",
-          ""
-        ],
-        [
-          "solder_mask_bridge|117440000|78110000|9a5cc97a-6992-494a-ace5-489c1675b0a8|c65c2eb0-90fd-4eef-997e-53986d99b39a",
-          ""
-        ],
-        [
-          "solder_mask_bridge|118100400|78110000|9a5cc97a-6992-494a-ace5-489c1675b0a8|cf89683e-6b22-4aa8-a911-902ee1998e52",
           ""
         ],
         [
@@ -886,6 +870,30 @@
       {
         "netclass": "DVID (100R)",
         "pattern": "REAR_DVID_CLK_N"
+      },
+      {
+        "netclass": "USB",
+        "pattern": "MCU_USB_UP_TX-"
+      },
+      {
+        "netclass": "USB",
+        "pattern": "MCU_USB_UP_TX+"
+      },
+      {
+        "netclass": "USB",
+        "pattern": "/CM5 socket/USB2-"
+      },
+      {
+        "netclass": "USB",
+        "pattern": "/CM5 socket/USB2+"
+      },
+      {
+        "netclass": "USB",
+        "pattern": "/CM5 socket/USB3_1-"
+      },
+      {
+        "netclass": "USB",
+        "pattern": "/CM5 socket/USB3_1+"
       }
     ]
   },
