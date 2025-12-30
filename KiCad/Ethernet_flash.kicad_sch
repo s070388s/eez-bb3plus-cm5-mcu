@@ -6,7 +6,7 @@
 	(paper "A4")
 	(title_block
 		(title "${project_name}")
-		(date "2025-12-28")
+		(date "2025-12-30")
 		(rev "${project_version}")
 		(company "${project_creator}")
 		(comment 1 "${project_license}")
@@ -1986,6 +1986,24 @@
 					)
 				)
 				(pin input line
+					(at 25.4 -43.18 180)
+					(length 2.54)
+					(name "RESERVED"
+						(effects
+							(font
+								(size 1.016 1.016)
+							)
+						)
+					)
+					(number "34"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin input line
 					(at 25.4 -50.8 180)
 					(length 2.54)
 					(name "EDGE/HTPLG"
@@ -1996,24 +2014,6 @@
 						)
 					)
 					(number "9"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-				)
-				(pin no_connect line
-					(at 25.4 -60.96 180)
-					(length 2.54)
-					(name "RESERVED"
-						(effects
-							(font
-								(size 0.762 0.762)
-							)
-						)
-					)
-					(number "34"
 						(effects
 							(font
 								(size 1.27 1.27)
@@ -4581,6 +4581,12 @@
 		(uuid "622ef545-4731-4280-a9f8-fda2bba8fa78")
 	)
 	(junction
+		(at 66.04 83.82)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "628e7f3b-f686-446c-b0b9-e3ebe318a623")
+	)
+	(junction
 		(at 73.66 132.08)
 		(diameter 0)
 		(color 0 0 0 0)
@@ -5817,6 +5823,16 @@
 			(type default)
 		)
 		(uuid "8190b834-7143-476f-8ba6-a0ffd53f84f1")
+	)
+	(wire
+		(pts
+			(xy 60.96 83.82) (xy 66.04 83.82)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "81923a64-cbed-4eb0-8608-7676b9194ced")
 	)
 	(wire
 		(pts
