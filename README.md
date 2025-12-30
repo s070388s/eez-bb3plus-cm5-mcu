@@ -13,12 +13,12 @@ The MCU module uses a high performance STM32 MCU and is pin compatible with Rasp
 
 ### Feature list
 
-* Raspberry Pi CM5 form factor (55 x 45 mm)
+* [Raspberry Pi CM5](https://www.raspberrypi.com/products/compute-module-5) form factor (55 x 45 mm)
 * [STM32H7R7L8H6H](https://www.st.com/en/microcontrollers-microprocessors/stm32h7r7l8.html) 32-bit High-Performance Arm Cortex-M7 MCU, 600 MHz, NeoChrom GPU
 * 32 MB PSRAM
 * 32 MB Flash memory
 * 4 GB eMMC (100-pin FBGA)
-* Two USB ports (FS/HS)
+* Two USB ports (1x FS with 1:2 Mux , 1x FS/HS)
 * 10/100 Mbps Ethernet
 * 24-bit color video output with 1:2 MUX (HDMI® compatible)
 * 6-layer PCB (without buried/blind vias)

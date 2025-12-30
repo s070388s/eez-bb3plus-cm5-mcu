@@ -6354,6 +6354,109 @@
 			(embedded_fonts no)
 		)
 	)
+	(circle
+		(center 99.949 166.116)
+		(radius 0.635)
+		(stroke
+			(width 0.1524)
+			(type solid)
+			(color 255 0 255 1)
+		)
+		(fill
+			(type none)
+		)
+		(uuid 2e475b53-333a-4996-a844-fcef2f8443db)
+	)
+	(circle
+		(center 97.409 166.116)
+		(radius 0.635)
+		(stroke
+			(width 0.1524)
+			(type solid)
+			(color 255 0 255 1)
+		)
+		(fill
+			(type none)
+		)
+		(uuid 2f141f0d-aee0-4d76-a1fc-6a9cc839df8f)
+	)
+	(circle
+		(center 99.949 168.656)
+		(radius 0.635)
+		(stroke
+			(width 0.1524)
+			(type solid)
+			(color 255 0 255 1)
+		)
+		(fill
+			(type none)
+		)
+		(uuid 3668695f-0133-4fd0-8bee-fd4942615aef)
+	)
+	(circle
+		(center 97.409 163.576)
+		(radius 0.635)
+		(stroke
+			(width 0.1524)
+			(type solid)
+			(color 255 0 255 1)
+		)
+		(fill
+			(type none)
+		)
+		(uuid 4cb31274-d5be-4983-a14f-d48e38e8e3d8)
+	)
+	(circle
+		(center 97.409 168.656)
+		(radius 0.635)
+		(stroke
+			(width 0.1524)
+			(type solid)
+			(color 255 0 255 1)
+		)
+		(fill
+			(type none)
+		)
+		(uuid 8753b4df-bee4-4c7f-abea-c8db6f076150)
+	)
+	(circle
+		(center 99.949 163.576)
+		(radius 0.635)
+		(stroke
+			(width 0.1524)
+			(type solid)
+			(color 255 0 255 1)
+		)
+		(fill
+			(type none)
+		)
+		(uuid c4633771-ed52-406b-ba24-a50347b466fc)
+	)
+	(rectangle
+		(start 96.139 162.306)
+		(end 101.219 169.926)
+		(stroke
+			(width 0)
+			(type default)
+			(color 255 0 255 1)
+		)
+		(fill
+			(type none)
+		)
+		(uuid cde53b97-a40c-4a1f-9079-2a0e27a69b39)
+	)
+	(text "2 SWDIO"
+		(exclude_from_sim no)
+		(at 102.235 164.465 0)
+		(effects
+			(font
+				(size 1.4224 1.209)
+				(color 255 0 255 1)
+			)
+			(justify left bottom)
+		)
+		(uuid "13b223d4-32b1-4a8b-84c1-ec3cfcaf2757")
+	)
 	(text "32-bit dual core MCU"
 		(exclude_from_sim no)
 		(at 17.78 19.05 0)
@@ -6382,9 +6485,33 @@
 		)
 		(uuid "65a9a8df-3c27-4134-aebf-3fd5b345b290")
 	)
-	(text "JTAG connector"
+	(text "4 SWCLK"
 		(exclude_from_sim no)
-		(at 76.2 165.1 0)
+		(at 102.235 167.005 0)
+		(effects
+			(font
+				(size 1.4224 1.209)
+				(color 255 0 255 1)
+			)
+			(justify left bottom)
+		)
+		(uuid "6b570315-d60c-459e-bc8b-4a0a0ee2aee9")
+	)
+	(text "6 SWO"
+		(exclude_from_sim no)
+		(at 102.235 169.545 0)
+		(effects
+			(font
+				(size 1.4224 1.209)
+				(color 255 0 255 1)
+			)
+			(justify left bottom)
+		)
+		(uuid "92e1dea1-75ed-4d38-8c32-2a0c177d5129")
+	)
+	(text "JTAG PCB connector"
+		(exclude_from_sim no)
+		(at 63.5 165.1 0)
 		(effects
 			(font
 				(size 1.524 1.524)
@@ -6395,6 +6522,18 @@
 			(justify left bottom)
 		)
 		(uuid "cd9c8e60-ed25-4989-abc5-b41d959c6b03")
+	)
+	(text "nRST 3"
+		(exclude_from_sim no)
+		(at 95.25 167.005 0)
+		(effects
+			(font
+				(size 1.4224 1.209)
+				(color 255 0 255 1)
+			)
+			(justify right bottom)
+		)
+		(uuid "dd21210d-8e74-4aab-826f-cd2ec5febac9")
 	)
 	(text "IMPORTANT: For Y1 PCB layout\nconsult ST AN2867 section 7.2"
 		(exclude_from_sim no)
@@ -6421,6 +6560,30 @@
 			(justify left bottom)
 		)
 		(uuid "e04b60a8-1dcd-4a80-80d6-c87857db4390")
+	)
+	(text "+Vcc 1"
+		(exclude_from_sim no)
+		(at 95.25 164.465 0)
+		(effects
+			(font
+				(size 1.4224 1.209)
+				(color 255 0 255 1)
+			)
+			(justify right bottom)
+		)
+		(uuid "eb37c355-3c47-47a6-8c56-ad1d81404c21")
+	)
+	(text "GND 5"
+		(exclude_from_sim no)
+		(at 95.25 169.545 0)
+		(effects
+			(font
+				(size 1.4224 1.209)
+				(color 255 0 255 1)
+			)
+			(justify right bottom)
+		)
+		(uuid "f31c2a63-467c-4ccc-88e3-d45bb1aeb2e6")
 	)
 	(junction
 		(at 193.04 86.36)
@@ -7231,6 +7394,10 @@
 		(uuid "248fa942-7332-4a14-905e-d8afd35b6196")
 	)
 	(no_connect
+		(at 81.28 175.26)
+		(uuid "270cc562-1e6e-4759-86a9-bcefc2d3bbc3")
+	)
+	(no_connect
 		(at 119.38 50.8)
 		(uuid "2937a4c2-6bfc-4ee6-a14f-0b4131f097ae")
 	)
@@ -7267,7 +7434,7 @@
 		(uuid "adfbb149-b51d-4e55-a7aa-08166782a2f1")
 	)
 	(no_connect
-		(at 93.98 187.96)
+		(at 81.28 187.96)
 		(uuid "bed6f060-40e5-45d7-b919-fc8fa0fba7ae")
 	)
 	(no_connect
@@ -7508,7 +7675,7 @@
 	)
 	(polyline
 		(pts
-			(xy 71.12 160.02) (xy 71.12 195.58)
+			(xy 60.96 160.02) (xy 60.96 195.58)
 		)
 		(stroke
 			(width 0.1524)
@@ -7589,7 +7756,7 @@
 	)
 	(wire
 		(pts
-			(xy 81.28 177.8) (xy 93.98 177.8)
+			(xy 68.58 177.8) (xy 81.28 177.8)
 		)
 		(stroke
 			(width 0)
@@ -7619,7 +7786,7 @@
 	)
 	(wire
 		(pts
-			(xy 27.94 172.72) (xy 27.94 175.26)
+			(xy 22.86 172.72) (xy 22.86 175.26)
 		)
 		(stroke
 			(width 0)
@@ -8121,7 +8288,7 @@
 	)
 	(wire
 		(pts
-			(xy 35.56 180.34) (xy 45.72 180.34)
+			(xy 30.48 180.34) (xy 38.1 180.34)
 		)
 		(stroke
 			(width 0)
@@ -8131,7 +8298,7 @@
 	)
 	(wire
 		(pts
-			(xy 81.28 182.88) (xy 93.98 182.88)
+			(xy 68.58 182.88) (xy 81.28 182.88)
 		)
 		(stroke
 			(width 0)
@@ -8542,7 +8709,7 @@
 	)
 	(polyline
 		(pts
-			(xy 111.76 160.02) (xy 111.76 195.58)
+			(xy 114.3 160.02) (xy 114.3 195.58)
 		)
 		(stroke
 			(width 0.1524)
@@ -8743,7 +8910,7 @@
 	)
 	(wire
 		(pts
-			(xy 88.9 180.34) (xy 93.98 180.34)
+			(xy 76.2 180.34) (xy 81.28 180.34)
 		)
 		(stroke
 			(width 0)
@@ -9051,16 +9218,6 @@
 			(type default)
 		)
 		(uuid "5982291c-7392-4caf-87eb-d0f968e497fe")
-	)
-	(wire
-		(pts
-			(xy 88.9 175.26) (xy 93.98 175.26)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "5b468b8a-eedc-4756-a06d-f335d1db5015")
 	)
 	(wire
 		(pts
@@ -9886,7 +10043,7 @@
 	)
 	(wire
 		(pts
-			(xy 58.42 180.34) (xy 60.96 180.34)
+			(xy 50.8 180.34) (xy 53.34 180.34)
 		)
 		(stroke
 			(width 0)
@@ -10133,16 +10290,6 @@
 			(type default)
 		)
 		(uuid "a4003d6c-b865-4b19-a6e1-a6171dc0d9a9")
-	)
-	(wire
-		(pts
-			(xy 88.9 172.72) (xy 88.9 175.26)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "a681ca76-cda5-4ffa-aa60-bfaa4f3606b1")
 	)
 	(wire
 		(pts
@@ -10677,7 +10824,7 @@
 	)
 	(wire
 		(pts
-			(xy 88.9 185.42) (xy 93.98 185.42)
+			(xy 76.2 185.42) (xy 81.28 185.42)
 		)
 		(stroke
 			(width 0)
@@ -10847,7 +10994,7 @@
 	)
 	(wire
 		(pts
-			(xy 88.9 185.42) (xy 88.9 187.96)
+			(xy 76.2 185.42) (xy 76.2 187.96)
 		)
 		(stroke
 			(width 0)
@@ -11809,7 +11956,7 @@
 		(uuid "4801eece-1b82-493c-9ee6-31d14b6cbc0d")
 	)
 	(label "~{ACTIVE}"
-		(at 35.56 180.34 0)
+		(at 30.48 180.34 0)
 		(effects
 			(font
 				(size 0.889 0.889)
@@ -12009,7 +12156,7 @@
 		(uuid "b8353dc2-53fb-4e71-b9dd-b0f9634d78df")
 	)
 	(label "JTAG_SWDIO"
-		(at 81.28 177.8 0)
+		(at 68.58 177.8 0)
 		(effects
 			(font
 				(size 0.889 0.889)
@@ -12129,7 +12276,7 @@
 		(uuid "f2dbf0d7-4263-4ca5-9e35-307ceafd69de")
 	)
 	(label "JTAG_SWCLK"
-		(at 81.28 182.88 0)
+		(at 68.58 182.88 0)
 		(effects
 			(font
 				(size 0.889 0.889)
@@ -13983,7 +14130,7 @@
 	)
 	(global_label "~{RESET_OUT}"
 		(shape output)
-		(at 88.9 180.34 180)
+		(at 76.2 180.34 180)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -13993,7 +14140,7 @@
 		)
 		(uuid "c70fdc7e-f0da-4e4d-a240-df747e7ffd13")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 80.0296 180.34 0)
+			(at 67.3296 180.34 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -14184,7 +14331,7 @@
 	)
 	(global_label "~{LED_ACT}"
 		(shape output)
-		(at 60.96 180.34 0)
+		(at 53.34 180.34 0)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -14194,7 +14341,7 @@
 		)
 		(uuid "d966dcb5-7875-4b35-af6c-3b3fc5a4a4d2")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 68.0102 180.34 0)
+			(at 60.3902 180.34 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -16450,7 +16597,7 @@
 	)
 	(symbol
 		(lib_id "PCM_EEZ_symbols:+3V3")
-		(at 27.94 170.18 0)
+		(at 22.86 170.18 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -16458,7 +16605,7 @@
 		(dnp no)
 		(uuid "11cd6c37-1b19-46e0-88c2-b9cc2bcf657f")
 		(property "Reference" "#+3V04"
-			(at 27.94 170.18 0)
+			(at 22.86 170.18 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -16467,7 +16614,7 @@
 			)
 		)
 		(property "Value" "+3V3"
-			(at 27.94 169.545 0)
+			(at 22.86 169.545 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -16476,7 +16623,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 27.94 170.18 0)
+			(at 22.86 170.18 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -16485,7 +16632,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 27.94 170.18 0)
+			(at 22.86 170.18 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -16494,7 +16641,7 @@
 			)
 		)
 		(property "Description" "Power symbol creates a global label with name \"+3V3\""
-			(at 27.94 170.18 0)
+			(at 22.86 170.18 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -16630,7 +16777,7 @@
 	)
 	(symbol
 		(lib_id "PCM_EEZ_TI:SN74LVC1G14DBVR")
-		(at 27.94 182.88 0)
+		(at 22.86 182.88 0)
 		(mirror y)
 		(unit 2)
 		(exclude_from_sim no)
@@ -16639,7 +16786,7 @@
 		(dnp no)
 		(uuid "1b2f273d-5553-408f-bc47-945edee61d73")
 		(property "Reference" "IC3"
-			(at 30.48 182.88 0)
+			(at 25.4 182.88 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -16648,7 +16795,7 @@
 			)
 		)
 		(property "Value" "SN74LVC1G14DBVR"
-			(at 29.972 187.198 0)
+			(at 24.892 187.198 0)
 			(do_not_autoplace yes)
 			(effects
 				(font
@@ -16659,7 +16806,7 @@
 			)
 		)
 		(property "Footprint" "PCM_EEZ_SMD:DBV5"
-			(at 27.94 190.5 0)
+			(at 22.86 190.5 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -16668,7 +16815,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 26.6678 182.7869 0)
+			(at 21.5878 182.7869 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -16677,7 +16824,7 @@
 			)
 		)
 		(property "Description" "Single Schmitt-Trigger Inverter"
-			(at 28.194 178.816 0)
+			(at 23.114 178.816 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -16686,7 +16833,7 @@
 			)
 		)
 		(property "DigiKey" "296-11607-1-ND"
-			(at 27.94 193.04 0)
+			(at 22.86 193.04 0)
 			(show_name yes)
 			(effects
 				(font
@@ -16696,7 +16843,7 @@
 			)
 		)
 		(property "Mouser" "595-SN74LVC1G14DBVR"
-			(at 27.94 195.58 0)
+			(at 22.86 195.58 0)
 			(show_name yes)
 			(effects
 				(font
@@ -16706,7 +16853,7 @@
 			)
 		)
 		(property "TME" "SN74LVC1G14DBVR"
-			(at 27.94 198.12 0)
+			(at 22.86 198.12 0)
 			(show_name yes)
 			(effects
 				(font
@@ -16716,7 +16863,7 @@
 			)
 		)
 		(property "LCSC" "C19829661"
-			(at 28.448 199.898 0)
+			(at 23.368 199.898 0)
 			(show_name yes)
 			(effects
 				(font
@@ -18051,7 +18198,7 @@
 	)
 	(symbol
 		(lib_id "PCM_EEZ_TI:SN74LVC1G14DBVR")
-		(at 50.8 180.34 0)
+		(at 43.18 180.34 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -18059,7 +18206,7 @@
 		(dnp no)
 		(uuid "525d9d61-a3f0-481c-a0c2-248998301e84")
 		(property "Reference" "IC3"
-			(at 50.8 176.53 0)
+			(at 43.18 176.53 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -18067,7 +18214,7 @@
 			)
 		)
 		(property "Value" "SN74LVC1G14DBVR"
-			(at 48.768 184.658 0)
+			(at 41.148 184.658 0)
 			(do_not_autoplace yes)
 			(effects
 				(font
@@ -18077,7 +18224,7 @@
 			)
 		)
 		(property "Footprint" "PCM_EEZ_SMD:DBV5"
-			(at 50.8 187.96 0)
+			(at 43.18 187.96 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -18086,7 +18233,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 52.0722 180.2469 0)
+			(at 44.4522 180.2469 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -18095,7 +18242,7 @@
 			)
 		)
 		(property "Description" "Single Schmitt-Trigger Inverter"
-			(at 50.546 176.276 0)
+			(at 42.926 176.276 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -18104,7 +18251,7 @@
 			)
 		)
 		(property "DigiKey" "296-11607-1-ND"
-			(at 50.8 190.5 0)
+			(at 43.18 190.5 0)
 			(show_name yes)
 			(effects
 				(font
@@ -18114,7 +18261,7 @@
 			)
 		)
 		(property "Mouser" "595-SN74LVC1G14DBVR"
-			(at 50.8 193.04 0)
+			(at 43.18 193.04 0)
 			(show_name yes)
 			(effects
 				(font
@@ -18124,7 +18271,7 @@
 			)
 		)
 		(property "TME" "SN74LVC1G14DBVR"
-			(at 50.8 195.58 0)
+			(at 43.18 195.58 0)
 			(show_name yes)
 			(effects
 				(font
@@ -18134,7 +18281,7 @@
 			)
 		)
 		(property "LCSC" "C19829661"
-			(at 50.292 197.358 0)
+			(at 42.672 197.358 0)
 			(show_name yes)
 			(effects
 				(font
@@ -19589,7 +19736,7 @@
 	)
 	(symbol
 		(lib_id "PCM_EEZ_symbols:GND")
-		(at 88.9 190.5 0)
+		(at 76.2 190.5 0)
 		(mirror y)
 		(unit 1)
 		(exclude_from_sim no)
@@ -19598,7 +19745,7 @@
 		(dnp no)
 		(uuid "618ab192-6cf2-4558-9a6b-260130bb8332")
 		(property "Reference" "#SUPPLY03"
-			(at 88.9 190.5 0)
+			(at 76.2 190.5 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -19607,7 +19754,7 @@
 			)
 		)
 		(property "Value" "GND"
-			(at 94.615 191.77 0)
+			(at 81.915 191.77 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -19616,7 +19763,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 88.9 190.5 0)
+			(at 76.2 190.5 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -19625,7 +19772,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 88.9 190.5 0)
+			(at 76.2 190.5 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -19634,7 +19781,7 @@
 			)
 		)
 		(property "Description" ""
-			(at 88.9 190.5 0)
+			(at 76.2 190.5 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -19649,72 +19796,6 @@
 			(project "BB3plus CM5 STM32H7 module"
 				(path "/1a4f0aea-3a69-423f-8790-3103cd0321c4/d7166dbe-caf3-45a8-82fe-1ff0a9696e25"
 					(reference "#SUPPLY03")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "PCM_EEZ_symbols:+3V3")
-		(at 88.9 170.18 0)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(uuid "64f2b3c8-eac1-4e7d-8108-b406f315e3d5")
-		(property "Reference" "#+3V05"
-			(at 88.9 170.18 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Value" "+3V3"
-			(at 88.9 169.545 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify bottom)
-			)
-		)
-		(property "Footprint" ""
-			(at 88.9 170.18 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" ""
-			(at 88.9 170.18 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" "Power symbol creates a global label with name \"+3V3\""
-			(at 88.9 170.18 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(pin "1"
-			(uuid "690a0da4-6e2f-42ac-8037-ed6c833703a4")
-		)
-		(instances
-			(project "BB3plus CM5 STM32H7 module"
-				(path "/1a4f0aea-3a69-423f-8790-3103cd0321c4/d7166dbe-caf3-45a8-82fe-1ff0a9696e25"
-					(reference "#+3V05")
 					(unit 1)
 				)
 			)
@@ -19837,7 +19918,7 @@
 	)
 	(symbol
 		(lib_id "PCM_EEZ_symbols:GND")
-		(at 27.94 193.04 0)
+		(at 22.86 193.04 0)
 		(mirror y)
 		(unit 1)
 		(exclude_from_sim no)
@@ -19846,7 +19927,7 @@
 		(dnp no)
 		(uuid "6b84f9f5-2812-47a1-8464-ac1ca9d466af")
 		(property "Reference" "#SUPPLY02"
-			(at 27.94 193.04 0)
+			(at 22.86 193.04 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -19855,7 +19936,7 @@
 			)
 		)
 		(property "Value" "GND"
-			(at 26.035 194.31 0)
+			(at 20.955 194.31 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -19864,7 +19945,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 27.94 193.04 0)
+			(at 22.86 193.04 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -19873,7 +19954,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 27.94 193.04 0)
+			(at 22.86 193.04 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -19882,7 +19963,7 @@
 			)
 		)
 		(property "Description" ""
-			(at 27.94 193.04 0)
+			(at 22.86 193.04 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -22238,7 +22319,7 @@
 	)
 	(symbol
 		(lib_id "PCM_EEZ_connectors:TC2030-IDC")
-		(at 91.44 175.26 0)
+		(at 78.74 175.26 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom no)
@@ -22246,7 +22327,7 @@
 		(dnp no)
 		(uuid "a79491cf-9b26-473d-acdc-2cee3bd13427")
 		(property "Reference" "X1"
-			(at 96.52 172.085 0)
+			(at 83.82 172.085 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -22255,7 +22336,7 @@
 			)
 		)
 		(property "Value" "~"
-			(at 91.44 175.26 0)
+			(at 78.74 175.26 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -22264,7 +22345,7 @@
 			)
 		)
 		(property "Footprint" "PCM_EEZ_connectors:TC2030"
-			(at 92.71 193.04 0)
+			(at 80.01 193.04 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -22273,7 +22354,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 91.44 175.26 0)
+			(at 78.74 175.26 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -22282,7 +22363,7 @@
 			)
 		)
 		(property "Description" "Tag-Connect Plug-of-Nails connector"
-			(at 96.52 193.04 0)
+			(at 83.82 193.04 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -22291,7 +22372,7 @@
 			)
 		)
 		(property "Type" ""
-			(at 91.44 175.26 0)
+			(at 78.74 175.26 0)
 			(effects
 				(font
 					(size 1.27 1.27)
