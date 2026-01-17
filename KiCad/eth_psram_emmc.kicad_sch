@@ -6,7 +6,7 @@
 	(paper "A4")
 	(title_block
 		(title "${project_name}")
-		(date "2026-01-02")
+		(date "2026-01-17")
 		(rev "${project_version}")
 		(company "${project_creator}")
 		(comment 1 "${project_license}")
@@ -3661,6 +3661,12 @@
 		(uuid "09b9c4b1-25cd-427e-bd67-388f5fcf18ca")
 	)
 	(junction
+		(at 71.12 53.34)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "12b37584-b9e4-408b-84b8-1f24604fd7af")
+	)
+	(junction
 		(at 233.68 160.02)
 		(diameter 0)
 		(color 0 0 0 0)
@@ -3679,12 +3685,6 @@
 		(uuid "18f15c6f-8118-4284-8963-3273942c8ec0")
 	)
 	(junction
-		(at 78.74 66.04)
-		(diameter 0)
-		(color 0 0 0 0)
-		(uuid "215eb143-0aea-4dde-b80c-efbb28ee3e2e")
-	)
-	(junction
 		(at 99.06 167.64)
 		(diameter 0)
 		(color 0 0 0 0)
@@ -3695,6 +3695,12 @@
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "26025744-366e-4197-9c3d-a7327c3bd865")
+	)
+	(junction
+		(at 76.2 66.04)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "2654652d-7a00-4541-b5ed-976ed9e23a5f")
 	)
 	(junction
 		(at 99.06 109.22)
@@ -3727,12 +3733,6 @@
 		(uuid "2aac91e7-9b2d-437d-8c9c-061641426544")
 	)
 	(junction
-		(at 68.58 53.34)
-		(diameter 0)
-		(color 0 0 0 0)
-		(uuid "2bcc4a07-c42a-44ad-a835-2acc90d3f84b")
-	)
-	(junction
 		(at 99.06 137.16)
 		(diameter 0)
 		(color 0 0 0 0)
@@ -3755,6 +3755,12 @@
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "38777ed7-515b-4d3a-ab26-5f0e2d2738dc")
+	)
+	(junction
+		(at 68.58 15.24)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "38803a19-6d14-4cd8-8c8f-f5cb5e1d043a")
 	)
 	(junction
 		(at 99.06 165.1)
@@ -3793,6 +3799,12 @@
 		(uuid "4e3fc59c-5e45-49d0-b3fa-91474e539618")
 	)
 	(junction
+		(at 68.58 45.72)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "4ef59cf7-dcf7-4027-9bd1-21af073f72c9")
+	)
+	(junction
 		(at 149.86 66.04)
 		(diameter 0)
 		(color 0 0 0 0)
@@ -3803,12 +3815,6 @@
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "5723201e-bb6b-4743-86ce-9c635ff33aeb")
-	)
-	(junction
-		(at 58.42 58.42)
-		(diameter 0)
-		(color 0 0 0 0)
-		(uuid "59db08ab-981b-487b-8c40-87a2b9b19066")
 	)
 	(junction
 		(at 198.12 38.1)
@@ -3835,12 +3841,6 @@
 		(uuid "620fa983-b8f8-4470-9fc0-729127fd1ed0")
 	)
 	(junction
-		(at 177.8 60.96)
-		(diameter 0)
-		(color 0 0 0 0)
-		(uuid "6257962f-cf37-46b2-bcc5-83254ac2cabb")
-	)
-	(junction
 		(at 109.22 101.6)
 		(diameter 0)
 		(color 0 0 0 0)
@@ -3851,12 +3851,6 @@
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "64c956e3-a942-45d9-93a1-bdf7649c9171")
-	)
-	(junction
-		(at 63.5 45.72)
-		(diameter 0)
-		(color 0 0 0 0)
-		(uuid "684d049e-7066-4b7f-a44f-44bf8c05967e")
 	)
 	(junction
 		(at 63.5 71.12)
@@ -3883,10 +3877,10 @@
 		(uuid "6fce38f2-7fd7-402b-9331-f5e6b0ed0fad")
 	)
 	(junction
-		(at 78.74 15.24)
+		(at 76.2 15.24)
 		(diameter 0)
 		(color 0 0 0 0)
-		(uuid "73ce7122-3620-4cec-a1df-8e89eb44bef9")
+		(uuid "73cbddc9-9ec1-4672-a4bb-fa3be881f154")
 	)
 	(junction
 		(at 109.22 132.08)
@@ -3923,12 +3917,6 @@
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "93644e50-1a9e-4701-966a-b7bc1b4edb8b")
-	)
-	(junction
-		(at 63.5 15.24)
-		(diameter 0)
-		(color 0 0 0 0)
-		(uuid "95882d54-c177-492c-abf5-674aca504eed")
 	)
 	(junction
 		(at 99.06 106.68)
@@ -3973,12 +3961,6 @@
 		(uuid "a679cc04-1d48-4c44-9f33-dbaa5f8ac2e5")
 	)
 	(junction
-		(at 177.8 78.74)
-		(diameter 0)
-		(color 0 0 0 0)
-		(uuid "a95a21cc-f3c3-44be-9fa2-1195b6a8a495")
-	)
-	(junction
 		(at 99.06 134.62)
 		(diameter 0)
 		(color 0 0 0 0)
@@ -3989,6 +3971,12 @@
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "ae524f61-8e68-4446-9422-84aaec67a52c")
+	)
+	(junction
+		(at 71.12 15.24)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "ba147804-63d3-4f3e-9b31-f6f213e86592")
 	)
 	(junction
 		(at 63.5 165.1)
@@ -4019,12 +4007,6 @@
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "cb7c16f2-0947-4396-90a8-57bf199cfeea")
-	)
-	(junction
-		(at 68.58 15.24)
-		(diameter 0)
-		(color 0 0 0 0)
-		(uuid "d0781374-d25c-4ecf-9e1a-b909e9edf736")
 	)
 	(junction
 		(at 99.06 124.46)
@@ -4103,6 +4085,18 @@
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "ecff0618-90fb-4092-ba80-497c83fee211")
+	)
+	(junction
+		(at 60.96 48.26)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "f1c146fa-a260-4025-a587-8632c87bd4b3")
+	)
+	(junction
+		(at 63.5 58.42)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "f6abb28e-4245-4ab8-8805-c1cfd4b8aa57")
 	)
 	(junction
 		(at 154.94 83.82)
@@ -4395,7 +4389,7 @@
 	)
 	(wire
 		(pts
-			(xy 58.42 15.24) (xy 63.5 15.24)
+			(xy 63.5 15.24) (xy 68.58 15.24)
 		)
 		(stroke
 			(width 0.1524)
@@ -4724,7 +4718,7 @@
 	)
 	(wire
 		(pts
-			(xy 55.88 58.42) (xy 58.42 58.42)
+			(xy 45.72 58.42) (xy 58.42 58.42)
 		)
 		(stroke
 			(width 0)
@@ -4765,16 +4759,6 @@
 	)
 	(wire
 		(pts
-			(xy 177.8 76.2) (xy 177.8 78.74)
-		)
-		(stroke
-			(width 0.1524)
-			(type solid)
-		)
-		(uuid "240c909a-7168-4101-9ea2-2eae145398f1")
-	)
-	(wire
-		(pts
 			(xy 96.52 144.78) (xy 99.06 144.78)
 		)
 		(stroke
@@ -4795,7 +4779,7 @@
 	)
 	(wire
 		(pts
-			(xy 40.64 53.34) (xy 45.72 53.34)
+			(xy 30.48 53.34) (xy 35.56 53.34)
 		)
 		(stroke
 			(width 0)
@@ -4822,6 +4806,26 @@
 			(type default)
 		)
 		(uuid "270c2224-2921-490c-af1f-80eab5e33693")
+	)
+	(wire
+		(pts
+			(xy 63.5 15.24) (xy 68.58 15.24)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "27fb51a3-5bf3-4c4d-a3fb-07acee84a544")
+	)
+	(wire
+		(pts
+			(xy 63.5 58.42) (xy 58.42 58.42)
+		)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(uuid "28224cc5-7fb7-43ef-abc5-54cb528b79b0")
 	)
 	(wire
 		(pts
@@ -4875,6 +4879,16 @@
 	)
 	(wire
 		(pts
+			(xy 76.2 15.24) (xy 78.74 15.24)
+		)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(uuid "2d0a22bb-81e9-4537-a15d-3936cd6399dc")
+	)
+	(wire
+		(pts
 			(xy 63.5 162.56) (xy 63.5 165.1)
 		)
 		(stroke
@@ -4905,7 +4919,7 @@
 	)
 	(wire
 		(pts
-			(xy 58.42 58.42) (xy 58.42 27.94)
+			(xy 63.5 58.42) (xy 63.5 27.94)
 		)
 		(stroke
 			(width 0.1524)
@@ -4935,16 +4949,6 @@
 	)
 	(wire
 		(pts
-			(xy 81.28 66.04) (xy 78.74 66.04)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "2fe9b1f5-dd51-4557-9f89-e4abd2b8c8e8")
-	)
-	(wire
-		(pts
 			(xy 96.52 160.02) (xy 99.06 160.02)
 		)
 		(stroke
@@ -4955,7 +4959,7 @@
 	)
 	(wire
 		(pts
-			(xy 55.88 43.18) (xy 73.66 43.18)
+			(xy 45.72 43.18) (xy 73.66 43.18)
 		)
 		(stroke
 			(width 0)
@@ -5237,7 +5241,7 @@
 	)
 	(wire
 		(pts
-			(xy 68.58 15.24) (xy 68.58 17.78)
+			(xy 71.12 15.24) (xy 71.12 17.78)
 		)
 		(stroke
 			(width 0)
@@ -5437,16 +5441,6 @@
 		)
 		(uuid "4ed9ae23-44d2-42cd-9ca4-e01552c324d6")
 	)
-	(wire
-		(pts
-			(xy 63.5 15.24) (xy 68.58 15.24)
-		)
-		(stroke
-			(width 0.1524)
-			(type solid)
-		)
-		(uuid "4fa0db7f-e8f0-40ae-8d02-8efb24acc4aa")
-	)
 	(bus
 		(pts
 			(xy 175.26 109.22) (xy 177.8 109.22)
@@ -5459,13 +5453,23 @@
 	)
 	(wire
 		(pts
-			(xy 63.5 27.94) (xy 63.5 45.72)
+			(xy 68.58 27.94) (xy 68.58 45.72)
 		)
 		(stroke
 			(width 0)
 			(type default)
 		)
 		(uuid "50b48be8-cf9b-4038-a08c-e260979cce29")
+	)
+	(wire
+		(pts
+			(xy 71.12 15.24) (xy 68.58 15.24)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "50f1d473-babb-4a39-be7f-8afff1592c65")
 	)
 	(wire
 		(pts
@@ -5570,7 +5574,7 @@
 	)
 	(wire
 		(pts
-			(xy 68.58 53.34) (xy 68.58 27.94)
+			(xy 71.12 53.34) (xy 71.12 27.94)
 		)
 		(stroke
 			(width 0)
@@ -5580,7 +5584,7 @@
 	)
 	(wire
 		(pts
-			(xy 55.88 35.56) (xy 81.28 35.56)
+			(xy 45.72 35.56) (xy 81.28 35.56)
 		)
 		(stroke
 			(width 0)
@@ -5627,6 +5631,16 @@
 			(type default)
 		)
 		(uuid "5be3bf11-79a0-4023-bcfc-006010717696")
+	)
+	(wire
+		(pts
+			(xy 60.96 48.26) (xy 81.28 48.26)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "5de7919f-7291-4147-bbd6-3d7c23f6c4b9")
 	)
 	(wire
 		(pts
@@ -5711,7 +5725,7 @@
 	)
 	(wire
 		(pts
-			(xy 55.88 55.88) (xy 81.28 55.88)
+			(xy 45.72 55.88) (xy 81.28 55.88)
 		)
 		(stroke
 			(width 0)
@@ -5761,7 +5775,7 @@
 	)
 	(wire
 		(pts
-			(xy 40.64 58.42) (xy 45.72 58.42)
+			(xy 30.48 58.42) (xy 35.56 58.42)
 		)
 		(stroke
 			(width 0)
@@ -5788,6 +5802,16 @@
 			(type default)
 		)
 		(uuid "6472ee7a-a577-4bea-b74d-62ff675b8a78")
+	)
+	(wire
+		(pts
+			(xy 68.58 45.72) (xy 81.28 45.72)
+		)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(uuid "67d4ae17-fbb2-4cc7-b98f-4774a19632e8")
 	)
 	(wire
 		(pts
@@ -5831,7 +5855,7 @@
 	)
 	(wire
 		(pts
-			(xy 40.64 33.02) (xy 81.28 33.02)
+			(xy 30.48 33.02) (xy 81.28 33.02)
 		)
 		(stroke
 			(width 0.1524)
@@ -5841,7 +5865,7 @@
 	)
 	(wire
 		(pts
-			(xy 55.88 38.1) (xy 81.28 38.1)
+			(xy 45.72 38.1) (xy 81.28 38.1)
 		)
 		(stroke
 			(width 0)
@@ -5851,7 +5875,7 @@
 	)
 	(wire
 		(pts
-			(xy 58.42 15.24) (xy 58.42 17.78)
+			(xy 63.5 15.24) (xy 63.5 17.78)
 		)
 		(stroke
 			(width 0.1524)
@@ -5861,7 +5885,7 @@
 	)
 	(wire
 		(pts
-			(xy 78.74 66.04) (xy 78.74 27.94)
+			(xy 76.2 66.04) (xy 76.2 27.94)
 		)
 		(stroke
 			(width 0)
@@ -5901,7 +5925,7 @@
 	)
 	(wire
 		(pts
-			(xy 40.64 45.72) (xy 45.72 45.72)
+			(xy 30.48 45.72) (xy 35.56 45.72)
 		)
 		(stroke
 			(width 0)
@@ -5942,7 +5966,7 @@
 	)
 	(wire
 		(pts
-			(xy 63.5 15.24) (xy 63.5 17.78)
+			(xy 68.58 15.24) (xy 68.58 17.78)
 		)
 		(stroke
 			(width 0)
@@ -6055,7 +6079,7 @@
 	)
 	(wire
 		(pts
-			(xy 78.74 15.24) (xy 78.74 17.78)
+			(xy 76.2 15.24) (xy 76.2 17.78)
 		)
 		(stroke
 			(width 0.1524)
@@ -6095,16 +6119,6 @@
 	)
 	(wire
 		(pts
-			(xy 68.58 15.24) (xy 73.66 15.24)
-		)
-		(stroke
-			(width 0.1524)
-			(type solid)
-		)
-		(uuid "8c219626-a3bc-4bc4-844d-678279fadfbc")
-	)
-	(wire
-		(pts
 			(xy 190.5 48.26) (xy 195.58 48.26)
 		)
 		(stroke
@@ -6133,6 +6147,16 @@
 		)
 		(uuid "906ce20f-3172-4d53-97fb-c2eb9083e088")
 	)
+	(wire
+		(pts
+			(xy 60.96 48.26) (xy 60.96 50.8)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "91fc0c4b-7ccf-47db-9b78-52f8b249fb72")
+	)
 	(polyline
 		(pts
 			(xy 156.21 32.0675) (xy 155.575 32.7025)
@@ -6146,6 +6170,16 @@
 	)
 	(wire
 		(pts
+			(xy 71.12 15.24) (xy 73.66 15.24)
+		)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(uuid "92ad30f2-346b-4fd6-b980-27113e025860")
+	)
+	(wire
+		(pts
 			(xy 177.8 60.96) (xy 185.42 60.96)
 		)
 		(stroke
@@ -6156,17 +6190,7 @@
 	)
 	(wire
 		(pts
-			(xy 177.8 60.96) (xy 177.8 66.04)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "9523a2c9-a298-41ec-a862-3fc483ad1e7a")
-	)
-	(wire
-		(pts
-			(xy 40.64 55.88) (xy 45.72 55.88)
+			(xy 30.48 55.88) (xy 35.56 55.88)
 		)
 		(stroke
 			(width 0)
@@ -6226,13 +6250,23 @@
 	)
 	(wire
 		(pts
-			(xy 81.28 53.34) (xy 68.58 53.34)
+			(xy 81.28 53.34) (xy 71.12 53.34)
 		)
 		(stroke
 			(width 0)
 			(type default)
 		)
 		(uuid "9a199dac-4031-4566-9110-72c27c331325")
+	)
+	(wire
+		(pts
+			(xy 63.5 58.42) (xy 81.28 58.42)
+		)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(uuid "9b0d8c37-9be8-425e-94dc-ed395531df17")
 	)
 	(wire
 		(pts
@@ -6256,7 +6290,7 @@
 	)
 	(wire
 		(pts
-			(xy 40.64 48.26) (xy 81.28 48.26)
+			(xy 30.48 48.26) (xy 60.96 48.26)
 		)
 		(stroke
 			(width 0)
@@ -6328,7 +6362,7 @@
 	)
 	(wire
 		(pts
-			(xy 40.64 43.18) (xy 45.72 43.18)
+			(xy 30.48 43.18) (xy 35.56 43.18)
 		)
 		(stroke
 			(width 0)
@@ -6623,6 +6657,16 @@
 	)
 	(wire
 		(pts
+			(xy 76.2 66.04) (xy 81.28 66.04)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "b7e5909c-39e3-45ec-b0b8-0609ba512274")
+	)
+	(wire
+		(pts
 			(xy 127 63.5) (xy 129.54 63.5)
 		)
 		(stroke
@@ -6640,16 +6684,6 @@
 			(type solid)
 		)
 		(uuid "bbd89e3c-c643-408e-9fe6-b3657a82c82c")
-	)
-	(wire
-		(pts
-			(xy 58.42 58.42) (xy 81.28 58.42)
-		)
-		(stroke
-			(width 0.1524)
-			(type solid)
-		)
-		(uuid "bc3a9dd7-6b3c-4c87-ae34-8751fc3761ee")
 	)
 	(wire
 		(pts
@@ -6787,16 +6821,6 @@
 	)
 	(wire
 		(pts
-			(xy 63.5 45.72) (xy 81.28 45.72)
-		)
-		(stroke
-			(width 0.1524)
-			(type solid)
-		)
-		(uuid "c4fef0b2-bbbf-44c7-afc5-0b73ff7e6f72")
-	)
-	(wire
-		(pts
 			(xy 190.5 25.4) (xy 195.58 25.4)
 		)
 		(stroke
@@ -6828,13 +6852,23 @@
 	)
 	(wire
 		(pts
-			(xy 73.66 15.24) (xy 78.74 15.24)
+			(xy 73.66 15.24) (xy 76.2 15.24)
 		)
 		(stroke
 			(width 0.1524)
 			(type solid)
 		)
 		(uuid "c664fab2-2bf3-4c93-bf89-65a10a9e2489")
+	)
+	(wire
+		(pts
+			(xy 68.58 15.24) (xy 71.12 15.24)
+		)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(uuid "c74ad0b7-c7a5-4495-a6e5-9e223a223276")
 	)
 	(polyline
 		(pts
@@ -6930,7 +6964,7 @@
 	)
 	(wire
 		(pts
-			(xy 55.88 45.72) (xy 63.5 45.72)
+			(xy 45.72 45.72) (xy 68.58 45.72)
 		)
 		(stroke
 			(width 0)
@@ -7034,7 +7068,7 @@
 	)
 	(wire
 		(pts
-			(xy 40.64 35.56) (xy 45.72 35.56)
+			(xy 30.48 35.56) (xy 35.56 35.56)
 		)
 		(stroke
 			(width 0)
@@ -7218,7 +7252,7 @@
 	)
 	(wire
 		(pts
-			(xy 40.64 66.04) (xy 45.72 66.04)
+			(xy 30.48 66.04) (xy 35.56 66.04)
 		)
 		(stroke
 			(width 0)
@@ -7249,7 +7283,7 @@
 	)
 	(wire
 		(pts
-			(xy 55.88 53.34) (xy 68.58 53.34)
+			(xy 45.72 53.34) (xy 71.12 53.34)
 		)
 		(stroke
 			(width 0)
@@ -7320,6 +7354,16 @@
 	)
 	(wire
 		(pts
+			(xy 58.42 50.8) (xy 60.96 50.8)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "e8145238-e301-4b83-b8eb-6942e3ba5ec7")
+	)
+	(wire
+		(pts
 			(xy 99.06 139.7) (xy 99.06 142.24)
 		)
 		(stroke
@@ -7361,7 +7405,7 @@
 	)
 	(wire
 		(pts
-			(xy 55.88 66.04) (xy 78.74 66.04)
+			(xy 45.72 66.04) (xy 76.2 66.04)
 		)
 		(stroke
 			(width 0)
@@ -7452,7 +7496,7 @@
 	)
 	(wire
 		(pts
-			(xy 40.64 63.5) (xy 81.28 63.5)
+			(xy 30.48 63.5) (xy 81.28 63.5)
 		)
 		(stroke
 			(width 0.1524)
@@ -7524,7 +7568,7 @@
 	)
 	(wire
 		(pts
-			(xy 40.64 38.1) (xy 45.72 38.1)
+			(xy 30.48 38.1) (xy 35.56 38.1)
 		)
 		(stroke
 			(width 0)
@@ -7875,7 +7919,7 @@
 	)
 	(global_label "~{RESET_OUT}"
 		(shape input)
-		(at 40.64 63.5 180)
+		(at 30.48 63.5 180)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -7885,7 +7929,7 @@
 		)
 		(uuid "0f5f81cd-ac71-4442-a128-790d9b2996a6")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 31.7696 63.5 0)
+			(at 21.6096 63.5 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -7919,7 +7963,7 @@
 	)
 	(global_label "ETH_RX_ERR"
 		(shape output)
-		(at 40.64 48.26 180)
+		(at 30.48 48.26 180)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -7930,7 +7974,7 @@
 		)
 		(uuid "17089807-d5c9-474f-9e50-5f3eec7b62e5")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 30.9229 48.26 0)
+			(at 20.7629 48.26 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -7964,7 +8008,7 @@
 	)
 	(global_label "ETH_REF_CLK"
 		(shape output)
-		(at 40.64 66.04 180)
+		(at 30.48 66.04 180)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -7975,7 +8019,7 @@
 		)
 		(uuid "3376c1be-6a28-476c-8db3-ab6e4fe2938e")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 30.2879 66.04 0)
+			(at 20.1279 66.04 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -8122,7 +8166,7 @@
 	)
 	(global_label "ETH_TX_EN"
 		(shape input)
-		(at 40.64 33.02 180)
+		(at 30.48 33.02 180)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -8133,7 +8177,7 @@
 		)
 		(uuid "697a2a96-9be3-4f70-aa58-a28011e55daa")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 31.9813 33.02 0)
+			(at 21.8213 33.02 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -8168,7 +8212,7 @@
 	)
 	(global_label "ETH_RXD0"
 		(shape output)
-		(at 40.64 43.18 180)
+		(at 30.48 43.18 180)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -8179,7 +8223,7 @@
 		)
 		(uuid "72155b04-2bdc-498b-bc35-58563bbf7919")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 32.4468 43.18 0)
+			(at 22.2868 43.18 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -8236,7 +8280,7 @@
 	)
 	(global_label "ETH_RXD1"
 		(shape output)
-		(at 40.64 45.72 180)
+		(at 30.48 45.72 180)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -8247,7 +8291,7 @@
 		)
 		(uuid "a307d3ad-ea28-4cd7-8475-f5974f3d72bf")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 32.4468 45.72 0)
+			(at 22.2868 45.72 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -8259,7 +8303,7 @@
 	)
 	(global_label "ETH_MDC"
 		(shape input)
-		(at 40.64 55.88 180)
+		(at 30.48 55.88 180)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -8270,7 +8314,7 @@
 		)
 		(uuid "ac6a09f3-98f9-406e-93f7-6800d94ac41a")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 33.1242 55.88 0)
+			(at 22.9642 55.88 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -8305,7 +8349,7 @@
 	)
 	(global_label "ETH_MDIO"
 		(shape bidirectional)
-		(at 40.64 58.42 180)
+		(at 30.48 58.42 180)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -8316,7 +8360,7 @@
 		)
 		(uuid "bc62279e-8955-4817-aac9-361a5e5d77fb")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 31.9918 58.42 0)
+			(at 21.8318 58.42 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -8328,7 +8372,7 @@
 	)
 	(global_label "ETH_TXD0"
 		(shape input)
-		(at 40.64 35.56 180)
+		(at 30.48 35.56 180)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -8339,7 +8383,7 @@
 		)
 		(uuid "be69979b-9e7e-4561-be96-5aeaaca2b4b9")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 32.6585 35.56 0)
+			(at 22.4985 35.56 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -8351,7 +8395,7 @@
 	)
 	(global_label "ETH_CRS_DV"
 		(shape output)
-		(at 40.64 53.34 180)
+		(at 30.48 53.34 180)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -8362,7 +8406,7 @@
 		)
 		(uuid "cfb22c75-ebe4-44b6-b13e-cca852491d97")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 30.9652 53.34 0)
+			(at 20.8052 53.34 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -8374,7 +8418,7 @@
 	)
 	(global_label "ETH_TXD1"
 		(shape input)
-		(at 40.64 38.1 180)
+		(at 30.48 38.1 180)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -8385,7 +8429,7 @@
 		)
 		(uuid "d2fb58c4-756e-43dc-815d-62575d0f4729")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 32.6585 38.1 0)
+			(at 22.4985 38.1 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -8531,7 +8575,7 @@
 	)
 	(symbol
 		(lib_id "PCM_EEZ_passives:R_ARRAY4")
-		(at 50.8 53.34 0)
+		(at 40.64 53.34 0)
 		(unit 3)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -8539,7 +8583,7 @@
 		(dnp no)
 		(uuid "0112ab0d-e00d-4572-8a10-d2528091e704")
 		(property "Reference" "RN2"
-			(at 45.72 53.213 0)
+			(at 35.56 53.213 0)
 			(effects
 				(font
 					(size 0.889 0.889)
@@ -8548,7 +8592,7 @@
 			)
 		)
 		(property "Value" "CAY16A-330J4AS"
-			(at 53.34 56.388 0)
+			(at 43.18 56.388 0)
 			(effects
 				(font
 					(size 1.778 1.5113)
@@ -8558,7 +8602,7 @@
 			)
 		)
 		(property "Footprint" "PCM_EEZ_passives:CAY16"
-			(at 50.8 58.42 0)
+			(at 40.64 58.42 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -8567,7 +8611,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 50.8 53.34 0)
+			(at 40.64 53.34 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -8576,7 +8620,7 @@
 			)
 		)
 		(property "Description" ""
-			(at 50.8 53.34 0)
+			(at 40.64 53.34 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -8585,7 +8629,7 @@
 			)
 		)
 		(property "DigiKey" "CAY16-330J4LFCT-ND"
-			(at 50.8 53.34 0)
+			(at 40.64 53.34 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -8594,7 +8638,7 @@
 			)
 		)
 		(property "Mouser" "652-CAY16-330J4LF"
-			(at 50.8 53.34 0)
+			(at 40.64 53.34 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -8603,7 +8647,7 @@
 			)
 		)
 		(property "TME" "CAY16-330J4LF"
-			(at 50.8 53.34 0)
+			(at 40.64 53.34 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -8612,7 +8656,7 @@
 			)
 		)
 		(property "LCSC" ""
-			(at 50.8 53.34 0)
+			(at 40.64 53.34 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -8621,7 +8665,7 @@
 			)
 		)
 		(property "Type" ""
-			(at 50.8 53.34 0)
+			(at 40.64 53.34 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -8777,7 +8821,7 @@
 	)
 	(symbol
 		(lib_id "PCM_EEZ_passives:R_ARRAY4")
-		(at 50.8 43.18 0)
+		(at 40.64 43.18 0)
 		(unit 2)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -8785,7 +8829,7 @@
 		(dnp no)
 		(uuid "0331a248-9e04-4fe0-8899-dee1dd320095")
 		(property "Reference" "RN2"
-			(at 45.72 43.053 0)
+			(at 35.56 43.053 0)
 			(effects
 				(font
 					(size 0.889 0.889)
@@ -8794,7 +8838,7 @@
 			)
 		)
 		(property "Value" "CAY16A-330J4AS"
-			(at 55.245 42.545 0)
+			(at 45.085 42.545 0)
 			(effects
 				(font
 					(size 0.889 0.889)
@@ -8803,7 +8847,7 @@
 			)
 		)
 		(property "Footprint" "PCM_EEZ_passives:CAY16"
-			(at 50.8 48.26 0)
+			(at 40.64 48.26 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -8812,7 +8856,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 50.8 43.18 0)
+			(at 40.64 43.18 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -8821,7 +8865,7 @@
 			)
 		)
 		(property "Description" ""
-			(at 50.8 43.18 0)
+			(at 40.64 43.18 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -8830,7 +8874,7 @@
 			)
 		)
 		(property "DigiKey" "CAY16-330J4LFCT-ND"
-			(at 50.8 43.18 0)
+			(at 40.64 43.18 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -8839,7 +8883,7 @@
 			)
 		)
 		(property "Mouser" "652-CAY16-330J4LF"
-			(at 50.8 43.18 0)
+			(at 40.64 43.18 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -8848,7 +8892,7 @@
 			)
 		)
 		(property "TME" "CAY16-330J4LF"
-			(at 50.8 43.18 0)
+			(at 40.64 43.18 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -8857,7 +8901,7 @@
 			)
 		)
 		(property "LCSC" ""
-			(at 50.8 43.18 0)
+			(at 40.64 43.18 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -8866,7 +8910,7 @@
 			)
 		)
 		(property "Type" ""
-			(at 50.8 43.18 0)
+			(at 40.64 43.18 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -8909,7 +8953,7 @@
 	)
 	(symbol
 		(lib_id "PCM_EEZ_passives:R_ARRAY4")
-		(at 50.8 38.1 0)
+		(at 40.64 38.1 0)
 		(unit 4)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -8917,7 +8961,7 @@
 		(dnp no)
 		(uuid "042f8033-cac0-4ff2-81d0-a3f6390b264f")
 		(property "Reference" "RN1"
-			(at 45.72 37.973 0)
+			(at 35.56 37.973 0)
 			(effects
 				(font
 					(size 0.889 0.889)
@@ -8926,7 +8970,7 @@
 			)
 		)
 		(property "Value" "CAY16A-330J4AS"
-			(at 53.34 41.148 0)
+			(at 43.18 41.148 0)
 			(effects
 				(font
 					(size 1.778 1.5113)
@@ -8936,7 +8980,7 @@
 			)
 		)
 		(property "Footprint" "PCM_EEZ_passives:CAY16"
-			(at 50.8 43.18 0)
+			(at 40.64 43.18 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -8945,7 +8989,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 50.8 38.1 0)
+			(at 40.64 38.1 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -8954,7 +8998,7 @@
 			)
 		)
 		(property "Description" ""
-			(at 50.8 38.1 0)
+			(at 40.64 38.1 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -8963,7 +9007,7 @@
 			)
 		)
 		(property "DigiKey" "CAY16-330J4LFCT-ND"
-			(at 50.8 38.1 0)
+			(at 40.64 38.1 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -8972,7 +9016,7 @@
 			)
 		)
 		(property "Mouser" "652-CAY16-330J4LF"
-			(at 50.8 38.1 0)
+			(at 40.64 38.1 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -8981,7 +9025,7 @@
 			)
 		)
 		(property "TME" "CAY16-330J4LF"
-			(at 50.8 38.1 0)
+			(at 40.64 38.1 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -8990,7 +9034,7 @@
 			)
 		)
 		(property "LCSC" ""
-			(at 50.8 38.1 0)
+			(at 40.64 38.1 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -8999,7 +9043,7 @@
 			)
 		)
 		(property "Type" ""
-			(at 50.8 38.1 0)
+			(at 40.64 38.1 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -9221,7 +9265,7 @@
 	)
 	(symbol
 		(lib_id "PCM_EEZ_passives:R-EU")
-		(at 63.5 22.86 180)
+		(at 68.58 22.86 180)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -9229,7 +9273,7 @@
 		(dnp no)
 		(uuid "1cde94c8-f2e0-423a-ace6-154f76bdea52")
 		(property "Reference" "R6"
-			(at 62.23 24.765 90)
+			(at 67.945 28.575 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -9238,7 +9282,7 @@
 			)
 		)
 		(property "Value" "10K"
-			(at 62.865 29.21 90)
+			(at 67.945 19.685 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -9247,7 +9291,7 @@
 			)
 		)
 		(property "Footprint" "PCM_EEZ_passives:R_0402_1005Metric"
-			(at 63.5 22.86 0)
+			(at 68.58 22.86 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -9256,7 +9300,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 63.5 22.86 0)
+			(at 68.58 22.86 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -9265,7 +9309,7 @@
 			)
 		)
 		(property "Description" ""
-			(at 63.5 22.86 0)
+			(at 68.58 22.86 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -9274,7 +9318,7 @@
 			)
 		)
 		(property "DigiKey" "311-10.0KLRCT-ND"
-			(at 63.5 22.86 0)
+			(at 68.58 22.86 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -9283,7 +9327,7 @@
 			)
 		)
 		(property "Mouser" "603-RC0402FR-0710KL"
-			(at 63.5 22.86 0)
+			(at 68.58 22.86 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -9292,7 +9336,7 @@
 			)
 		)
 		(property "TME" "SMD0402-10K-1%"
-			(at 63.5 22.86 0)
+			(at 68.58 22.86 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -9301,7 +9345,7 @@
 			)
 		)
 		(property "LCSC" "C60490"
-			(at 63.5 22.86 0)
+			(at 68.58 22.86 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -9310,7 +9354,7 @@
 			)
 		)
 		(property "Type" ""
-			(at 63.5 22.86 90)
+			(at 68.58 22.86 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -10435,6 +10479,73 @@
 		)
 	)
 	(symbol
+		(lib_id "power:GND")
+		(at 48.26 50.8 270)
+		(mirror x)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(uuid "491688c4-2c51-4504-8ecf-b6a750944ced")
+		(property "Reference" "#SUPPLY049"
+			(at 48.26 50.8 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Value" "GND"
+			(at 45.72 50.8 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(property "Footprint" ""
+			(at 48.26 50.8 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" ""
+			(at 48.26 50.8 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Power symbol creates a global label with name \"GND\" , ground"
+			(at 48.26 50.8 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "04bb1c77-f576-46c2-bb3a-e6890bb719f3")
+		)
+		(instances
+			(project "BB3plus CM5 STM32H7 module"
+				(path "/1a4f0aea-3a69-423f-8790-3103cd0321c4/db533ab3-e8cc-4dba-934e-bd27ee1dfc29"
+					(reference "#SUPPLY049")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
 		(lib_id "PCM_EEZ_ICs:IS21EF04GP-JQLI")
 		(at 66.04 99.06 0)
 		(unit 1)
@@ -10793,7 +10904,7 @@
 	)
 	(symbol
 		(lib_id "PCM_EEZ_passives:R_ARRAY4")
-		(at 50.8 45.72 0)
+		(at 40.64 45.72 0)
 		(mirror y)
 		(unit 1)
 		(exclude_from_sim no)
@@ -10802,7 +10913,7 @@
 		(dnp no)
 		(uuid "5344c3c0-3d22-4dd9-b287-aae3e8139462")
 		(property "Reference" "RN2"
-			(at 41.91 45.72 0)
+			(at 31.75 45.72 0)
 			(effects
 				(font
 					(size 0.889 0.889)
@@ -10811,7 +10922,7 @@
 			)
 		)
 		(property "Value" "CAY16A-330J4AS"
-			(at 48.26 48.768 0)
+			(at 38.1 48.768 0)
 			(effects
 				(font
 					(size 1.778 1.5113)
@@ -10821,7 +10932,7 @@
 			)
 		)
 		(property "Footprint" "PCM_EEZ_passives:CAY16"
-			(at 50.8 50.8 0)
+			(at 40.64 50.8 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -10830,7 +10941,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 50.8 45.72 0)
+			(at 40.64 45.72 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -10839,7 +10950,7 @@
 			)
 		)
 		(property "Description" ""
-			(at 50.8 45.72 0)
+			(at 40.64 45.72 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -10848,7 +10959,7 @@
 			)
 		)
 		(property "DigiKey" "CAY16-330J4LFCT-ND"
-			(at 50.8 45.72 0)
+			(at 40.64 45.72 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -10857,7 +10968,7 @@
 			)
 		)
 		(property "Mouser" "652-CAY16-330J4LF"
-			(at 50.8 45.72 0)
+			(at 40.64 45.72 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -10866,7 +10977,7 @@
 			)
 		)
 		(property "TME" "CAY16-330J4LF"
-			(at 50.8 45.72 0)
+			(at 40.64 45.72 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -10875,7 +10986,7 @@
 			)
 		)
 		(property "LCSC" ""
-			(at 50.8 45.72 0)
+			(at 40.64 45.72 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -10884,7 +10995,7 @@
 			)
 		)
 		(property "Type" ""
-			(at 50.8 45.72 0)
+			(at 40.64 45.72 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -11059,7 +11170,7 @@
 	)
 	(symbol
 		(lib_id "PCM_EEZ_passives:R_ARRAY4")
-		(at 50.8 55.88 0)
+		(at 40.64 55.88 0)
 		(mirror y)
 		(unit 1)
 		(exclude_from_sim no)
@@ -11068,7 +11179,7 @@
 		(dnp no)
 		(uuid "68f942c7-7091-44e4-9f1e-8bf8278a52be")
 		(property "Reference" "RN1"
-			(at 41.91 55.88 0)
+			(at 31.75 55.88 0)
 			(effects
 				(font
 					(size 0.889 0.889)
@@ -11077,7 +11188,7 @@
 			)
 		)
 		(property "Value" "CAY16A-330J4AS"
-			(at 48.26 58.928 0)
+			(at 38.1 58.928 0)
 			(effects
 				(font
 					(size 1.778 1.5113)
@@ -11087,7 +11198,7 @@
 			)
 		)
 		(property "Footprint" "PCM_EEZ_passives:CAY16"
-			(at 50.8 60.96 0)
+			(at 40.64 60.96 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -11096,7 +11207,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 50.8 55.88 0)
+			(at 40.64 55.88 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -11105,7 +11216,7 @@
 			)
 		)
 		(property "Description" ""
-			(at 50.8 55.88 0)
+			(at 40.64 55.88 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -11114,7 +11225,7 @@
 			)
 		)
 		(property "DigiKey" "CAY16-330J4LFCT-ND"
-			(at 50.8 55.88 0)
+			(at 40.64 55.88 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -11123,7 +11234,7 @@
 			)
 		)
 		(property "Mouser" "652-CAY16-330J4LF"
-			(at 50.8 55.88 0)
+			(at 40.64 55.88 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -11132,7 +11243,7 @@
 			)
 		)
 		(property "TME" "CAY16-330J4LF"
-			(at 50.8 55.88 0)
+			(at 40.64 55.88 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -11141,7 +11252,7 @@
 			)
 		)
 		(property "LCSC" ""
-			(at 50.8 55.88 0)
+			(at 40.64 55.88 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -11150,7 +11261,7 @@
 			)
 		)
 		(property "Type" ""
-			(at 50.8 55.88 0)
+			(at 40.64 55.88 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -11460,7 +11571,7 @@
 	)
 	(symbol
 		(lib_id "PCM_EEZ_passives:R-EU")
-		(at 68.58 22.86 0)
+		(at 71.12 22.86 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -11468,7 +11579,7 @@
 		(dnp no)
 		(uuid "77c38914-11ee-4e47-bacd-a57266563dc1")
 		(property "Reference" "R7"
-			(at 67.31 24.765 90)
+			(at 70.485 28.575 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -11477,16 +11588,16 @@
 			)
 		)
 		(property "Value" "10K"
-			(at 66.675 25.4 90)
+			(at 70.485 19.685 90)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
-				(justify right top)
+				(justify left bottom)
 			)
 		)
 		(property "Footprint" "PCM_EEZ_passives:R_0402_1005Metric"
-			(at 68.58 22.86 0)
+			(at 71.12 22.86 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -11495,7 +11606,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 68.58 22.86 0)
+			(at 71.12 22.86 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -11504,7 +11615,7 @@
 			)
 		)
 		(property "Description" ""
-			(at 68.58 22.86 0)
+			(at 71.12 22.86 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -11513,7 +11624,7 @@
 			)
 		)
 		(property "DigiKey" "311-10.0KLRCT-ND"
-			(at 68.58 22.86 0)
+			(at 71.12 22.86 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -11522,7 +11633,7 @@
 			)
 		)
 		(property "Mouser" "603-RC0402FR-0710KL"
-			(at 68.58 22.86 0)
+			(at 71.12 22.86 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -11531,7 +11642,7 @@
 			)
 		)
 		(property "TME" "SMD0402-10K-1%"
-			(at 68.58 22.86 0)
+			(at 71.12 22.86 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -11540,7 +11651,7 @@
 			)
 		)
 		(property "LCSC" "C60490"
-			(at 68.58 22.86 0)
+			(at 71.12 22.86 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -11549,7 +11660,7 @@
 			)
 		)
 		(property "Type" ""
-			(at 68.58 22.86 90)
+			(at 71.12 22.86 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -12402,6 +12513,7 @@
 				(font
 					(size 1.27 1.27)
 				)
+				(hide yes)
 			)
 		)
 		(property "Type" ""
@@ -12430,7 +12542,7 @@
 	)
 	(symbol
 		(lib_id "PCM_EEZ_passives:R-EU")
-		(at 58.42 22.86 0)
+		(at 63.5 22.86 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -12438,7 +12550,7 @@
 		(dnp no)
 		(uuid "a2da3863-207a-4422-8b57-ca8910a4d4bd")
 		(property "Reference" "R5"
-			(at 57.15 22.86 0)
+			(at 62.23 22.86 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -12447,7 +12559,7 @@
 			)
 		)
 		(property "Value" "1K5"
-			(at 57.15 23.495 0)
+			(at 62.23 23.495 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -12456,7 +12568,7 @@
 			)
 		)
 		(property "Footprint" "PCM_EEZ_passives:R_0402_1005Metric"
-			(at 58.42 22.86 0)
+			(at 63.5 22.86 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -12465,7 +12577,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 58.42 22.86 0)
+			(at 63.5 22.86 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -12474,7 +12586,7 @@
 			)
 		)
 		(property "Description" ""
-			(at 58.42 22.86 0)
+			(at 63.5 22.86 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -12483,7 +12595,7 @@
 			)
 		)
 		(property "DigiKey" "311-1.50KLRCT-ND"
-			(at 58.42 22.86 0)
+			(at 63.5 22.86 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -12492,7 +12604,7 @@
 			)
 		)
 		(property "Mouser" "603-RC0402FR-071K5L"
-			(at 58.42 22.86 0)
+			(at 63.5 22.86 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -12501,7 +12613,7 @@
 			)
 		)
 		(property "TME" "RC0402FR-071K5L"
-			(at 58.42 22.86 0)
+			(at 63.5 22.86 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -12510,7 +12622,7 @@
 			)
 		)
 		(property "LCSC" "C114759"
-			(at 58.42 22.86 0)
+			(at 63.5 22.86 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -12519,7 +12631,7 @@
 			)
 		)
 		(property "Type" ""
-			(at 58.42 22.86 0)
+			(at 63.5 22.86 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -12791,7 +12903,7 @@
 	)
 	(symbol
 		(lib_id "PCM_EEZ_passives:R_ARRAY4")
-		(at 50.8 66.04 0)
+		(at 40.64 66.04 0)
 		(unit 2)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -12799,7 +12911,7 @@
 		(dnp no)
 		(uuid "b246bad2-ee0f-4f3f-b5f9-fd4891b23d9d")
 		(property "Reference" "RN1"
-			(at 45.72 65.913 0)
+			(at 35.56 65.913 0)
 			(effects
 				(font
 					(size 0.889 0.889)
@@ -12808,7 +12920,7 @@
 			)
 		)
 		(property "Value" "CAY16A-330J4AS"
-			(at 53.34 69.088 0)
+			(at 43.18 69.088 0)
 			(effects
 				(font
 					(size 1.778 1.5113)
@@ -12818,7 +12930,7 @@
 			)
 		)
 		(property "Footprint" "PCM_EEZ_passives:CAY16"
-			(at 50.8 71.12 0)
+			(at 40.64 71.12 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -12827,7 +12939,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 50.8 66.04 0)
+			(at 40.64 66.04 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -12836,7 +12948,7 @@
 			)
 		)
 		(property "Description" ""
-			(at 50.8 66.04 0)
+			(at 40.64 66.04 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -12845,7 +12957,7 @@
 			)
 		)
 		(property "DigiKey" "CAY16-330J4LFCT-ND"
-			(at 50.8 66.04 0)
+			(at 40.64 66.04 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -12854,7 +12966,7 @@
 			)
 		)
 		(property "Mouser" "652-CAY16-330J4LF"
-			(at 50.8 66.04 0)
+			(at 40.64 66.04 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -12863,7 +12975,7 @@
 			)
 		)
 		(property "TME" "CAY16-330J4LF"
-			(at 50.8 66.04 0)
+			(at 40.64 66.04 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -12872,7 +12984,7 @@
 			)
 		)
 		(property "LCSC" ""
-			(at 50.8 66.04 0)
+			(at 40.64 66.04 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -12881,7 +12993,7 @@
 			)
 		)
 		(property "Type" ""
-			(at 50.8 66.04 0)
+			(at 40.64 66.04 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -13402,7 +13514,7 @@
 	)
 	(symbol
 		(lib_id "PCM_EEZ_passives:R-EU")
-		(at 177.8 71.12 0)
+		(at 53.34 50.8 90)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom no)
@@ -13410,25 +13522,25 @@
 		(dnp yes)
 		(uuid "c0315af7-7ada-47b2-a8ad-e4d429285b34")
 		(property "Reference" "R12"
-			(at 182.88 69.215 0)
+			(at 53.34 49.53 90)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
-				(justify right top)
+				(justify top)
 			)
 		)
 		(property "Value" "10K"
-			(at 182.88 71.12 0)
+			(at 53.34 52.07 90)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
-				(justify right top)
+				(justify bottom)
 			)
 		)
 		(property "Footprint" "PCM_EEZ_passives:R_0402_1005Metric"
-			(at 177.8 71.12 0)
+			(at 53.34 50.8 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -13437,7 +13549,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 177.8 71.12 0)
+			(at 53.34 50.8 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -13446,7 +13558,7 @@
 			)
 		)
 		(property "Description" ""
-			(at 177.8 71.12 0)
+			(at 53.34 50.8 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -13455,7 +13567,7 @@
 			)
 		)
 		(property "DigiKey" "311-10.0KLRCT-ND"
-			(at 177.8 71.12 0)
+			(at 53.34 50.8 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -13464,7 +13576,7 @@
 			)
 		)
 		(property "Mouser" "603-RC0402FR-0710KL"
-			(at 177.8 71.12 0)
+			(at 53.34 50.8 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -13473,7 +13585,7 @@
 			)
 		)
 		(property "TME" "SMD0402-10K-1%"
-			(at 177.8 71.12 0)
+			(at 53.34 50.8 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -13482,7 +13594,7 @@
 			)
 		)
 		(property "LCSC" "C60490"
-			(at 177.8 71.12 0)
+			(at 53.34 50.8 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -13491,7 +13603,7 @@
 			)
 		)
 		(property "Type" ""
-			(at 177.8 71.12 0)
+			(at 53.34 50.8 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -14522,6 +14634,7 @@
 				(font
 					(size 1.27 1.27)
 				)
+				(hide yes)
 			)
 		)
 		(property "Type" ""
@@ -14836,7 +14949,7 @@
 	)
 	(symbol
 		(lib_id "PCM_EEZ_passives:R_ARRAY4")
-		(at 50.8 35.56 0)
+		(at 40.64 35.56 0)
 		(unit 3)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -14844,7 +14957,7 @@
 		(dnp no)
 		(uuid "e6dd5d29-80e6-433f-a4ea-797c8d59eb7e")
 		(property "Reference" "RN1"
-			(at 45.72 35.433 0)
+			(at 35.56 35.433 0)
 			(effects
 				(font
 					(size 0.889 0.889)
@@ -14853,7 +14966,7 @@
 			)
 		)
 		(property "Value" "CAY16A-330J4AS"
-			(at 55.245 34.925 0)
+			(at 45.085 34.925 0)
 			(effects
 				(font
 					(size 0.889 0.889)
@@ -14862,7 +14975,7 @@
 			)
 		)
 		(property "Footprint" "PCM_EEZ_passives:CAY16"
-			(at 50.8 40.64 0)
+			(at 40.64 40.64 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -14871,7 +14984,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 50.8 35.56 0)
+			(at 40.64 35.56 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -14880,7 +14993,7 @@
 			)
 		)
 		(property "Description" ""
-			(at 50.8 35.56 0)
+			(at 40.64 35.56 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -14889,7 +15002,7 @@
 			)
 		)
 		(property "DigiKey" "CAY16-330J4LFCT-ND"
-			(at 50.8 35.56 0)
+			(at 40.64 35.56 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -14898,7 +15011,7 @@
 			)
 		)
 		(property "Mouser" "652-CAY16-330J4LF"
-			(at 50.8 35.56 0)
+			(at 40.64 35.56 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -14907,7 +15020,7 @@
 			)
 		)
 		(property "TME" "CAY16-330J4LF"
-			(at 50.8 35.56 0)
+			(at 40.64 35.56 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -14916,7 +15029,7 @@
 			)
 		)
 		(property "LCSC" ""
-			(at 50.8 35.56 0)
+			(at 40.64 35.56 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -14925,7 +15038,7 @@
 			)
 		)
 		(property "Type" ""
-			(at 50.8 35.56 0)
+			(at 40.64 35.56 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -15265,7 +15378,7 @@
 	)
 	(symbol
 		(lib_id "PCM_EEZ_passives:R_ARRAY4")
-		(at 50.8 58.42 0)
+		(at 40.64 58.42 0)
 		(unit 4)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -15273,7 +15386,7 @@
 		(dnp no)
 		(uuid "f3a55748-cd51-494b-b709-ee62de60d10d")
 		(property "Reference" "RN2"
-			(at 45.72 58.293 0)
+			(at 35.56 58.293 0)
 			(effects
 				(font
 					(size 0.889 0.889)
@@ -15282,7 +15395,7 @@
 			)
 		)
 		(property "Value" "CAY16A-330J4AS"
-			(at 53.34 61.468 0)
+			(at 43.18 61.468 0)
 			(effects
 				(font
 					(size 1.778 1.5113)
@@ -15292,7 +15405,7 @@
 			)
 		)
 		(property "Footprint" "PCM_EEZ_passives:CAY16"
-			(at 50.8 63.5 0)
+			(at 40.64 63.5 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -15301,7 +15414,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 50.8 58.42 0)
+			(at 40.64 58.42 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -15310,7 +15423,7 @@
 			)
 		)
 		(property "Description" ""
-			(at 50.8 58.42 0)
+			(at 40.64 58.42 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -15319,7 +15432,7 @@
 			)
 		)
 		(property "DigiKey" "CAY16-330J4LFCT-ND"
-			(at 50.8 58.42 0)
+			(at 40.64 58.42 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -15328,7 +15441,7 @@
 			)
 		)
 		(property "Mouser" "652-CAY16-330J4LF"
-			(at 50.8 58.42 0)
+			(at 40.64 58.42 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -15337,7 +15450,7 @@
 			)
 		)
 		(property "TME" "CAY16-330J4LF"
-			(at 50.8 58.42 0)
+			(at 40.64 58.42 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -15346,7 +15459,7 @@
 			)
 		)
 		(property "LCSC" ""
-			(at 50.8 58.42 0)
+			(at 40.64 58.42 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -15355,7 +15468,7 @@
 			)
 		)
 		(property "Type" ""
-			(at 50.8 58.42 0)
+			(at 40.64 58.42 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -15406,7 +15519,7 @@
 		(dnp no)
 		(uuid "fd2cbdc2-aa5f-42f8-8ffe-ae94af6961a2")
 		(property "Reference" "R8"
-			(at 72.39 24.765 90)
+			(at 73.025 28.575 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -15415,12 +15528,12 @@
 			)
 		)
 		(property "Value" "10K"
-			(at 71.755 25.4 90)
+			(at 73.025 19.685 90)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
-				(justify right top)
+				(justify left bottom)
 			)
 		)
 		(property "Footprint" "PCM_EEZ_passives:R_0402_1005Metric"
@@ -15626,7 +15739,7 @@
 	)
 	(symbol
 		(lib_id "PCM_EEZ_passives:R-EU")
-		(at 78.74 22.86 0)
+		(at 76.2 22.86 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -15634,7 +15747,7 @@
 		(dnp no)
 		(uuid "fe4577f8-e47a-474d-880d-577b4476c471")
 		(property "Reference" "R9"
-			(at 77.47 24.765 90)
+			(at 75.565 28.575 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -15643,16 +15756,16 @@
 			)
 		)
 		(property "Value" "10K"
-			(at 76.835 25.4 90)
+			(at 75.565 19.685 90)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
-				(justify right top)
+				(justify left bottom)
 			)
 		)
 		(property "Footprint" "PCM_EEZ_passives:R_0402_1005Metric"
-			(at 78.74 22.86 0)
+			(at 76.2 22.86 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -15661,7 +15774,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 78.74 22.86 0)
+			(at 76.2 22.86 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -15670,7 +15783,7 @@
 			)
 		)
 		(property "Description" ""
-			(at 78.74 22.86 0)
+			(at 76.2 22.86 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -15679,7 +15792,7 @@
 			)
 		)
 		(property "DigiKey" "311-10.0KLRCT-ND"
-			(at 78.74 22.86 0)
+			(at 76.2 22.86 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -15688,7 +15801,7 @@
 			)
 		)
 		(property "Mouser" "603-RC0402FR-0710KL"
-			(at 78.74 22.86 0)
+			(at 76.2 22.86 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -15697,7 +15810,7 @@
 			)
 		)
 		(property "TME" "SMD0402-10K-1%"
-			(at 78.74 22.86 0)
+			(at 76.2 22.86 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -15706,7 +15819,7 @@
 			)
 		)
 		(property "LCSC" "C60490"
-			(at 78.74 22.86 0)
+			(at 76.2 22.86 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -15715,7 +15828,7 @@
 			)
 		)
 		(property "Type" ""
-			(at 78.74 22.86 90)
+			(at 76.2 22.86 90)
 			(effects
 				(font
 					(size 1.27 1.27)

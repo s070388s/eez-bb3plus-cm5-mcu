@@ -60,14 +60,6 @@
       ],
       "drc_exclusions": [
         [
-          "clearance|142660000|78564800|d0d17cce-050e-4644-b87e-ca1f113d3029|ffbc023d-ac1f-455a-a603-0a14ecf62611",
-          ""
-        ],
-        [
-          "clearance|142660000|79225200|3439aae1-1cd8-4a31-8f31-a34b03f66a79|ffbc023d-ac1f-455a-a603-0a14ecf62611",
-          ""
-        ],
-        [
           "courtyards_overlap|100628000|75067921|c7269226-2f31-41ab-9228-9e1355fd9fb7|f6d8b42f-e40f-4427-b7dd-85c064dbb18a",
           ""
         ],
@@ -89,6 +81,14 @@
         ],
         [
           "courtyards_overlap|95548222|78003844|21aa119f-277a-4a8f-972c-7c0d9d5f2d0b|f6d8b42f-e40f-4427-b7dd-85c064dbb18a",
+          ""
+        ],
+        [
+          "shorting_items|142660000|78564800|d0d17cce-050e-4644-b87e-ca1f113d3029|ffbc023d-ac1f-455a-a603-0a14ecf62611",
+          ""
+        ],
+        [
+          "shorting_items|142660000|79225200|3439aae1-1cd8-4a31-8f31-a34b03f66a79|ffbc023d-ac1f-455a-a603-0a14ecf62611",
           ""
         ],
         [
