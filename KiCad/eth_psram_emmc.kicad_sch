@@ -3548,6 +3548,30 @@
 			(embedded_fonts no)
 		)
 	)
+	(text "PD7"
+		(exclude_from_sim no)
+		(at 27.94 66.04 0)
+		(effects
+			(font
+				(size 0.889 0.889)
+				(color 132 0 132 1)
+			)
+			(justify left bottom)
+		)
+		(uuid "0cc77e1e-9797-4698-9ffa-20b2a0e5f79c")
+	)
+	(text "PG11"
+		(exclude_from_sim no)
+		(at 27.94 33.02 0)
+		(effects
+			(font
+				(size 0.889 0.889)
+				(color 132 0 132 1)
+			)
+			(justify left bottom)
+		)
+		(uuid "10d9ee10-7ccc-4992-900a-fa511429e527")
+	)
 	(text "TD matched Net Lengths [Tolerance = 100mil]\nDiff Pair 100ohm"
 		(exclude_from_sim no)
 		(at 137.16 31.75 0)
@@ -3574,6 +3598,42 @@
 		)
 		(uuid "22262374-3537-408b-897b-f0f56a87259d")
 	)
+	(text "PG13"
+		(exclude_from_sim no)
+		(at 27.94 35.56 0)
+		(effects
+			(font
+				(size 0.889 0.889)
+				(color 132 0 132 1)
+			)
+			(justify left bottom)
+		)
+		(uuid "4fcc51e3-d590-4e14-b9e8-890dadd31b4b")
+	)
+	(text "PA7"
+		(exclude_from_sim no)
+		(at 27.94 53.34 0)
+		(effects
+			(font
+				(size 0.889 0.889)
+				(color 132 0 132 1)
+			)
+			(justify left bottom)
+		)
+		(uuid "565b2145-2807-42f6-a258-968ac8370240")
+	)
+	(text "PB10"
+		(exclude_from_sim no)
+		(at 27.94 48.26 0)
+		(effects
+			(font
+				(size 0.889 0.889)
+				(color 132 0 132 1)
+			)
+			(justify left bottom)
+		)
+		(uuid "68ce18c4-a206-46d4-b25e-04f771b798d8")
+	)
 	(text "PSRAM 256 Mbit"
 		(exclude_from_sim no)
 		(at 144.78 99.06 0)
@@ -3587,6 +3647,42 @@
 			(justify left bottom)
 		)
 		(uuid "6bfcd8a2-8b16-404e-9159-8a048935ce6e")
+	)
+	(text "PC4"
+		(exclude_from_sim no)
+		(at 27.94 43.18 0)
+		(effects
+			(font
+				(size 0.889 0.889)
+				(color 132 0 132 1)
+			)
+			(justify left bottom)
+		)
+		(uuid "92bfb697-0c00-4d2d-8c92-bf428a73180f")
+	)
+	(text "PB7"
+		(exclude_from_sim no)
+		(at 27.94 38.1 0)
+		(effects
+			(font
+				(size 0.889 0.889)
+				(color 132 0 132 1)
+			)
+			(justify left bottom)
+		)
+		(uuid "c5f553ac-9b12-40d1-83a9-474b68ab09ce")
+	)
+	(text "PA2"
+		(exclude_from_sim no)
+		(at 27.94 58.42 0)
+		(effects
+			(font
+				(size 0.889 0.889)
+				(color 132 0 132 1)
+			)
+			(justify left bottom)
+		)
+		(uuid "d34e2c42-e998-4b23-9fbe-775eee168203")
 	)
 	(text "Ethernet RMII PHY"
 		(exclude_from_sim no)
@@ -3613,6 +3709,30 @@
 			(justify left bottom)
 		)
 		(uuid "eebce34b-5657-454e-a6fd-a46904ee1e09")
+	)
+	(text "PC5"
+		(exclude_from_sim no)
+		(at 27.94 45.72 0)
+		(effects
+			(font
+				(size 0.889 0.889)
+				(color 132 0 132 1)
+			)
+			(justify left bottom)
+		)
+		(uuid "f2b384a8-a7b8-4b96-a65b-efb53829c10e")
+	)
+	(text "PC1"
+		(exclude_from_sim no)
+		(at 27.94 55.88 0)
+		(effects
+			(font
+				(size 0.889 0.889)
+				(color 132 0 132 1)
+			)
+			(justify left bottom)
+		)
+		(uuid "f5177a30-a030-4c94-832d-fa39e46c92dc")
 	)
 	(text_box "HEXASPI Impedance Constraint: Min = 45.00, Max = 55.00"
 		(exclude_from_sim no)
@@ -4779,7 +4899,7 @@
 	)
 	(wire
 		(pts
-			(xy 30.48 53.34) (xy 35.56 53.34)
+			(xy 25.4 53.34) (xy 35.56 53.34)
 		)
 		(stroke
 			(width 0)
@@ -5775,7 +5895,7 @@
 	)
 	(wire
 		(pts
-			(xy 30.48 58.42) (xy 35.56 58.42)
+			(xy 25.4 58.42) (xy 35.56 58.42)
 		)
 		(stroke
 			(width 0)
@@ -5855,7 +5975,7 @@
 	)
 	(wire
 		(pts
-			(xy 30.48 33.02) (xy 81.28 33.02)
+			(xy 25.4 33.02) (xy 81.28 33.02)
 		)
 		(stroke
 			(width 0.1524)
@@ -5925,7 +6045,7 @@
 	)
 	(wire
 		(pts
-			(xy 30.48 45.72) (xy 35.56 45.72)
+			(xy 25.4 45.72) (xy 35.56 45.72)
 		)
 		(stroke
 			(width 0)
@@ -6190,7 +6310,7 @@
 	)
 	(wire
 		(pts
-			(xy 30.48 55.88) (xy 35.56 55.88)
+			(xy 25.4 55.88) (xy 35.56 55.88)
 		)
 		(stroke
 			(width 0)
@@ -6290,7 +6410,7 @@
 	)
 	(wire
 		(pts
-			(xy 30.48 48.26) (xy 60.96 48.26)
+			(xy 25.4 48.26) (xy 60.96 48.26)
 		)
 		(stroke
 			(width 0)
@@ -6362,7 +6482,7 @@
 	)
 	(wire
 		(pts
-			(xy 30.48 43.18) (xy 35.56 43.18)
+			(xy 25.4 43.18) (xy 35.56 43.18)
 		)
 		(stroke
 			(width 0)
@@ -7068,7 +7188,7 @@
 	)
 	(wire
 		(pts
-			(xy 30.48 35.56) (xy 35.56 35.56)
+			(xy 25.4 35.56) (xy 35.56 35.56)
 		)
 		(stroke
 			(width 0)
@@ -7252,7 +7372,7 @@
 	)
 	(wire
 		(pts
-			(xy 30.48 66.04) (xy 35.56 66.04)
+			(xy 25.4 66.04) (xy 35.56 66.04)
 		)
 		(stroke
 			(width 0)
@@ -7496,7 +7616,7 @@
 	)
 	(wire
 		(pts
-			(xy 30.48 63.5) (xy 81.28 63.5)
+			(xy 25.4 63.5) (xy 81.28 63.5)
 		)
 		(stroke
 			(width 0.1524)
@@ -7568,7 +7688,7 @@
 	)
 	(wire
 		(pts
-			(xy 30.48 38.1) (xy 35.56 38.1)
+			(xy 25.4 38.1) (xy 35.56 38.1)
 		)
 		(stroke
 			(width 0)
@@ -7919,7 +8039,7 @@
 	)
 	(global_label "~{RESET_OUT}"
 		(shape input)
-		(at 30.48 63.5 180)
+		(at 25.4 63.5 180)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -7929,7 +8049,7 @@
 		)
 		(uuid "0f5f81cd-ac71-4442-a128-790d9b2996a6")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 21.6096 63.5 0)
+			(at 16.5296 63.5 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -7963,7 +8083,7 @@
 	)
 	(global_label "ETH_RX_ERR"
 		(shape output)
-		(at 30.48 48.26 180)
+		(at 25.4 48.26 180)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -7974,7 +8094,7 @@
 		)
 		(uuid "17089807-d5c9-474f-9e50-5f3eec7b62e5")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 20.7629 48.26 0)
+			(at 15.6829 48.26 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -8008,7 +8128,7 @@
 	)
 	(global_label "ETH_REF_CLK"
 		(shape output)
-		(at 30.48 66.04 180)
+		(at 25.4 66.04 180)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -8019,7 +8139,7 @@
 		)
 		(uuid "3376c1be-6a28-476c-8db3-ab6e4fe2938e")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 20.1279 66.04 0)
+			(at 15.0479 66.04 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -8166,7 +8286,7 @@
 	)
 	(global_label "ETH_TX_EN"
 		(shape input)
-		(at 30.48 33.02 180)
+		(at 25.4 33.02 180)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -8177,7 +8297,7 @@
 		)
 		(uuid "697a2a96-9be3-4f70-aa58-a28011e55daa")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 21.8213 33.02 0)
+			(at 16.7413 33.02 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -8212,7 +8332,7 @@
 	)
 	(global_label "ETH_RXD0"
 		(shape output)
-		(at 30.48 43.18 180)
+		(at 25.4 43.18 180)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -8223,7 +8343,7 @@
 		)
 		(uuid "72155b04-2bdc-498b-bc35-58563bbf7919")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 22.2868 43.18 0)
+			(at 17.2068 43.18 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -8280,7 +8400,7 @@
 	)
 	(global_label "ETH_RXD1"
 		(shape output)
-		(at 30.48 45.72 180)
+		(at 25.4 45.72 180)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -8291,7 +8411,7 @@
 		)
 		(uuid "a307d3ad-ea28-4cd7-8475-f5974f3d72bf")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 22.2868 45.72 0)
+			(at 17.2068 45.72 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -8303,7 +8423,7 @@
 	)
 	(global_label "ETH_MDC"
 		(shape input)
-		(at 30.48 55.88 180)
+		(at 25.4 55.88 180)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -8314,7 +8434,7 @@
 		)
 		(uuid "ac6a09f3-98f9-406e-93f7-6800d94ac41a")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 22.9642 55.88 0)
+			(at 17.8842 55.88 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -8349,7 +8469,7 @@
 	)
 	(global_label "ETH_MDIO"
 		(shape bidirectional)
-		(at 30.48 58.42 180)
+		(at 25.4 58.42 180)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -8360,7 +8480,7 @@
 		)
 		(uuid "bc62279e-8955-4817-aac9-361a5e5d77fb")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 21.8318 58.42 0)
+			(at 16.7518 58.42 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -8372,7 +8492,7 @@
 	)
 	(global_label "ETH_TXD0"
 		(shape input)
-		(at 30.48 35.56 180)
+		(at 25.4 35.56 180)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -8383,7 +8503,7 @@
 		)
 		(uuid "be69979b-9e7e-4561-be96-5aeaaca2b4b9")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 22.4985 35.56 0)
+			(at 17.4185 35.56 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -8395,7 +8515,7 @@
 	)
 	(global_label "ETH_CRS_DV"
 		(shape output)
-		(at 30.48 53.34 180)
+		(at 25.4 53.34 180)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -8406,7 +8526,7 @@
 		)
 		(uuid "cfb22c75-ebe4-44b6-b13e-cca852491d97")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 20.8052 53.34 0)
+			(at 15.7252 53.34 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -8418,7 +8538,7 @@
 	)
 	(global_label "ETH_TXD1"
 		(shape input)
-		(at 30.48 38.1 180)
+		(at 25.4 38.1 180)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -8429,7 +8549,7 @@
 		)
 		(uuid "d2fb58c4-756e-43dc-815d-62575d0f4729")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 22.4985 38.1 0)
+			(at 17.4185 38.1 0)
 			(effects
 				(font
 					(size 1.27 1.27)
